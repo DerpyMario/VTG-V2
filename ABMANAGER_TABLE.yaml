@@ -1,0 +1,5 @@
+-   n_ID: i32
+    s_PATH: a8
+    s_START_VERSION: a8
+    s_END_VERSION: a8
+    '#有列在這邊代表不下載': cmt
