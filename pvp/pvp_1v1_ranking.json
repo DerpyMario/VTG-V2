@@ -1,0 +1,1262 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "-18.319",
+            "fClipMaxx": "63.725",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "HWAY_BG_004",
+                    "position": {
+                        "x": "-10.73",
+                        "y": -4,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_004.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,viaduct02,-1,1,1,0,0,viaduct04,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-58.34",
+            "fClipMaxx": "260.291",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "HWAY_BG_003",
+                    "position": {
+                        "x": "-10.73",
+                        "y": -5,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_003.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,viaduct01,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-52.713",
+            "fClipMaxx": "138.669",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "HWAY_BG_002",
+                    "position": {
+                        "x": "-10.73",
+                        "y": -5,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_002.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,buil02,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-10.73",
+            "fClipMaxx": "121.235",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "HWAY_BG_001",
+                    "position": {
+                        "x": "-10.73",
+                        "y": -5,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_001.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,buil01,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-159.048",
+            "fClipMaxx": "319.557",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "HWAY_BG_000",
+                    "position": {
+                        "x": "48.27",
+                        "y": "-3.5",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_000.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,bg01,-1,1,1,0,0,bg02,-1,1,1,0,0,clound,-1,1,1,0,0,fog,-1,1,1,0,0,sky,-1,1,1,0,0,viaduct03,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-11.73",
+            "fClipMaxx": "13.27",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "sinelogo",
+                    "position": {
+                        "x": "12.51",
+                        "y": "-0.8",
+                        "z": "25.2"
+                    },
+                    "scale": {
+                        "x": "0.8",
+                        "y": "0.8",
+                        "z": "0.8"
+                    },
+                    "rotate": {
+                        "x": "0.683",
+                        "y": "0.183",
+                        "z": "-0.183",
+                        "w": "0.683"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/sinelogo.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone",
+                    "position": {
+                        "x": "12.84",
+                        "y": "-16.4",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone2",
+                    "position": {
+                        "x": "12.84",
+                        "y": "-16.4",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone2.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageLight01",
+                    "position": {
+                        "x": "6.826",
+                        "y": "2.819",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.383",
+                        "y": "-0.383",
+                        "z": "0.179",
+                        "w": "0.821"
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageLight01.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "5"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "13.27",
+            "fClipMaxx": "38.27",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StageMainCamera",
+                    "position": {
+                        "x": "25.77",
+                        "y": "-6.16",
+                        "z": -18
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageMainCamera.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "4"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_WALL_CENTER_000",
+                    "position": {
+                        "x": "21.16",
+                        "y": "3.93",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_000",
+                    "position": {
+                        "x": "21.16",
+                        "y": "8.89",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_001 (5)",
+                    "position": {
+                        "x": "34.421",
+                        "y": "-2.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_001",
+                    "position": {
+                        "x": "34.4",
+                        "y": "-8.819",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_002",
+                    "position": {
+                        "x": "26.04",
+                        "y": "-8.12",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_002.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_001",
+                    "position": {
+                        "x": "27.2",
+                        "y": "-0.5",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_001 (4)",
+                    "position": {
+                        "x": "35.2",
+                        "y": "2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-透明檔牆",
+                    "name": "StageBlockWall (1)",
+                    "position": {
+                        "x": "20.6",
+                        "y": "10.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":0;2\"B2DY\":0;2\"B2DW\":1;2\"B2DH\":45;2\"nLayer\":11;2\"nSemiBlockMode\":0}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "38.27",
+            "fClipMaxx": "63.27",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "billboard_B (2)",
+                    "position": {
+                        "x": "61.53",
+                        "y": "-3.2",
+                        "z": "-2.98"
+                    },
+                    "scale": {
+                        "x": "0.327",
+                        "y": "0.327",
+                        "z": "0.327"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/billboard_B.prefab",
+                    "bundlepath": "stage/prefab/stage_object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Screen03,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "billboard_B (1)",
+                    "position": {
+                        "x": "46.07",
+                        "y": "-3.2",
+                        "z": "-2.98"
+                    },
+                    "scale": {
+                        "x": "0.327",
+                        "y": "0.327",
+                        "z": "0.327"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/billboard_B.prefab",
+                    "bundlepath": "stage/prefab/stage_object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Screen03,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "billboard_B",
+                    "position": {
+                        "x": "53.61",
+                        "y": "-10.74",
+                        "z": "-2.98"
+                    },
+                    "scale": {
+                        "x": "0.327",
+                        "y": "0.327",
+                        "z": "0.327"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/billboard_B.prefab",
+                    "bundlepath": "stage/prefab/stage_object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Screen03,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_001 (1)",
+                    "position": {
+                        "x": "46.09",
+                        "y": "-4.82",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_001 (6)",
+                    "position": {
+                        "x": "61.921",
+                        "y": "-11.61",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_001 (2)",
+                    "position": {
+                        "x": "61.6",
+                        "y": "-4.82",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_001 (10)",
+                    "position": {
+                        "x": "62.05",
+                        "y": "-0.174",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_004",
+                    "position": {
+                        "x": "53.71",
+                        "y": "0.54",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_004.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Object001,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_002",
+                    "position": {
+                        "x": "53.65",
+                        "y": "-12.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_002.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_003",
+                    "position": {
+                        "x": "53.64",
+                        "y": "-6.95",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_003.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,FLOOR,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_OTHER_0000",
+                    "position": {
+                        "x": "50.64",
+                        "y": "-12.26",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_OTHER_0000.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_001",
+                    "position": {
+                        "x": "53.64",
+                        "y": "-2.71",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_002",
+                    "position": {
+                        "x": "39.92",
+                        "y": "-1.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_002.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Object002,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_001 (3)",
+                    "position": {
+                        "x": "45.37",
+                        "y": "-0.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_001 (2)",
+                    "position": {
+                        "x": "45.38",
+                        "y": "-11.615",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_001 (1)",
+                    "position": {
+                        "x": "39.9",
+                        "y": "-10.22",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_OTHER_0000 (1)",
+                    "position": {
+                        "x": "56.64",
+                        "y": "-12.26",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_OTHER_0000.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-透明檔牆",
+                    "name": "StageBlockWall",
+                    "position": {
+                        "x": "44.2",
+                        "y": "8.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":0;2\"B2DY\":0;2\"B2DW\":\"99.55\";2\"B2DH\":1;2\"nLayer\":11;2\"nSemiBlockMode\":0}"
+                },
+                {
+                    "sGroupID": "Group-下跳側邊",
+                    "name": "StageBlockWall_1",
+                    "position": {
+                        "x": "51.28",
+                        "y": "-6.84",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":\"-0.129\";2\"B2DY\":\"-0.298\";2\"B2DW\":\"0.742\";2\"B2DH\":\"0.404\";2\"nLayer\":12;2\"nSemiBlockMode\":-1}"
+                },
+                {
+                    "sGroupID": "Group-下跳側邊",
+                    "name": "StageBlockWall_2",
+                    "position": {
+                        "x": "56.23",
+                        "y": "-6.84",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":\"-0.129\";2\"B2DY\":\"-0.298\";2\"B2DW\":\"0.742\";2\"B2DH\":\"0.404\";2\"nLayer\":12;2\"nSemiBlockMode\":1}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "63.27",
+            "fClipMaxx": "88.27",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone",
+                    "position": {
+                        "x": "82.09",
+                        "y": "-13.97",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone2",
+                    "position": {
+                        "x": "82.09",
+                        "y": "-13.97",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone2.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_002 (1)",
+                    "position": {
+                        "x": "81.25",
+                        "y": "-8.12",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_002.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_WALL_CENTER_000 (1)",
+                    "position": {
+                        "x": "86.27",
+                        "y": "3.93",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_000 (1)",
+                    "position": {
+                        "x": "86.27",
+                        "y": "8.89",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_001 (7)",
+                    "position": {
+                        "x": "67.4",
+                        "y": "-10.215",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_001 (4)",
+                    "position": {
+                        "x": "72.89",
+                        "y": "-8.82",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_001 (8)",
+                    "position": {
+                        "x": "72.99",
+                        "y": "-2.955",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_001 (3)",
+                    "position": {
+                        "x": "80.27",
+                        "y": "-0.5",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_SLOPE_CENTER_002 (1)",
+                    "position": {
+                        "x": "67.5",
+                        "y": "-1.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_SLOPE_CENTER_002.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Object002,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "PVP_FLOOR_CENTER_001 (5)",
+                    "position": {
+                        "x": "72.27",
+                        "y": "2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/PVP_test/obj/prefabs/PVP_FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/pvp_test/obj/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-透明檔牆",
+                    "name": "StageBlockWall",
+                    "position": {
+                        "x": "87.8",
+                        "y": "12.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":0;2\"B2DY\":0;2\"B2DW\":2;2\"B2DH\":43;2\"nLayer\":11;2\"nSemiBlockMode\":0}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "88.27",
+            "fClipMaxx": "113.27",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Earth",
+                    "position": {
+                        "x": "95.57",
+                        "y": "3.9",
+                        "z": "27.08"
+                    },
+                    "scale": {
+                        "x": 5,
+                        "y": 5,
+                        "z": 5
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Earth.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "capcomll",
+                    "position": {
+                        "x": "95.57",
+                        "y": "4.12",
+                        "z": "27.04"
+                    },
+                    "scale": {
+                        "x": "5.3",
+                        "y": "5.3",
+                        "z": 10
+                    },
+                    "rotate": {
+                        "x": "-0.823",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.569"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/capcomll.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        }
+    ]
+}

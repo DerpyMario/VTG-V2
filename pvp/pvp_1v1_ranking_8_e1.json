@@ -1,0 +1,208 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "422.5",
+            "fClipMaxx": "447.5",
+            "Datas": [
+                {
+                    "sGroupID": "Group-出生點",
+                    "name": "StartPoint_L",
+                    "position": {
+                        "x": 435,
+                        "y": "-134.78",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;1;1;0;0;0"
+                },
+                {
+                    "sGroupID": "Group-鎖定鏡頭",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "442.61",
+                        "y": "-135.5",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":\"425.46\";\"fMax\":\"494.55\";\"fTop\":\"-103.92\";\"fBtn\":\"-141.96\";\"nType\":0;\"B2DX\":\"18.698\";\"B2DY\":\"6.594\";\"B2DW\":\"59.774\";\"B2DH\":\"20.198\";\"fSpeed\":10;\"nSetID\":0;\"sMsg\":\"0;0.000;1;0;0;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-BUFF",
+                    "name": "MapObjEvent_盾L",
+                    "position": {
+                        "x": "430.7",
+                        "y": -118,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":176.21991;2\"y\":22.85463;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":25.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":0;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960023}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"0\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "447.5",
+            "fClipMaxx": "472.5",
+            "Datas": [
+                {
+                    "sGroupID": "Group-BUFF",
+                    "name": "MapObjEvent_速",
+                    "position": {
+                        "x": 460,
+                        "y": -136,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":159.960022;2\"y\":45.21;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":20.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":0;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960003}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"0\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-BUFF",
+                    "name": "MapObjEvent_hp",
+                    "position": {
+                        "x": 460,
+                        "y": "-110.89",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":0.0;2\"y\":-25.11;2\"z\":2.58442014E-08};2\"fDelayTime\":0.0;2\"fMoveTime\":20.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":0;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960018}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"0\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-怪物",
+                    "name": "EnemyPoint_CannonDriverx1",
+                    "position": {
+                        "x": "459.91",
+                        "y": "-125.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ900004:0:1:20.0000:1:0:1:0.0000:0:0::0:999:0.0000:0.0000:0.0000:0:0:0:0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "472.5",
+            "fClipMaxx": "497.5",
+            "Datas": [
+                {
+                    "sGroupID": "Group-出生點",
+                    "name": "StartPoint_R",
+                    "position": {
+                        "x": 485,
+                        "y": "-134.78",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ1;1;1;1;1;0;0"
+                },
+                {
+                    "sGroupID": "Group-BUFF",
+                    "name": "MapObjEvent_盾R",
+                    "position": {
+                        "x": "489.3",
+                        "y": -118,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":117.619812;2\"y\":22.85463;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":25.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":0;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960023}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"0\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                }
+            ]
+        }
+    ]
+}

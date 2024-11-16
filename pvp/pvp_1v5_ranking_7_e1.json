@@ -1,0 +1,760 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "4.63",
+            "fClipMaxx": "29.63",
+            "Datas": [
+                {
+                    "sGroupID": "Group-基礎元件",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": "17.13",
+                        "y": "177.32",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;1;1;0;0;0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageCtrlEvent",
+                    "position": {
+                        "x": "25.7",
+                        "y": "177.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":\"-3.35\";\"B2DY\":\"0.855\";\"B2DW\":\"7.7\";\"B2DH\":\"10.367\";\"StageCtrlInsTructions\":[{\"tStageCtrl\":45;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"2;11;0;39;171.5;2;1\"};{\"tStageCtrl\":45;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"17;100004;0;41;171.5;3;0\"};{\"tStageCtrl\":45;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"21;100011;0;43;171.5;4;0\"};{\"tStageCtrl\":45;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"28;100010;0;45;171.5;5;1\"};{\"tStageCtrl\":45;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"31;100901;0;47;171.5;6;1\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"2;0;1;0\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"3;0;1;0\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"4;0;1;0\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"5;0;1;0\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"6;0;1;0\"}];\"nSetID\":0;\"bUB2D\":true;\"bDDF\":false;\"nDF\":0;\"bNoUnlockRange\":true}"
+                },
+                {
+                    "sGroupID": "道具",
+                    "name": "MapObjEvent(速度+20%)-左",
+                    "position": {
+                        "x": "26.29",
+                        "y": "182.46",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":27.379982;2\"y\":-193.76001;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":20.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":100;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960003}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "道具",
+                    "name": "MapObjEvent(預防盾)-左",
+                    "position": {
+                        "x": "23.16",
+                        "y": "196.24",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":12.0400047;2\"y\":-192.74;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":25.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":100;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960023}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "29.12",
+                        "y": "176.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.165\";\"B2DY\":\"0.682\";\"B2DW\":\"2.438\";\"B2DH\":\"4.518\";\"ReturnPoints\":[{\"x\":26.34;\"y\":177.19;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "25.2",
+                        "y": "190.78",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-0.084\";\"B2DY\":\"-0.006\";\"B2DW\":\"2.563\";\"B2DH\":\"2.356\";\"ReturnPoints\":[{\"x\":27.9800014;\"y\":190.97;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "18.18",
+                        "y": "174.82",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-0.371\";\"B2DY\":\"0.81\";\"B2DW\":\"3.039\";\"B2DH\":\"2.012\";\"ReturnPoints\":[{\"x\":18.66;\"y\":177.340012;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "29.63",
+            "fClipMaxx": "54.63",
+            "Datas": [
+                {
+                    "sGroupID": "道具",
+                    "name": "MapObjEvent(攻+20%)-中",
+                    "position": {
+                        "x": "48.35",
+                        "y": "172.73",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":-35.14;2\"y\":-161.530014;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":20.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":100;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960005}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "29.79",
+                        "y": "183.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-0.462\";\"B2DY\":\"-1.372\";\"B2DW\":\"2.495\";\"B2DH\":\"6.286\";\"ReturnPoints\":[{\"x\":26.28;\"y\":182.44;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "33.57",
+                        "y": "176.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-0.318\";\"B2DY\":\"-0.171\";\"B2DW\":\"2.6\";\"B2DH\":\"3.268\";\"ReturnPoints\":[{\"x\":36.2;\"y\":176.16;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "36.28",
+                        "y": "194.241",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.127\";\"B2DY\":\"0.064\";\"B2DW\":\"2.147\";\"B2DH\":\"4.045\";\"ReturnPoints\":[{\"x\":34.1299973;\"y\":195.210464;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "43.33",
+                        "y": "194.28",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.134\";\"B2DY\":\"0.04\";\"B2DW\":\"1.486\";\"B2DH\":\"4.12\";\"ReturnPoints\":[{\"x\":45.99;\"y\":195.27;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "53.96",
+                        "y": "194.57",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-0.615\";\"B2DY\":\"-0.274\";\"B2DW\":\"1.799\";\"B2DH\":\"4.08\";\"ReturnPoints\":[{\"x\":50.96;\"y\":195.35;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "41.53",
+                        "y": "181.07",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-0.383\";\"B2DY\":\"-1.291\";\"B2DW\":\"2.259\";\"B2DH\":\"2.22\";\"ReturnPoints\":[{\"x\":40.2899971;\"y\":176.97;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "45.19",
+                        "y": "181.07",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-1.351\";\"B2DY\":\"-1.267\";\"B2DW\":\"3.171\";\"B2DH\":\"2.182\";\"ReturnPoints\":[{\"x\":44.03;\"y\":177.040009;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "52.27",
+                        "y": "179.81",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.273\";\"B2DY\":\"-0.305\";\"B2DW\":\"2.88\";\"B2DH\":\"1.609\";\"ReturnPoints\":[{\"x\":52.27;\"y\":176.819992;\"z\":0.0}];\"sSave\":\"0;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "38.64",
+                        "y": "193.27",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.154\";\"B2DY\":\"-0.309\";\"B2DW\":\"1.825\";\"B2DH\":\"1.618\";\"ReturnPoints\":[{\"x\":37.94;\"y\":190.7;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "40.74",
+                        "y": "193.27",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-0.099\";\"B2DY\":\"-0.311\";\"B2DW\":\"1.864\";\"B2DH\":\"1.621\";\"ReturnPoints\":[{\"x\":41.420002;\"y\":190.66;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-鎖定區域",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "48.48",
+                        "y": "177.73",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":\"5.7\";\"fMax\":\"90.73\";\"fTop\":\"203.86\";\"fBtn\":\"157.28\";\"nType\":0;\"B2DX\":\"-0.289\";\"B2DY\":\"1.887\";\"B2DW\":\"66.937\";\"B2DH\":\"8.55\";\"fSpeed\":10;\"nSetID\":0;\"sMsg\":\"0;0.000;1;0;0;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-怪物",
+                    "name": "EnemyPoint_CannonDriverx1",
+                    "position": {
+                        "x": "49.01",
+                        "y": "183.21",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ900004:0:1:20.0000:1:0:1:0.0000:0:0::0:999:0.0000:0.0000:0.0000:0:0:0:0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "54.63",
+            "fClipMaxx": "79.63",
+            "Datas": [
+                {
+                    "sGroupID": "Group-基礎元件",
+                    "name": "StartPoint (1)",
+                    "position": {
+                        "x": "79.21",
+                        "y": "177.31",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ1;1;1;1;1;0;0"
+                },
+                {
+                    "sGroupID": "道具",
+                    "name": "MapObjEvent(速度+20%)-右",
+                    "position": {
+                        "x": "70.18",
+                        "y": "182.46",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":-61.46;2\"y\":-180.94;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":20.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":100;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960003}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "道具",
+                    "name": "MapObjEvent(預防盾)-右",
+                    "position": {
+                        "x": "73.16",
+                        "y": "196.24",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":-41.0700073;2\"y\":-185.61;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":25.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":100;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960023}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "60.1",
+                        "y": "194.18",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.356\";\"B2DY\":\"0.166\";\"B2DW\":\"1.711\";\"B2DH\":\"4.008\";\"ReturnPoints\":[{\"x\":62.7899971;\"y\":195.14;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "70.94",
+                        "y": "190.33",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.242\";\"B2DY\":\"0.497\";\"B2DW\":\"2.298\";\"B2DH\":\"2.589\";\"ReturnPoints\":[{\"x\":68.96;\"y\":190.98;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "67.07",
+                        "y": "182.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-0.035\";\"B2DY\":\"-0.318\";\"B2DW\":\"2.485\";\"B2DH\":\"6.199\";\"ReturnPoints\":[{\"x\":70.13;\"y\":182.51001;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "67.17",
+                        "y": "176.13",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-0.145\";\"B2DY\":\"-0.008\";\"B2DW\":\"2.51\";\"B2DH\":\"3.166\";\"ReturnPoints\":[{\"x\":69.5;\"y\":177.21;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "62.8",
+                        "y": "175.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.111\";\"B2DY\":\"0.238\";\"B2DW\":\"2.311\";\"B2DH\":\"2.396\";\"ReturnPoints\":[{\"x\":60.76;\"y\":176.150009;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "78.2",
+                        "y": "175.75",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.193\";\"B2DY\":\"-0.016\";\"B2DW\":\"2.48\";\"B2DH\":\"1.837\";\"ReturnPoints\":[{\"x\":77.86;\"y\":177.4;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "55.11",
+                        "y": "179.81",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":0;\"B2DY\":\"-0.298\";\"B2DW\":\"2.217\";\"B2DH\":\"1.621\";\"ReturnPoints\":[{\"x\":55.7;\"y\":176.89;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "55.79",
+                        "y": "193.13",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-0.033\";\"B2DY\":\"-0.247\";\"B2DW\":\"2.349\";\"B2DH\":\"1.494\";\"ReturnPoints\":[{\"x\":54.98;\"y\":190.53;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-PVP防穿牆作弊重生區",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "58.1",
+                        "y": "193.13",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"-0.038\";\"B2DY\":\"-0.247\";\"B2DW\":\"2.256\";\"B2DH\":\"1.493\";\"ReturnPoints\":[{\"x\":58.68;\"y\":190.5;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                }
+            ]
+        }
+    ]
+}

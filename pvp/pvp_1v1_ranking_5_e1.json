@@ -1,0 +1,277 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "583.99",
+            "fClipMaxx": "608.99",
+            "Datas": [
+                {
+                    "sGroupID": "Group-出生點",
+                    "name": "StartPoint_L",
+                    "position": {
+                        "x": "596.49",
+                        "y": "-99.88",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;1;1;0;0;0"
+                },
+                {
+                    "sGroupID": "Group-鎖定鏡頭",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "598.41",
+                        "y": "-99.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":\"585.69\";\"fMax\":\"654.2\";\"fTop\":\"-75.93\";\"fBtn\":\"-107.96\";\"nType\":0;\"B2DX\":\"-3.61\";\"B2DY\":\"0.304\";\"B2DW\":\"5.828\";\"B2DH\":\"7.618\";\"fSpeed\":10;\"nSetID\":0;\"sMsg\":\"0;0.000;1;0;0;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-BUFF",
+                    "name": "MapObjEvent_盾L",
+                    "position": {
+                        "x": 603,
+                        "y": "-90.71",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":3.91986084;2\"y\":-4.4353714;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":25.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":0;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960023}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"0\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "608.99",
+            "fClipMaxx": "633.99",
+            "Datas": [
+                {
+                    "sGroupID": "Group-BUFF",
+                    "name": "MapObjEvent_速",
+                    "position": {
+                        "x": "619.96",
+                        "y": "-82.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":0.0;2\"y\":-8.779999;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":20.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":0;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960003}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-pvp穿牆作弊強制傳送",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "609.97",
+                        "y": "-94.84",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.04\";\"B2DY\":\"0.658\";\"B2DW\":\"2.05\";\"B2DH\":\"3.001\";\"ReturnPoints\":[{\"x\":612.54;\"y\":-94.56;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-pvp穿牆作弊強制傳送",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "610.12",
+                        "y": "-88.53",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.122\";\"B2DY\":\"0.024\";\"B2DW\":\"1.732\";\"B2DH\":\"1.634\";\"ReturnPoints\":[{\"x\":612.279968;\"y\":-86.71;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-pvp穿牆作弊強制傳送",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "629.5",
+                        "y": "-95.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.244\";\"B2DY\":\"1.293\";\"B2DW\":\"2.021\";\"B2DH\":\"3.034\";\"ReturnPoints\":[{\"x\":627.3;\"y\":-94.71999;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-pvp穿牆作弊強制傳送",
+                    "name": "StageRebornEvent",
+                    "position": {
+                        "x": "629.49",
+                        "y": "-88.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageRebornEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "15,STAGEREBORN_OBJ{\"B2DX\":\"0.225\";\"B2DY\":\"-0.013\";\"B2DW\":\"1.82\";\"B2DH\":\"1.555\";\"ReturnPoints\":[{\"x\":627.32;\"y\":-86.7599945;\"z\":0.0}];\"sSave\":\"1;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-怪物",
+                    "name": "EnemyPoint_CannonDriverx1",
+                    "position": {
+                        "x": "620.24",
+                        "y": "-91.51",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ900004:0:1:20.0000:1:0:1:0.0000:0:0::0:999:0.0000:0.0000:0.0000:0:0:0:0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "633.99",
+            "fClipMaxx": "658.99",
+            "Datas": [
+                {
+                    "sGroupID": "Group-出生點",
+                    "name": "StartPoint_R",
+                    "position": {
+                        "x": "643.25",
+                        "y": "-99.88",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ1;1;1;1;1;0;0"
+                },
+                {
+                    "sGroupID": "Group-BUFF",
+                    "name": "MapObjEvent_盾R",
+                    "position": {
+                        "x": "636.83",
+                        "y": "-90.71",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":-29.9101563;2\"y\":-4.4353714;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":25.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":0;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960023}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                }
+            ]
+        }
+    ]
+}

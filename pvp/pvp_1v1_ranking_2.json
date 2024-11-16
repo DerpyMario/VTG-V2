@@ -1,0 +1,2578 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": -135,
+            "fClipMaxx": 45,
+            "Datas": [
+                {
+                    "sGroupID": "BG",
+                    "name": "BG_cloud01_01",
+                    "position": {
+                        "x": -45,
+                        "y": "-73.9",
+                        "z": 140
+                    },
+                    "scale": {
+                        "x": 10,
+                        "y": 15,
+                        "z": 10
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_cloud01_01.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,BG_cloud_a_01,-1,1,1,0,0,BG_cloud_b_01,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "44.9",
+            "fClipMaxx": "224.9",
+            "Datas": [
+                {
+                    "sGroupID": "BG",
+                    "name": "BG_cloud01_01 (1)",
+                    "position": {
+                        "x": "134.9",
+                        "y": "-73.9",
+                        "z": 140
+                    },
+                    "scale": {
+                        "x": 10,
+                        "y": 15,
+                        "z": 10
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_cloud01_01.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,BG_cloud_a_01,-1,1,1,0,0,BG_cloud_b_01,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-166.968",
+            "fClipMaxx": "265.608",
+            "Datas": [
+                {
+                    "sGroupID": "BG",
+                    "name": "BG_sky02_01",
+                    "position": {
+                        "x": "49.32",
+                        "y": "-31.3",
+                        "z": 290
+                    },
+                    "scale": {
+                        "x": "12.016",
+                        "y": 1,
+                        "z": "1.8"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_sky02_01.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "26.55",
+            "fClipMaxx": "50.303",
+            "Datas": [
+                {
+                    "sGroupID": "中間戰場",
+                    "name": "OTHER05_002",
+                    "position": {
+                        "x": "38.42",
+                        "y": "-15.27",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": "1.47",
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER05_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,glass,-1,1,1,0,0,OTHER05_002A,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 4,
+            "fClipMaxx": 29,
+            "Datas": [
+                {
+                    "sGroupID": "BG",
+                    "name": "BG_02_002",
+                    "position": {
+                        "x": "26.27",
+                        "y": "-11.2",
+                        "z": "8.13"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_02_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "BG",
+                    "name": "BG_02_001 (2)",
+                    "position": {
+                        "x": "4.9",
+                        "y": "-24.2",
+                        "z": "22.3"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.167",
+                        "y": "0.687",
+                        "z": "0.687",
+                        "w": "-0.167"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,BG_02_001A,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-左",
+                    "name": "FLOOR02_003 (4)",
+                    "position": {
+                        "x": "5.62",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-左",
+                    "name": "FLOOR02_003 (5)",
+                    "position": {
+                        "x": "7.61",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-左",
+                    "name": "FLOOR02_003 (6)",
+                    "position": {
+                        "x": "9.6",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-左",
+                    "name": "FLOOR02_003",
+                    "position": {
+                        "x": "13.53",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-左",
+                    "name": "FLOOR02_003 (1)",
+                    "position": {
+                        "x": "15.52",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-左",
+                    "name": "FLOOR02_003 (2)",
+                    "position": {
+                        "x": "17.51",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-左",
+                    "name": "FLOOR02_003 (7)",
+                    "position": {
+                        "x": "11.59",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-左",
+                    "name": "FLOOR02_001",
+                    "position": {
+                        "x": "21.49",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-左",
+                    "name": "FLOOR02_003 (3)",
+                    "position": {
+                        "x": "19.5",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-左",
+                    "name": "OTHER04_002",
+                    "position": {
+                        "x": "24.39",
+                        "y": "-5.73",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.95",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-左",
+                    "name": "OTHER04_001",
+                    "position": {
+                        "x": "24.39",
+                        "y": "-3.24",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.95",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "左右檔牆",
+                    "name": "StageBlockWall",
+                    "position": {
+                        "x": "8.5",
+                        "y": "13.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":0;2\"B2DY\":0;2\"B2DW\":5;2\"B2DH\":30;2\"nLayer\":11;2\"nSemiBlockMode\":0}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageMainCamera",
+                    "position": {
+                        "x": "17.42",
+                        "y": "1.89",
+                        "z": -18
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageMainCamera.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "4"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001",
+                    "position": {
+                        "x": "18.27",
+                        "y": "1.56",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (6)",
+                    "position": {
+                        "x": "18.27",
+                        "y": "4.762",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (1)",
+                    "position": {
+                        "x": "23.746",
+                        "y": "1.56",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001",
+                    "position": {
+                        "x": "19.81",
+                        "y": "5.969",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (1)",
+                    "position": {
+                        "x": "19.81",
+                        "y": "3.571",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (2)",
+                    "position": {
+                        "x": "22.182",
+                        "y": "3.571",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (3)",
+                    "position": {
+                        "x": "22.183",
+                        "y": "5.969",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "FLOOR05_003 (2)",
+                    "position": {
+                        "x": "17.83",
+                        "y": "10.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "FLOOR05_004 (3)",
+                    "position": {
+                        "x": "23.1",
+                        "y": "10.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR05_004.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "FLOOR05_003 (3)",
+                    "position": {
+                        "x": "24.8",
+                        "y": "10.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "FLOOR05_004 (5)",
+                    "position": {
+                        "x": "21.31",
+                        "y": "10.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR05_004.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (7)",
+                    "position": {
+                        "x": "23.746",
+                        "y": "4.762",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (8)",
+                    "position": {
+                        "x": "18.27",
+                        "y": "7.946",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (4)",
+                    "position": {
+                        "x": "19.81",
+                        "y": "8.36",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (5)",
+                    "position": {
+                        "x": "22.183",
+                        "y": "8.36",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (9)",
+                    "position": {
+                        "x": "23.746",
+                        "y": "7.946",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "FLOOR05_004 (6)",
+                    "position": {
+                        "x": "19.52",
+                        "y": "10.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR05_004.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (2)",
+                    "position": {
+                        "x": "18.27",
+                        "y": "-8.023",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (10)",
+                    "position": {
+                        "x": "18.27",
+                        "y": "-4.821",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (3)",
+                    "position": {
+                        "x": "23.746",
+                        "y": "-8.023",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (11)",
+                    "position": {
+                        "x": "23.746",
+                        "y": "-4.821",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (12)",
+                    "position": {
+                        "x": "18.27",
+                        "y": "-1.637",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (13)",
+                    "position": {
+                        "x": "23.746",
+                        "y": "-1.637",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (6)",
+                    "position": {
+                        "x": "19.81",
+                        "y": "-1.22",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (7)",
+                    "position": {
+                        "x": "19.81",
+                        "y": "-3.618",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (8)",
+                    "position": {
+                        "x": "22.182",
+                        "y": "-3.618",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (9)",
+                    "position": {
+                        "x": "22.183",
+                        "y": "-1.22",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (10)",
+                    "position": {
+                        "x": "19.81",
+                        "y": "1.171",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (11)",
+                    "position": {
+                        "x": "22.183",
+                        "y": "1.171",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (18)",
+                    "position": {
+                        "x": "19.81",
+                        "y": "-8.4",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (21)",
+                    "position": {
+                        "x": "22.183",
+                        "y": "-8.4",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (22)",
+                    "position": {
+                        "x": "19.81",
+                        "y": "-6.009",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (23)",
+                    "position": {
+                        "x": "22.183",
+                        "y": "-6.009",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "OTHER04_002 (1)",
+                    "position": {
+                        "x": "24.39",
+                        "y": "-8.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.95",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 29,
+            "fClipMaxx": 54,
+            "Datas": [
+                {
+                    "sGroupID": "BG",
+                    "name": "BG_02_001",
+                    "position": {
+                        "x": "44.26",
+                        "y": "-17.8",
+                        "z": "16.22"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.127",
+                        "y": "0.696",
+                        "z": "0.696",
+                        "w": "-0.127"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,BG_02_001A,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "BG",
+                    "name": "BG_02_003",
+                    "position": {
+                        "x": "47.95",
+                        "y": "0.93",
+                        "z": "6.84"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.273",
+                        "y": "0.652",
+                        "z": "0.652",
+                        "w": "-0.273"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "BG",
+                    "name": "BG_02_003 (1)",
+                    "position": {
+                        "x": "47.95",
+                        "y": "0.93",
+                        "z": "6.84"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "0.273",
+                        "y": "0.652",
+                        "z": "0.652",
+                        "w": "-0.273"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "中間戰場",
+                    "name": "FLOOR04_001",
+                    "position": {
+                        "x": "30.195",
+                        "y": "1.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": "-0.8",
+                        "z": "1.3"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,FLOOR04_001A,-1,1,1,0,0,FLOOR04_001B,-1,1,1,0,0,glass,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "中間戰場",
+                    "name": "FLOOR04_002",
+                    "position": {
+                        "x": "35.85",
+                        "y": "1.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": "1.6",
+                        "y": "-0.8",
+                        "z": "1.3"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR04_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,FLOOR04_002A,-1,1,1,0,0,FLOOR04_002B,-1,1,1,0,0,glass,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "中間戰場",
+                    "name": "FLOOR04_002 (1)",
+                    "position": {
+                        "x": "40.95",
+                        "y": "1.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": "1.6",
+                        "y": "-0.8",
+                        "z": "1.3"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR04_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,FLOOR04_002A,-1,1,1,0,0,FLOOR04_002B,-1,1,1,0,0,glass,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "中間戰場",
+                    "name": "FLOOR04_001 (1)",
+                    "position": {
+                        "x": "46.6",
+                        "y": "1.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "-0.8",
+                        "z": "1.3"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,FLOOR04_001A,-1,1,1,0,0,FLOOR04_001B,-1,1,1,0,0,glass,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "左右檔牆",
+                    "name": "StageBlockWall (2)",
+                    "position": {
+                        "x": "38.9",
+                        "y": "24.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":0;2\"B2DY\":0;2\"B2DW\":60;2\"B2DH\":5;2\"nLayer\":11;2\"nSemiBlockMode\":0}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageLight01",
+                    "position": {
+                        "x": "45.3",
+                        "y": "27.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.383",
+                        "y": "-0.383",
+                        "z": "0.179",
+                        "w": "0.821"
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageLight01.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "5"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (4)",
+                    "position": {
+                        "x": "53.13",
+                        "y": "-8.023",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (14)",
+                    "position": {
+                        "x": "53.13",
+                        "y": "-4.821",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (15)",
+                    "position": {
+                        "x": "53.13",
+                        "y": "-1.637",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "OTHER04_002",
+                    "position": {
+                        "x": "52.423",
+                        "y": "-5.73",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.95",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "OTHER04_001",
+                    "position": {
+                        "x": "52.423",
+                        "y": "-3.24",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.95",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "OTHER04_002 (2)",
+                    "position": {
+                        "x": "52.423",
+                        "y": "-8.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.95",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR02_001 (2)",
+                    "position": {
+                        "x": "53.13",
+                        "y": "1.56",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR02_001 (10)",
+                    "position": {
+                        "x": "53.13",
+                        "y": "4.762",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "FLOOR05_003 (4)",
+                    "position": {
+                        "x": "51.953",
+                        "y": "10.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR02_001 (12)",
+                    "position": {
+                        "x": "53.13",
+                        "y": "7.946",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "FLOOR05_004 (8)",
+                    "position": {
+                        "x": "53.643",
+                        "y": "10.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR05_004.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 54,
+            "fClipMaxx": 79,
+            "Datas": [
+                {
+                    "sGroupID": "BG",
+                    "name": "BG_02_001 (1)",
+                    "position": {
+                        "x": "69.12",
+                        "y": "-12.46",
+                        "z": "22.3"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.649",
+                        "y": "0.28",
+                        "z": "0.28",
+                        "w": "0.649"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,BG_02_001A,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "BG",
+                    "name": "BG_02_002 (1)",
+                    "position": {
+                        "x": "65.04",
+                        "y": "-15.49",
+                        "z": "-4.46"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.133",
+                        "y": "0.694",
+                        "z": "0.694",
+                        "w": "0.133"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_02_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "左右檔牆",
+                    "name": "StageBlockWall (1)",
+                    "position": {
+                        "x": "68.603",
+                        "y": "13.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":0;2\"B2DY\":0;2\"B2DW\":5;2\"B2DH\":30;2\"nLayer\":11;2\"nSemiBlockMode\":0}"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (5)",
+                    "position": {
+                        "x": "58.606",
+                        "y": "-8.023",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (16)",
+                    "position": {
+                        "x": "58.606",
+                        "y": "-4.821",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR02_001 (17)",
+                    "position": {
+                        "x": "58.606",
+                        "y": "-1.637",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (12)",
+                    "position": {
+                        "x": "54.67",
+                        "y": "-1.22",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (13)",
+                    "position": {
+                        "x": "54.67",
+                        "y": "-3.618",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (14)",
+                    "position": {
+                        "x": "57.042",
+                        "y": "-3.618",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (15)",
+                    "position": {
+                        "x": "57.043",
+                        "y": "-1.22",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (16)",
+                    "position": {
+                        "x": "54.67",
+                        "y": "1.171",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (17)",
+                    "position": {
+                        "x": "57.043",
+                        "y": "1.171",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (24)",
+                    "position": {
+                        "x": "54.67",
+                        "y": "-8.4",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (27)",
+                    "position": {
+                        "x": "57.043",
+                        "y": "-8.4",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (28)",
+                    "position": {
+                        "x": "54.67",
+                        "y": "-6.009",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-左",
+                    "name": "PILLAR04_001 (29)",
+                    "position": {
+                        "x": "57.043",
+                        "y": "-6.009",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "FLOOR02_003",
+                    "position": {
+                        "x": "57.293",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "FLOOR02_001",
+                    "position": {
+                        "x": "55.293",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "FLOOR02_003 (1)",
+                    "position": {
+                        "x": "59.293",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "FLOOR02_003 (2)",
+                    "position": {
+                        "x": "61.293",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "FLOOR02_003 (3)",
+                    "position": {
+                        "x": "63.293",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "FLOOR02_003",
+                    "position": {
+                        "x": "65.223",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "FLOOR02_003 (1)",
+                    "position": {
+                        "x": "67.213",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "FLOOR02_003 (2)",
+                    "position": {
+                        "x": "69.203",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "地板物件-右",
+                    "name": "FLOOR02_003 (3)",
+                    "position": {
+                        "x": "71.193",
+                        "y": "0.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR04_001 (6)",
+                    "position": {
+                        "x": "54.67",
+                        "y": "5.969",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR04_001 (7)",
+                    "position": {
+                        "x": "54.67",
+                        "y": "3.571",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR04_001 (8)",
+                    "position": {
+                        "x": "57.042",
+                        "y": "3.571",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR04_001 (9)",
+                    "position": {
+                        "x": "57.043",
+                        "y": "5.969",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "FLOOR05_004 (4)",
+                    "position": {
+                        "x": "57.223",
+                        "y": "10.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR05_004.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "FLOOR05_004 (7)",
+                    "position": {
+                        "x": "55.433",
+                        "y": "10.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR05_004.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR04_001 (10)",
+                    "position": {
+                        "x": "54.67",
+                        "y": "8.36",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR04_001 (11)",
+                    "position": {
+                        "x": "57.043",
+                        "y": "8.36",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR04_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR02_001 (3)",
+                    "position": {
+                        "x": "58.606",
+                        "y": "1.56",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "FLOOR05_003 (5)",
+                    "position": {
+                        "x": "58.923",
+                        "y": "10.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.8",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR02_001 (11)",
+                    "position": {
+                        "x": "58.606",
+                        "y": "4.762",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "天空物件-右",
+                    "name": "PILLAR02_001 (13)",
+                    "position": {
+                        "x": "58.606",
+                        "y": "7.946",
+                        "z": "2.937"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/PILLAR02_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "20.06",
+            "fClipMaxx": "45.06",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "EnemyPoint",
+                    "position": {
+                        "x": "27.16",
+                        "y": "0.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ900001:0:1:25.0000:1:0:0:0.0000:0:0::0:999:0.0000:0.0000:0.0000:0:0:0:0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "24.84",
+                        "y": "-7.39",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":\"15.59\";\"fMax\":\"92.06\";\"fTop\":\"9.2\";\"fBtn\":\"-16.79\";\"nType\":0;\"B2DX\":\"28.674\";\"B2DY\":\"3.754\";\"B2DW\":\"70.738\";\"B2DH\":\"9.082\";\"fSpeed\":10;\"nSetID\":0;\"sMsg\":\"0;0.000;1;0;0;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": "26.16",
+                        "y": "-6.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;1;1;0;0;0"
+                },
+                {
+                    "sGroupID": "Group-場地道具",
+                    "name": "MapObjEvent",
+                    "position": {
+                        "x": "35.2",
+                        "y": "3.5",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":3.72785568;2\"y\":-3.69154334;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":15.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":100;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960003}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"0\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域",
+                    "name": "DeadAreaEvent",
+                    "position": {
+                        "x": "21.06",
+                        "y": "-13.57",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": "2.43",
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"0.225\";\"B2DY\":0;\"B2DW\":\"21.347\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":26.5263748;\"y\":-7.2699995;\"z\":0.0}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "45.06",
+            "fClipMaxx": "70.06",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "EnemyPoint",
+                    "position": {
+                        "x": "53.11",
+                        "y": "3.15",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ900002:0:1:50.0000:1:0:0:0.0000:0:0::0:999:0.0000:0.0000:0.0000:0:0:0:0"
+                },
+                {
+                    "sGroupID": "Group-場地道具",
+                    "name": "MapObjEvent (2)",
+                    "position": {
+                        "x": "53.67",
+                        "y": "-11.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":18.590004;2\"y\":14.8;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":20.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":100;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960018}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"0\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-場地道具",
+                    "name": "MapObjEvent",
+                    "position": {
+                        "x": "53.67",
+                        "y": "-1.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":-18.4699974;2\"y\":5.09;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":20.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":0;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960023}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"0\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域",
+                    "name": "DeadAreaEvent (1)",
+                    "position": {
+                        "x": "51.85",
+                        "y": "-13.54",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"2.496\";\"B2DY\":0;\"B2DW\":\"16.806\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":53.6099968;\"y\":-9.13;\"z\":0.0}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "70.06",
+            "fClipMaxx": "95.06",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "MapObjEvent (1)",
+                    "position": {
+                        "x": "79.91",
+                        "y": "-5.008",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ1{\"mapEvent\":10;1\"MoveToPos\":{\"x\":0.0;1\"y\":0.0;1\"z\":0.0};1\"fDelayTime\":36.0;1\"fMoveTime\":36.0;1\"bLoop\":false;1\"nType\":0;1\"bCheckPlayer\":true;1\"bCheckEnemy\":false;1\"bCheckRideObj\":true;1\"bRunAtInit\":false;1\"bUB2D\":true;1\"nCommonBit\":0;1\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;1\\\"y\\\":0;1\\\"z\\\":0};1\\\"fMoveTime\\\":100;1\\\"fDT\\\":0;1\\\"nIntParam1\\\":960003}];1\\\"listMutliAni\\\":[];1\\\"nBitParam0\\\":0}\";1\"bmge\":\"\";1\"nSetID\":0;1\"mspd\":{\"keys\":[];1\"length\":0;1\"preWrapMode\":8;1\"postWrapMode\":8};1\"B2DX\":-26.4596329;1\"B2DY\":1.93540478;1\"B2DW\":69.17264;1\"B2DH\":21.7888737;1\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint (1)",
+                    "position": {
+                        "x": "81.26",
+                        "y": "-6.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ1;1;1;1;1;0;0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "EnemyPoint (1)",
+                    "position": {
+                        "x": "80.26",
+                        "y": "0.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ900001:1:1:25.0000:1:0:0:0.0000:0:0::0:999:0.0000:0.0000:0.0000:0:0:0:0"
+                },
+                {
+                    "sGroupID": "Group-場地道具",
+                    "name": "MapObjEvent (1)",
+                    "position": {
+                        "x": "72.26",
+                        "y": "3.5",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":16;2\"MoveToPos\":{\"x\":-37.06;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":15.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":100;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960003}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"0\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域",
+                    "name": "DeadAreaEvent (4)",
+                    "position": {
+                        "x": "71.6",
+                        "y": "-13.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": "2.078",
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"5.984\";\"B2DY\":0;\"B2DW\":\"23.782\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":81.1386261;\"y\":-6.66000032;\"z\":0.0}]}"
+                }
+            ]
+        }
+    ]
+}
