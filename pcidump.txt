@@ -1,0 +1,1799 @@
+# dmidecode 3.6
+Getting SMBIOS data from sysfs.
+SMBIOS 3.2.0 present.
+
+Handle 0x0001, DMI type 1, 27 bytes
+System Information
+	Manufacturer: HP
+	Product Name: HP Laptop 14s-dk0xxx
+	Version:
+	Serial Number: 5CG9256F3M
+	UUID: 7b63bed7-1db1-4e48-b814-25de77bf912d
+	Wake-up Type: Power Switch
+	SKU Number: 7QZ52PA#ACJ
+	Family: 103C_5335KV HP Notebook
+
+Handle 0x0006, DMI type 32, 20 bytes
+System Boot Information
+	Status: No errors detected
+
+hp-hp-laptop-14s-dk0xxx
+    description: Notebook
+    product: HP Laptop 14s-dk0xxx (7QZ52PA#ACJ)
+    vendor: HP
+    version: Chassis Version
+    serial: 5CG9256F3M
+    width: 64 bits
+    capabilities: smbios-3.2.0 dmi-3.2.0 smp vsyscall32
+    configuration: boot=normal chassis=notebook family=103C_5335KV HP Notebook sku=7QZ52PA#ACJ uuid=7b63bed7-1db1-4e48-b814-25de77bf912d
+  *-core
+       description: Motherboard
+       product: 85E0
+       vendor: HP
+       physical id: 0
+       version: 84.54
+       serial: PJACR00WBCF167
+       slot: Base Board Chassis Location
+     *-firmware
+          description: BIOS
+          vendor: AMI
+          physical id: 0
+          version: F.71
+          date: 11/22/2023
+          size: 64KiB
+          capacity: 16MiB
+          capabilities: pci upgrade shadowing cdboot bootselect edd int13floppy1200 int13floppy720 int13floppy2880 int5printscreen int9keyboard int14serial int17printer acpi usb smartbattery biosbootspecification netboot uefi
+     *-memory
+          description: System Memory
+          physical id: 9
+          slot: System board or motherboard
+          size: 8GiB
+        *-bank:0
+             description: SODIMM DDR4 Synchronous Unbuffered (Unregistered) 2400 MHz (0.4 ns)
+             product: HMA81GS6AFR8N-UH
+             vendor: Hynix
+             physical id: 0
+             serial: 2E51C7D0
+             slot: Bottom - Slot 1 (left)
+             size: 8GiB
+             width: 64 bits
+             clock: 2400MHz (0.4ns)
+        *-bank:1
+             description: SODIMM [empty]
+             product: Unknown
+             vendor: Unknown
+             physical id: 1
+             serial: Unknown
+             slot: Bottom - Slot 2 (right)
+     *-cache:0
+          description: L1 cache
+          physical id: b
+          slot: L1 - Cache
+          size: 384KiB
+          capacity: 384KiB
+          clock: 1GHz (1.0ns)
+          capabilities: pipeline-burst internal write-back unified
+          configuration: level=1
+     *-cache:1
+          description: L2 cache
+          physical id: c
+          slot: L2 - Cache
+          size: 2MiB
+          capacity: 2MiB
+          clock: 1GHz (1.0ns)
+          capabilities: pipeline-burst internal write-back unified
+          configuration: level=2
+     *-cache:2
+          description: L3 cache
+          physical id: d
+          slot: L3 - Cache
+          size: 4MiB
+          capacity: 4MiB
+          clock: 1GHz (1.0ns)
+          capabilities: pipeline-burst internal write-back unified
+          configuration: level=3
+     *-cpu
+          description: CPU
+          product: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+          vendor: Advanced Micro Devices [AMD]
+          physical id: e
+          bus info: cpu@0
+          version: 23.24.1
+          serial: Unknown
+          slot: FP5
+          size: 1197MHz
+          capacity: 3700MHz
+          width: 64 bits
+          clock: 100MHz
+          capabilities: lm fpu fpu_exception wp vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp x86-64 constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf rapl pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate ssbd ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca sev sev_es cpufreq
+          configuration: cores=4 enabledcores=4 microcode=135299337 threads=8
+     *-pci:0
+          description: Host bridge
+          product: Raven/Raven2 Root Complex
+          vendor: Advanced Micro Devices, Inc. [AMD]
+          physical id: 100
+          bus info: pci@0000:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+        *-pci:0
+             description: PCI bridge
+             product: Raven/Raven2 PCIe GPP Bridge [6:0]
+             vendor: Advanced Micro Devices, Inc. [AMD]
+             physical id: 1.6
+             bus info: pci@0000:00:01.6
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci pm pciexpress msi ht normal_decode bus_master cap_list
+             configuration: driver=pcieport
+             resources: irq:25 ioport:f000(size=4096) memory:fcf00000-fcffffff
+           *-network
+                description: Ethernet interface
+                product: RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller
+                vendor: Realtek Semiconductor Co., Ltd.
+                physical id: 0
+                bus info: pci@0000:01:00.0
+                logical name: eno1
+                version: 15
+                serial: 80:e8:2c:b5:70:c5
+                size: 100Mbit/s
+                capacity: 1Gbit/s
+                width: 64 bits
+                clock: 33MHz
+                capabilities: pm msi pciexpress msix bus_master cap_list ethernet physical tp mii 10bt 10bt-fd 100bt 100bt-fd 1000bt-fd autonegotiation
+                configuration: autonegotiation=on broadcast=yes driver=r8169 driverversion=6.11.0-13-generic duplex=full firmware=rtl8168h-2_0.0.2 02/26/15 ip=192.168.100.151 latency=0 link=yes multicast=yes port=twisted pair speed=100Mbit/s
+                resources: irq:39 ioport:f000(size=256) memory:fcf04000-fcf04fff memory:fcf00000-fcf03fff
+        *-pci:1
+             description: PCI bridge
+             product: Raven/Raven2 PCIe GPP Bridge [6:0]
+             vendor: Advanced Micro Devices, Inc. [AMD]
+             physical id: 1.7
+             bus info: pci@0000:00:01.7
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci pm pciexpress msi ht normal_decode bus_master cap_list
+             configuration: driver=pcieport
+             resources: irq:26 ioport:e000(size=4096) memory:fce00000-fcefffff
+           *-network DISABLED
+                description: Wireless interface
+                product: RTL8723DE 802.11b/g/n PCIe Adapter
+                vendor: Realtek Semiconductor Co., Ltd.
+                physical id: 0
+                bus info: pci@0000:02:00.0
+                logical name: wlp2s0
+                version: 00
+                serial: 80:91:33:2d:2d:db
+                width: 64 bits
+                clock: 33MHz
+                capabilities: pm msi pciexpress bus_master cap_list ethernet physical wireless
+                configuration: broadcast=yes driver=rtw_8723de driverversion=6.11.0-13-generic firmware=N/A latency=0 link=no multicast=yes wireless=IEEE 802.11
+                resources: irq:55 ioport:e000(size=256) memory:fce00000-fce0ffff
+        *-pci:2
+             description: PCI bridge
+             product: Raven/Raven2 Internal PCIe GPP Bridge 0 to Bus A
+             vendor: Advanced Micro Devices, Inc. [AMD]
+             physical id: 8.1
+             bus info: pci@0000:00:08.1
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci pm pciexpress msi normal_decode bus_master cap_list
+             configuration: driver=pcieport
+             resources: irq:27 ioport:d000(size=4096) memory:fc900000-fccfffff ioport:1fe0000000(size=270532608)
+           *-display
+                description: VGA compatible controller
+                product: Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]
+                vendor: Advanced Micro Devices, Inc. [AMD/ATI]
+                physical id: 0
+                bus info: pci@0000:03:00.0
+                logical name: /dev/fb0
+                version: c2
+                width: 64 bits
+                clock: 33MHz
+                capabilities: pm pciexpress msi msix vga_controller bus_master cap_list fb
+                configuration: depth=32 driver=amdgpu latency=0 mode=1920x1080 resolution=1920,1080 visual=truecolor xres=1920 yres=1080
+                resources: iomemory:1f0-1ef iomemory:1f0-1ef irq:24 memory:1fe0000000-1fefffffff memory:1ff0000000-1ff01fffff ioport:d000(size=256) memory:fcc00000-fcc7ffff
+           *-multimedia:0
+                description: Audio device
+                product: Raven/Raven2/Fenghuang HDMI/DP Audio Controller
+                vendor: Advanced Micro Devices, Inc. [AMD/ATI]
+                physical id: 0.1
+                bus info: pci@0000:03:00.1
+                logical name: card0
+                logical name: /dev/snd/controlC0
+                logical name: /dev/snd/hwC0D0
+                logical name: /dev/snd/pcmC0D3p
+                version: 00
+                width: 32 bits
+                clock: 33MHz
+                capabilities: pm pciexpress msi bus_master cap_list
+                configuration: driver=snd_hda_intel latency=0
+                resources: irq:56 memory:fccc8000-fcccbfff
+              *-input
+                   product: HD-Audio Generic HDMI/DP,pcm=3
+                   physical id: 0
+                   logical name: input13
+                   logical name: /dev/input/event9
+           *-generic
+                description: Encryption controller
+                product: Family 17h (Models 10h-1fh) Platform Security Processor
+                vendor: Advanced Micro Devices, Inc. [AMD]
+                physical id: 0.2
+                bus info: pci@0000:03:00.2
+                version: 00
+                width: 32 bits
+                clock: 33MHz
+                capabilities: pm pciexpress msi msix bus_master cap_list
+                configuration: driver=ccp latency=0
+                resources: irq:40 memory:fcb00000-fcbfffff memory:fcccc000-fcccdfff
+           *-usb:0
+                description: USB controller
+                product: Raven USB 3.1
+                vendor: Advanced Micro Devices, Inc. [AMD]
+                physical id: 0.3
+                bus info: pci@0000:03:00.3
+                version: 00
+                width: 64 bits
+                clock: 33MHz
+                capabilities: pm pciexpress msi msix xhci bus_master cap_list
+                configuration: driver=xhci_hcd latency=0
+                resources: irq:30 memory:fca00000-fcafffff
+              *-usbhost:0
+                   product: xHCI Host Controller
+                   vendor: Linux 6.11.0-13-generic xhci-hcd
+                   physical id: 0
+                   bus info: usb@1
+                   logical name: usb1
+                   version: 6.11
+                   capabilities: usb-2.00
+                   configuration: driver=hub slots=4 speed=480Mbit/s
+                 *-usb
+                      description: Video
+                      product: HP TrueVision HD Camera
+                      vendor: SunplusIT Inc
+                      physical id: 4
+                      bus info: usb@1:4
+                      version: 0.05
+                      capabilities: usb-2.01
+                      configuration: driver=uvcvideo maxpower=500mA speed=480Mbit/s
+              *-usbhost:1
+                   product: xHCI Host Controller
+                   vendor: Linux 6.11.0-13-generic xhci-hcd
+                   physical id: 1
+                   bus info: usb@2
+                   logical name: usb2
+                   version: 6.11
+                   capabilities: usb-3.10
+                   configuration: driver=hub slots=4 speed=10000Mbit/s
+           *-usb:1
+                description: USB controller
+                product: Raven USB 3.1
+                vendor: Advanced Micro Devices, Inc. [AMD]
+                physical id: 0.4
+                bus info: pci@0000:03:00.4
+                version: 00
+                width: 64 bits
+                clock: 33MHz
+                capabilities: pm pciexpress msi msix xhci bus_master cap_list
+                configuration: driver=xhci_hcd latency=0
+                resources: irq:24 memory:fc900000-fc9fffff
+              *-usbhost:0
+                   product: xHCI Host Controller
+                   vendor: Linux 6.11.0-13-generic xhci-hcd
+                   physical id: 0
+                   bus info: usb@3
+                   logical name: usb3
+                   version: 6.11
+                   capabilities: usb-2.00
+                   configuration: driver=hub slots=2 speed=480Mbit/s
+              *-usbhost:1
+                   product: xHCI Host Controller
+                   vendor: Linux 6.11.0-13-generic xhci-hcd
+                   physical id: 1
+                   bus info: usb@4
+                   logical name: usb4
+                   version: 6.11
+                   capabilities: usb-3.10
+                   configuration: driver=hub slots=1 speed=10000Mbit/s
+           *-multimedia:1
+                description: Multimedia controller
+                product: ACP/ACP3X/ACP6x Audio Coprocessor
+                vendor: Advanced Micro Devices, Inc. [AMD]
+                physical id: 0.5
+                bus info: pci@0000:03:00.5
+                version: 00
+                width: 32 bits
+                clock: 33MHz
+                capabilities: pm pciexpress msi bus_master cap_list
+                configuration: driver=snd_pci_acp3x latency=0
+                resources: irq:51 memory:fcc80000-fccbffff
+           *-multimedia:2
+                description: Audio device
+                product: Family 17h/19h HD Audio Controller
+                vendor: Advanced Micro Devices, Inc. [AMD]
+                physical id: 0.6
+                bus info: pci@0000:03:00.6
+                logical name: card1
+                logical name: /dev/snd/controlC1
+                logical name: /dev/snd/hwC1D0
+                logical name: /dev/snd/pcmC1D0c
+                logical name: /dev/snd/pcmC1D0p
+                version: 00
+                width: 32 bits
+                clock: 33MHz
+                capabilities: pm pciexpress msi bus_master cap_list
+                configuration: driver=snd_hda_intel latency=0
+                resources: irq:57 memory:fccc0000-fccc7fff
+              *-input:0
+                   product: HD-Audio Generic Mic
+                   physical id: 0
+                   logical name: input14
+                   logical name: /dev/input/event10
+              *-input:1
+                   product: HD-Audio Generic Headphone
+                   physical id: 1
+                   logical name: input15
+                   logical name: /dev/input/event11
+        *-pci:3
+             description: PCI bridge
+             product: Raven/Raven2 Internal PCIe GPP Bridge 0 to Bus B
+             vendor: Advanced Micro Devices, Inc. [AMD]
+             physical id: 8.2
+             bus info: pci@0000:00:08.2
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci pm pciexpress msi normal_decode bus_master cap_list
+             configuration: driver=pcieport
+             resources: irq:28 memory:fcd00000-fcdfffff
+           *-sata
+                description: SATA controller
+                product: FCH SATA Controller [AHCI mode]
+                vendor: Advanced Micro Devices, Inc. [AMD]
+                physical id: 0
+                bus info: pci@0000:04:00.0
+                logical name: scsi1
+                version: 61
+                width: 32 bits
+                clock: 33MHz
+                capabilities: sata pm pciexpress msi ahci_1.0 bus_master cap_list emulated
+                configuration: driver=ahci latency=0
+                resources: irq:41 memory:fcd00000-fcd007ff
+              *-disk
+                   description: ATA Disk
+                   product: KINGSTON SA400S3
+                   physical id: 0.0.0
+                   bus info: scsi@1:0.0.0
+                   logical name: /dev/sda
+                   version: 0103
+                   serial: 50026B768580442B
+                   size: 447GiB (480GB)
+                   capabilities: gpt-1.00 partitioned partitioned:gpt
+                   configuration: ansiversion=5 guid=ea82c492-8889-45ee-896b-2597b86dae69 logicalsectorsize=512 sectorsize=512
+                 *-volume:0 UNCLAIMED
+                      description: Windows FAT volume
+                      vendor: MSDOS5.0
+                      physical id: 1
+                      bus info: scsi@1:0.0.0,1
+                      version: FAT32
+                      serial: a062-6eb8
+                      size: 1020MiB
+                      capacity: 1023MiB
+                      capabilities: boot nomount fat initialized
+                      configuration: FATs=2 filesystem=fat label=SYSTEM name=EFI system partition
+                 *-volume:1
+                      description: reserved partition
+                      vendor: Windows
+                      physical id: 2
+                      bus info: scsi@1:0.0.0,2
+                      logical name: /dev/sda2
+                      serial: 967c3045-2a52-426c-8182-82f4c8fc8070
+                      capacity: 19MiB
+                      capabilities: nofs nomount
+                      configuration: name=Microsoft reserved partition
+                 *-volume:2
+                      description: Windows NTFS volume
+                      vendor: Windows
+                      physical id: 3
+                      bus info: scsi@1:0.0.0,3
+                      logical name: /dev/sda3
+                      version: 3.1
+                      serial: de778336-33bf-234f-8910-503f27931587
+                      size: 155GiB
+                      capacity: 155GiB
+                      capabilities: ntfs initialized
+                      configuration: clustersize=4096 created=2024-06-23 00:17:12 filesystem=ntfs label=Windows name=Basic data partition state=clean
+                 *-volume:3
+                      description: Windows NTFS volume
+                      vendor: Windows
+                      physical id: 4
+                      bus info: scsi@1:0.0.0,4
+                      logical name: /dev/sda4
+                      version: 3.1
+                      serial: a0f1-4609
+                      size: 640MiB
+                      capacity: 665MiB
+                      capabilities: boot precious nomount ntfs initialized
+                      configuration: clustersize=4096 created=2024-07-14 01:18:32 filesystem=ntfs state=clean
+                 *-volume:4
+                      description: Windows NTFS volume
+                      vendor: Windows
+                      physical id: 5
+                      bus info: scsi@1:0.0.0,5
+                      logical name: /dev/sda5
+                      version: 3.1
+                      serial: 6612-323f
+                      size: 428MiB
+                      capacity: 449MiB
+                      capabilities: boot nomount ntfs initialized
+                      configuration: clustersize=4096 created=2024-06-23 00:18:27 filesystem=ntfs label=WinRE name=Basic data partition state=clean
+                 *-volume:5
+                      description: EFI partition
+                      physical id: 6
+                      bus info: scsi@1:0.0.0,6
+                      logical name: /dev/sda6
+                      logical name: /
+                      serial: 697e12bd-eaf0-4956-a576-119f65ec971a
+                      capacity: 89GiB
+                      configuration: mount.fstype=btrfs mount.options=rw,relatime,ssd,discard=async,space_cache=v2,subvolid=5,subvol=/ state=mounted
+                 *-volume:6
+                      description: Linux swap volume
+                      vendor: Linux
+                      physical id: 7
+                      bus info: scsi@1:0.0.0,7
+                      logical name: /dev/sda7
+                      version: 1
+                      serial: 595b7e92-994a-4da5-b9d2-a358da4b3538
+                      size: 3538MiB
+                      capacity: 3538MiB
+                      capabilities: nofs swap initialized
+                      configuration: filesystem=swap pagesize=4095
+                 *-volume:7
+                      description: EXT4 volume
+                      vendor: Linux
+                      physical id: 8
+                      bus info: scsi@1:0.0.0,8
+                      logical name: /dev/sda8
+                      version: 1.0
+                      serial: 3c99fd82-5c8d-4d2b-bfb4-a93962f2ad54
+                      size: 68GiB
+                      capabilities: journaled extended_attributes large_files huge_files dir_nlink recover 64bit extents ext4 ext2 initialized
+                      configuration: created=2024-10-29 19:30:08 filesystem=ext4 label=Chrome OS lastmountpoint=/mainroot modified=2025-01-10 17:16:40 mounted=2025-01-10 17:16:40 state=clean
+        *-serial
+             description: SMBus
+             product: FCH SMBus Controller
+             vendor: Advanced Micro Devices, Inc. [AMD]
+             physical id: 14
+             bus info: pci@0000:00:14.0
+             version: 61
+             width: 32 bits
+             clock: 66MHz
+             configuration: driver=piix4_smbus latency=0
+             resources: irq:0
+        *-isa
+             description: ISA bridge
+             product: FCH LPC Bridge
+             vendor: Advanced Micro Devices, Inc. [AMD]
+             physical id: 14.3
+             bus info: pci@0000:00:14.3
+             version: 51
+             width: 32 bits
+             clock: 66MHz
+             capabilities: isa bus_master
+             configuration: latency=0
+           *-pnp00:00
+                product: PnP device PNP0c01
+                physical id: 0
+                capabilities: pnp
+                configuration: driver=system
+           *-pnp00:01
+                product: PnP device PNP0b00
+                physical id: 1
+                capabilities: pnp
+                configuration: driver=rtc_cmos
+           *-pnp00:02
+                product: PnP device HPQ8001
+                vendor: Hewlett-Packard Co.
+                physical id: 2
+                capabilities: pnp
+                configuration: driver=i8042 kbd
+           *-pnp00:03
+                product: PnP device PNP0c02
+                physical id: 3
+                capabilities: pnp
+                configuration: driver=system
+           *-pnp00:04
+                product: PnP device PNP0c02
+                physical id: 4
+                capabilities: pnp
+                configuration: driver=system
+     *-pci:1
+          description: Host bridge
+          product: Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+          vendor: Advanced Micro Devices, Inc. [AMD]
+          physical id: 101
+          bus info: pci@0000:00:01.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+     *-pci:2
+          description: Host bridge
+          product: Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+          vendor: Advanced Micro Devices, Inc. [AMD]
+          physical id: 102
+          bus info: pci@0000:00:08.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+     *-pci:3
+          description: Host bridge
+          product: Raven/Raven2 Device 24: Function 0
+          vendor: Advanced Micro Devices, Inc. [AMD]
+          physical id: 103
+          bus info: pci@0000:00:18.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+     *-pci:4
+          description: Host bridge
+          product: Raven/Raven2 Device 24: Function 1
+          vendor: Advanced Micro Devices, Inc. [AMD]
+          physical id: 104
+          bus info: pci@0000:00:18.1
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+     *-pci:5
+          description: Host bridge
+          product: Raven/Raven2 Device 24: Function 2
+          vendor: Advanced Micro Devices, Inc. [AMD]
+          physical id: 105
+          bus info: pci@0000:00:18.2
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+     *-pci:6
+          description: Host bridge
+          product: Raven/Raven2 Device 24: Function 3
+          vendor: Advanced Micro Devices, Inc. [AMD]
+          physical id: 106
+          bus info: pci@0000:00:18.3
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          configuration: driver=k10temp
+          resources: irq:0
+     *-pci:7
+          description: Host bridge
+          product: Raven/Raven2 Device 24: Function 4
+          vendor: Advanced Micro Devices, Inc. [AMD]
+          physical id: 107
+          bus info: pci@0000:00:18.4
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+     *-pci:8
+          description: Host bridge
+          product: Raven/Raven2 Device 24: Function 5
+          vendor: Advanced Micro Devices, Inc. [AMD]
+          physical id: 108
+          bus info: pci@0000:00:18.5
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+     *-pci:9
+          description: Host bridge
+          product: Raven/Raven2 Device 24: Function 6
+          vendor: Advanced Micro Devices, Inc. [AMD]
+          physical id: 109
+          bus info: pci@0000:00:18.6
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+     *-pci:10
+          description: Host bridge
+          product: Raven/Raven2 Device 24: Function 7
+          vendor: Advanced Micro Devices, Inc. [AMD]
+          physical id: 10a
+          bus info: pci@0000:00:18.7
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+  *-battery
+       description: Lithium Ion Battery
+       product: HT03041X
+       vendor: 333-1C-3B-A
+       physical id: 1
+       version: 06/01/2019
+       serial: 33540 06/01/2019
+       slot: Primary
+       capacity: 41050mWh
+       configuration: voltage=11.3V
+  *-input:0
+       product: Power Button
+       physical id: 2
+       logical name: input0
+       logical name: /dev/input/event0
+       capabilities: platform
+  *-input:1
+       product: Lid Switch
+       physical id: 3
+       logical name: input1
+       logical name: /dev/input/event1
+       capabilities: platform
+  *-input:2
+       product: ELAN0708:00 04F3:30A0 Touchpad
+       physical id: 4
+       logical name: input10
+       logical name: /dev/input/event6
+       logical name: /dev/input/mouse1
+       capabilities: i2c
+  *-input:3
+       product: Wireless hotkeys
+       physical id: 5
+       logical name: input11
+       logical name: /dev/input/event7
+       capabilities: platform
+  *-input:4
+       product: HP WMI hotkeys
+       physical id: 6
+       logical name: input12
+       logical name: /dev/input/event8
+       capabilities: platform
+  *-input:5
+       product: Power Button
+       physical id: 7
+       logical name: input2
+       logical name: /dev/input/event2
+       capabilities: platform
+  *-input:6
+       product: AT Translated Set 2 keyboard
+       physical id: 8
+       logical name: input3
+       logical name: /dev/input/event3
+       logical name: input3::capslock
+       logical name: input3::numlock
+       logical name: input3::scrolllock
+       capabilities: i8042
+  *-input:7
+       product: Video Bus
+       physical id: 9
+       logical name: input4
+       logical name: /dev/input/event4
+       capabilities: platform
+  *-input:8
+       product: ELAN0708:00 04F3:30A0 Mouse
+       physical id: a
+       logical name: input8
+       logical name: /dev/input/event5
+       logical name: /dev/input/mouse0
+       capabilities: i2c
+
+Architecture:             x86_64
+  CPU op-mode(s):         32-bit, 64-bit
+  Address sizes:          43 bits physical, 48 bits virtual
+  Byte Order:             Little Endian
+CPU(s):                   8
+  On-line CPU(s) list:    0-7
+Vendor ID:                AuthenticAMD
+  Model name:             AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+    CPU family:           23
+    Model:                24
+    Thread(s) per core:   2
+    Core(s) per socket:   4
+    Socket(s):            1
+    Stepping:             1
+    Frequency boost:      enabled
+    CPU(s) scaling MHz:   68%
+    CPU max MHz:          2100.0000
+    CPU min MHz:          1400.0000
+    BogoMIPS:             4192.01
+    Flags:                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge m
+                          ca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall
+                           nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep
+                          _good nopl nonstop_tsc cpuid extd_apicid aperfmperf ra
+                          pl pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2
+                          movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_leg
+                          acy svm extapic cr8_legacy abm sse4a misalignsse 3dnow
+                          prefetch osvw skinit wdt tce topoext perfctr_core perf
+                          ctr_nb bpext perfctr_llc mwaitx cpb hw_pstate ssbd ibp
+                          b vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap
+                           clflushopt sha_ni xsaveopt xsavec xgetbv1 clzero irpe
+                          rf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_sca
+                          le vmcb_clean flushbyasid decodeassists pausefilter pf
+                          threshold avic v_vmsave_vmload vgif overflow_recov suc
+                          cor smca sev sev_es
+Virtualization features:
+  Virtualization:         AMD-V
+Caches (sum of all):
+  L1d:                    128 KiB (4 instances)
+  L1i:                    256 KiB (4 instances)
+  L2:                     2 MiB (4 instances)
+  L3:                     4 MiB (1 instance)
+NUMA:
+  NUMA node(s):           1
+  NUMA node0 CPU(s):      0-7
+Vulnerabilities:
+  Gather data sampling:   Not affected
+  Itlb multihit:          Not affected
+  L1tf:                   Not affected
+  Mds:                    Not affected
+  Meltdown:               Not affected
+  Mmio stale data:        Not affected
+  Reg file data sampling: Not affected
+  Retbleed:               Mitigation; untrained return thunk; SMT vulnerable
+  Spec rstack overflow:   Mitigation; Safe RET
+  Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prct
+                          l
+  Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointe
+                          r sanitization
+  Spectre v2:             Mitigation; Retpolines; IBPB conditional; STIBP disabl
+                          ed; RSB filling; PBRSB-eIBRS Not affected; BHI Not aff
+                          ected
+  Srbds:                  Not affected
+  Tsx async abort:        Not affected
+
+               total        used        free      shared  buff/cache   available
+Mem:           6.2Gi       2.3Gi       1.3Gi        99Mi       2.9Gi       3.8Gi
+Swap:          3.5Gi       2.8Mi       3.5Gi
+
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+loop0    7:0    0 104.2M  1 loop /snap/core/17200
+loop1    7:1    0  73.9M  1 loop /snap/core22/1663
+loop2    7:2    0  63.7M  1 loop /snap/core20/2434
+loop3    7:3    0     4K  1 loop /snap/bare/5
+loop4    7:4    0  11.7M  1 loop /snap/desktop-security-center/32
+loop5    7:5    0  73.9M  1 loop /snap/core22/1722
+loop6    7:6    0  11.7M  1 loop /snap/desktop-security-center/43
+loop7    7:7    0 110.2M  1 loop /snap/discord/221
+loop8    7:8    0 110.2M  1 loop /snap/discord/220
+loop9    7:9    0 274.8M  1 loop /snap/firefox/5561
+loop10   7:10   0  10.7M  1 loop /snap/firmware-updater/127
+loop11   7:11   0  11.1M  1 loop /snap/firmware-updater/147
+loop12   7:12   0 349.7M  1 loop /snap/gnome-3-38-2004/143
+loop13   7:13   0 273.7M  1 loop /snap/firefox/5437
+loop14   7:14   0 505.1M  1 loop /snap/gnome-42-2204/176
+loop15   7:15   0   140K  1 loop /snap/gtk2-common-themes/13
+loop16   7:16   0  91.7M  1 loop /snap/gtk-common-themes/1535
+loop17   7:17   0  89.7M  1 loop /snap/gtk-common-themes/1536
+loop18   7:18   0    14M  1 loop /snap/prompting-client/51
+loop19   7:19   0   549M  1 loop /snap/kate/194
+loop20   7:20   0   549M  1 loop /snap/kate/195
+loop21   7:21   0   444M  1 loop /snap/kf5-5-113-qt-5-15-11-core22/1
+loop22   7:22   0  14.3M  1 loop /snap/prompting-client/80
+loop23   7:23   0   1.9G  1 loop /snap/rider/522
+loop24   7:24   0   1.9G  1 loop /snap/rider/523
+loop25   7:25   0  10.8M  1 loop /snap/snap-store/1244
+loop26   7:26   0  10.8M  1 loop /snap/snap-store/1248
+loop27   7:27   0  44.3M  1 loop /snap/snapd/23258
+loop28   7:28   0   564K  1 loop /snap/snapd-desktop-integration/247
+loop29   7:29   0   568K  1 loop /snap/snapd-desktop-integration/253
+loop30   7:30   0  44.4M  1 loop /snap/snapd/23545
+loop31   7:31   0     0B  0 loop
+sda      8:0    0 447.1G  0 disk
+├─sda1   8:1    0     1G  0 part /boot/efi
+├─sda2   8:2    0    20M  0 part
+├─sda3   8:3    0 155.6G  0 part
+├─sda4   8:4    0   666M  0 part
+├─sda5   8:5    0   450M  0 part
+├─sda6   8:6    0  89.8G  0 part /
+├─sda7   8:7    0   3.5G  0 part [SWAP]
+└─sda8   8:8    0  68.4G  0 part
+
+00:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Root Complex
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: fast devsel
+
+00:01.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+	Flags: fast devsel
+
+00:01.6 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 PCIe GPP Bridge [6:0] (prog-if 00 [Normal decode])
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, fast devsel, latency 0, IRQ 25
+	Bus: primary=00, secondary=01, subordinate=01, sec-latency=0
+	I/O behind bridge: f000-ffff [size=4K] [16-bit]
+	Memory behind bridge: fcf00000-fcffffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: [disabled] [64-bit]
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:01.7 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 PCIe GPP Bridge [6:0] (prog-if 00 [Normal decode])
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, fast devsel, latency 0, IRQ 26
+	Bus: primary=00, secondary=02, subordinate=02, sec-latency=0
+	I/O behind bridge: e000-efff [size=4K] [16-bit]
+	Memory behind bridge: fce00000-fcefffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: [disabled] [64-bit]
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:08.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+	Flags: fast devsel
+
+00:08.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Internal PCIe GPP Bridge 0 to Bus A (prog-if 00 [Normal decode])
+	Subsystem: Advanced Micro Devices, Inc. [AMD] Device 0000
+	Flags: bus master, fast devsel, latency 0, IRQ 27
+	Bus: primary=00, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: d000-dfff [size=4K] [16-bit]
+	Memory behind bridge: fc900000-fccfffff [size=4M] [32-bit]
+	Prefetchable memory behind bridge: 1fe0000000-1ff01fffff [size=258M] [32-bit]
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:08.2 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Internal PCIe GPP Bridge 0 to Bus B (prog-if 00 [Normal decode])
+	Subsystem: Advanced Micro Devices, Inc. [AMD] Device 0000
+	Flags: bus master, fast devsel, latency 0, IRQ 28
+	Bus: primary=00, secondary=04, subordinate=04, sec-latency=0
+	I/O behind bridge: [disabled] [32-bit]
+	Memory behind bridge: fcd00000-fcdfffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: [disabled] [64-bit]
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:14.0 SMBus: Advanced Micro Devices, Inc. [AMD] FCH SMBus Controller (rev 61)
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: 66MHz, medium devsel
+	Kernel driver in use: piix4_smbus
+	Kernel modules: i2c_piix4, sp5100_tco
+
+00:14.3 ISA bridge: Advanced Micro Devices, Inc. [AMD] FCH LPC Bridge (rev 51)
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, 66MHz, medium devsel, latency 0
+
+00:18.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 0
+	Flags: fast devsel
+
+00:18.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 1
+	Flags: fast devsel
+
+00:18.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 2
+	Flags: fast devsel
+
+00:18.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 3
+	Flags: fast devsel
+	Kernel driver in use: k10temp
+	Kernel modules: k10temp
+
+00:18.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 4
+	Flags: fast devsel
+
+00:18.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 5
+	Flags: fast devsel
+
+00:18.6 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 6
+	Flags: fast devsel
+
+00:18.7 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 7
+	Flags: fast devsel
+
+01:00.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller (rev 15)
+	DeviceName: Realtek PCIe FE Family Controller
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, fast devsel, latency 0, IRQ 39
+	I/O ports at f000 [size=256]
+	Memory at fcf04000 (64-bit, non-prefetchable) [size=4K]
+	Memory at fcf00000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: r8169
+	Kernel modules: r8169
+
+02:00.0 Network controller: Realtek Semiconductor Co., Ltd. RTL8723DE 802.11b/g/n PCIe Adapter
+	Subsystem: Hewlett-Packard Company Device 8319
+	Flags: bus master, fast devsel, latency 0, IRQ 55
+	I/O ports at e000 [size=256]
+	Memory at fce00000 (64-bit, non-prefetchable) [size=64K]
+	Capabilities: <access denied>
+	Kernel driver in use: rtw_8723de
+	Kernel modules: rtw88_8723de
+
+03:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series] (rev c2) (prog-if 00 [VGA controller])
+	DeviceName:  Onboard IGD
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, fast devsel, latency 0, IRQ 24
+	Memory at 1fe0000000 (64-bit, prefetchable) [size=256M]
+	Memory at 1ff0000000 (64-bit, prefetchable) [size=2M]
+	I/O ports at d000 [size=256]
+	Memory at fcc00000 (32-bit, non-prefetchable) [size=512K]
+	Capabilities: <access denied>
+	Kernel driver in use: amdgpu
+	Kernel modules: amdgpu
+
+03:00.1 Audio device: Advanced Micro Devices, Inc. [AMD/ATI] Raven/Raven2/Fenghuang HDMI/DP Audio Controller
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, fast devsel, latency 0, IRQ 56
+	Memory at fccc8000 (32-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: snd_hda_intel
+	Kernel modules: snd_hda_intel
+
+03:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 10h-1fh) Platform Security Processor
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, fast devsel, latency 0, IRQ 40
+	Memory at fcb00000 (32-bit, non-prefetchable) [size=1M]
+	Memory at fcccc000 (32-bit, non-prefetchable) [size=8K]
+	Capabilities: <access denied>
+	Kernel driver in use: ccp
+	Kernel modules: ccp
+
+03:00.3 USB controller: Advanced Micro Devices, Inc. [AMD] Raven USB 3.1 (prog-if 30 [XHCI])
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, fast devsel, latency 0, IRQ 30
+	Memory at fca00000 (64-bit, non-prefetchable) [size=1M]
+	Capabilities: <access denied>
+	Kernel driver in use: xhci_hcd
+	Kernel modules: xhci_pci
+
+03:00.4 USB controller: Advanced Micro Devices, Inc. [AMD] Raven USB 3.1 (prog-if 30 [XHCI])
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, fast devsel, latency 0, IRQ 24
+	Memory at fc900000 (64-bit, non-prefetchable) [size=1M]
+	Capabilities: <access denied>
+	Kernel driver in use: xhci_hcd
+	Kernel modules: xhci_pci
+
+03:00.5 Multimedia controller: Advanced Micro Devices, Inc. [AMD] ACP/ACP3X/ACP6x Audio Coprocessor
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, fast devsel, latency 0, IRQ 51
+	Memory at fcc80000 (32-bit, non-prefetchable) [size=256K]
+	Capabilities: <access denied>
+	Kernel driver in use: snd_pci_acp3x
+	Kernel modules: snd_pci_acp3x, snd_rn_pci_acp3x, snd_pci_acp5x, snd_pci_acp6x, snd_acp_pci, snd_rpl_pci_acp6x, snd_pci_ps, snd_sof_amd_renoir, snd_sof_amd_rembrandt, snd_sof_amd_vangogh, snd_sof_amd_acp63
+
+03:00.6 Audio device: Advanced Micro Devices, Inc. [AMD] Family 17h/19h HD Audio Controller
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, fast devsel, latency 0, IRQ 57
+	Memory at fccc0000 (32-bit, non-prefetchable) [size=32K]
+	Capabilities: <access denied>
+	Kernel driver in use: snd_hda_intel
+	Kernel modules: snd_hda_intel
+
+04:00.0 SATA controller: Advanced Micro Devices, Inc. [AMD] FCH SATA Controller [AHCI mode] (rev 61) (prog-if 01 [AHCI 1.0])
+	Subsystem: Hewlett-Packard Company Device 85e0
+	Flags: bus master, fast devsel, latency 0, IRQ 41
+	Memory at fcd00000 (32-bit, non-prefetchable) [size=2K]
+	Capabilities: <access denied>
+	Kernel driver in use: ahci
+	Kernel modules: ahci
+
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Couldn't open device, some information will be missing
+Device Descriptor:
+  bLength                18
+  bDescriptorType         1
+  bcdUSB               2.00
+  bDeviceClass            9 Hub
+  bDeviceSubClass         0 [unknown]
+  bDeviceProtocol         1 Single TT
+  bMaxPacketSize0        64
+  idVendor           0x1d6b Linux Foundation
+  idProduct          0x0002 2.0 root hub
+  bcdDevice            6.11
+  iManufacturer           3 Linux 6.11.0-13-generic xhci-hcd
+  iProduct                2 xHCI Host Controller
+  iSerial                 1 0000:03:00.3
+  bNumConfigurations      1
+  Configuration Descriptor:
+    bLength                 9
+    bDescriptorType         2
+    wTotalLength       0x0019
+    bNumInterfaces          1
+    bConfigurationValue     1
+    iConfiguration          0
+    bmAttributes         0xe0
+      Self Powered
+      Remote Wakeup
+    MaxPower                0mA
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        0
+      bAlternateSetting       0
+      bNumEndpoints           1
+      bInterfaceClass         9 Hub
+      bInterfaceSubClass      0 [unknown]
+      bInterfaceProtocol      0 Full speed (or root) hub
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            3
+          Transfer Type            Interrupt
+          Synch Type               None
+          Usage Type               Data
+        wMaxPacketSize     0x0004  1x 4 bytes
+        bInterval              12
+
+Bus 001 Device 002: ID 05c8:03d2 Cheng Uei Precision Industry Co., Ltd (Foxlink) HP TrueVision HD Camera
+Couldn't open device, some information will be missing
+Device Descriptor:
+  bLength                18
+  bDescriptorType         1
+  bcdUSB               2.01
+  bDeviceClass          239 Miscellaneous Device
+  bDeviceSubClass         2 [unknown]
+  bDeviceProtocol         1 Interface Association
+  bMaxPacketSize0        64
+  idVendor           0x05c8 Cheng Uei Precision Industry Co., Ltd (Foxlink)
+  idProduct          0x03d2 HP TrueVision HD Camera
+  bcdDevice            0.05
+  iManufacturer           1 SunplusIT Inc
+  iProduct                2 HP TrueVision HD Camera
+  iSerial                 0
+  bNumConfigurations      1
+  Configuration Descriptor:
+    bLength                 9
+    bDescriptorType         2
+    wTotalLength       0x02d7
+    bNumInterfaces          2
+    bConfigurationValue     1
+    iConfiguration          0
+    bmAttributes         0x80
+      (Bus Powered)
+    MaxPower              500mA
+    Interface Association:
+      bLength                 8
+      bDescriptorType        11
+      bFirstInterface         0
+      bInterfaceCount         2
+      bFunctionClass         14 Video
+      bFunctionSubClass       3 Video Interface Collection
+      bFunctionProtocol       0
+      iFunction               4
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        0
+      bAlternateSetting       0
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      1 Video Control
+      bInterfaceProtocol      0
+      iInterface              4
+      VideoControl Interface Descriptor:
+        bLength                13
+        bDescriptorType        36
+        bDescriptorSubtype      1 (HEADER)
+        bcdUVC               1.00
+        wTotalLength       0x006d
+        dwClockFrequency       48.000000MHz
+        bInCollection           1
+        baInterfaceNr( 0)       1
+      VideoControl Interface Descriptor:
+        bLength                18
+        bDescriptorType        36
+        bDescriptorSubtype      2 (INPUT_TERMINAL)
+        bTerminalID             1
+        wTerminalType      0x0201 Camera Sensor
+        bAssocTerminal          0
+        iTerminal               0
+        wObjectiveFocalLengthMin      0
+        wObjectiveFocalLengthMax      0
+        wOcularFocalLength            0
+        bControlSize                  3
+        bmControls           0x0000000e
+          Auto-Exposure Mode
+          Auto-Exposure Priority
+          Exposure Time (Absolute)
+      VideoControl Interface Descriptor:
+        bLength                11
+        bDescriptorType        36
+        bDescriptorSubtype      5 (PROCESSING_UNIT)
+      Warning: Descriptor too short
+        bUnitID                 2
+        bSourceID               1
+        wMaxMultiplier      16384
+        bControlSize            2
+        bmControls     0x0000177f
+          Brightness
+          Contrast
+          Hue
+          Saturation
+          Sharpness
+          Gamma
+          White Balance Temperature
+          Backlight Compensation
+          Gain
+          Power Line Frequency
+          White Balance Temperature, Auto
+        iProcessing             0
+        bmVideoStandards     0x1d
+          None
+          PAL - 625/50
+          SECAM - 625/50
+          NTSC - 625/50
+      VideoControl Interface Descriptor:
+        bLength                29
+        bDescriptorType        36
+        bDescriptorSubtype      6 (EXTENSION_UNIT)
+        bUnitID                 3
+        guidExtensionCode         {26b8105a-0713-4870-979d-da79444bb68e}
+        bNumControls            1
+        bNrInPins               1
+        baSourceID( 0)          2
+        bControlSize            4
+        bmControls( 0)       0x04
+        bmControls( 1)       0x00
+        bmControls( 2)       0x00
+        bmControls( 3)       0x00
+        iExtension              0
+      VideoControl Interface Descriptor:
+        bLength                29
+        bDescriptorType        36
+        bDescriptorSubtype      6 (EXTENSION_UNIT)
+        bUnitID                 4
+        guidExtensionCode         {63610682-5070-49ab-b8cc-b3855e8d221d}
+        bNumControls           22
+        bNrInPins               1
+        baSourceID( 0)          3
+        bControlSize            4
+        bmControls( 0)       0xff
+        bmControls( 1)       0xff
+        bmControls( 2)       0x71
+        bmControls( 3)       0x0c
+        iExtension              0
+      VideoControl Interface Descriptor:
+        bLength                 9
+        bDescriptorType        36
+        bDescriptorSubtype      3 (OUTPUT_TERMINAL)
+        bTerminalID             5
+        wTerminalType      0x0101 USB Streaming
+        bAssocTerminal          0
+        bSourceID               4
+        iTerminal               0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x87  EP 7 IN
+        bmAttributes            3
+          Transfer Type            Interrupt
+          Synch Type               None
+          Usage Type               Data
+        wMaxPacketSize     0x0010  1x 16 bytes
+        bInterval               8
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting       0
+      bNumEndpoints           0
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      VideoStreaming Interface Descriptor:
+        bLength                            15
+        bDescriptorType                    36
+        bDescriptorSubtype                  1 (INPUT_HEADER)
+        bNumFormats                         2
+        wTotalLength                   0x018b
+        bEndpointAddress                 0x81  EP 1 IN
+        bmInfo                              0
+        bTerminalLink                       5
+        bStillCaptureMethod                 1
+        bTriggerSupport                     1
+        bTriggerUsage                       0
+        bControlSize                        1
+        bmaControls( 0)                     4
+        bmaControls( 1)                     0
+      VideoStreaming Interface Descriptor:
+        bLength                            11
+        bDescriptorType                    36
+        bDescriptorSubtype                  6 (FORMAT_MJPEG)
+        bFormatIndex                        1
+        bNumFrameDescriptors                6
+        bFlags                              1
+          Fixed-size samples: Yes
+        bDefaultFrameIndex                  1
+        bAspectRatioX                       0
+        bAspectRatioY                       0
+        bmInterlaceFlags                 0x00
+          Interlaced stream or variable: No
+          Fields per frame: 1 fields
+          Field 1 first: No
+          Field pattern: Field 1 only
+        bCopyProtect                        0
+      VideoStreaming Interface Descriptor:
+        bLength                            30
+        bDescriptorType                    36
+        bDescriptorSubtype                  7 (FRAME_MJPEG)
+        bFrameIndex                         1
+        bmCapabilities                   0x01
+          Still image supported
+        wWidth                            640
+        wHeight                           360
+        dwMinBitRate                110592000
+        dwMaxBitRate                110592000
+        dwMaxVideoFrameBufferSize      460800
+        dwDefaultFrameInterval         333333
+        bFrameIntervalType                  1
+        dwFrameInterval( 0)            333333
+      VideoStreaming Interface Descriptor:
+        bLength                            30
+        bDescriptorType                    36
+        bDescriptorSubtype                  7 (FRAME_MJPEG)
+        bFrameIndex                         2
+        bmCapabilities                   0x01
+          Still image supported
+        wWidth                            640
+        wHeight                           480
+        dwMinBitRate                147456000
+        dwMaxBitRate                147456000
+        dwMaxVideoFrameBufferSize      614400
+        dwDefaultFrameInterval         333333
+        bFrameIntervalType                  1
+        dwFrameInterval( 0)            333333
+      VideoStreaming Interface Descriptor:
+        bLength                            30
+        bDescriptorType                    36
+        bDescriptorSubtype                  7 (FRAME_MJPEG)
+        bFrameIndex                         3
+        bmCapabilities                   0x01
+          Still image supported
+        wWidth                            176
+        wHeight                           144
+        dwMinBitRate                 12165120
+        dwMaxBitRate                 12165120
+        dwMaxVideoFrameBufferSize       50688
+        dwDefaultFrameInterval         333333
+        bFrameIntervalType                  1
+        dwFrameInterval( 0)            333333
+      VideoStreaming Interface Descriptor:
+        bLength                            30
+        bDescriptorType                    36
+        bDescriptorSubtype                  7 (FRAME_MJPEG)
+        bFrameIndex                         4
+        bmCapabilities                   0x01
+          Still image supported
+        wWidth                            320
+        wHeight                           240
+        dwMinBitRate                 36864000
+        dwMaxBitRate                 36864000
+        dwMaxVideoFrameBufferSize      153600
+        dwDefaultFrameInterval         333333
+        bFrameIntervalType                  1
+        dwFrameInterval( 0)            333333
+      VideoStreaming Interface Descriptor:
+        bLength                            30
+        bDescriptorType                    36
+        bDescriptorSubtype                  7 (FRAME_MJPEG)
+        bFrameIndex                         5
+        bmCapabilities                   0x01
+          Still image supported
+        wWidth                            352
+        wHeight                           288
+        dwMinBitRate                 48660480
+        dwMaxBitRate                 48660480
+        dwMaxVideoFrameBufferSize      202752
+        dwDefaultFrameInterval         333333
+        bFrameIntervalType                  1
+        dwFrameInterval( 0)            333333
+      VideoStreaming Interface Descriptor:
+        bLength                            30
+        bDescriptorType                    36
+        bDescriptorSubtype                  7 (FRAME_MJPEG)
+        bFrameIndex                         6
+        bmCapabilities                   0x01
+          Still image supported
+        wWidth                           1280
+        wHeight                           720
+        dwMinBitRate                442368000
+        dwMaxBitRate                442368000
+        dwMaxVideoFrameBufferSize     1843200
+        dwDefaultFrameInterval         333333
+        bFrameIntervalType                  1
+        dwFrameInterval( 0)            333333
+      VideoStreaming Interface Descriptor:
+        bLength                             6
+        bDescriptorType                    36
+        bDescriptorSubtype                 13 (COLORFORMAT)
+        bColorPrimaries                     1 (BT.709,sRGB)
+        bTransferCharacteristics            1 (BT.709)
+        bMatrixCoefficients                 4 (SMPTE 170M (BT.601))
+      VideoStreaming Interface Descriptor:
+        bLength                            27
+        bDescriptorType                    36
+        bDescriptorSubtype                  4 (FORMAT_UNCOMPRESSED)
+        bFormatIndex                        2
+        bNumFrameDescriptors                5
+        guidFormat                            {32595559-0000-0010-8000-00aa00389b71}
+        bBitsPerPixel                      16
+        bDefaultFrameIndex                  1
+        bAspectRatioX                       0
+        bAspectRatioY                       0
+        bmInterlaceFlags                 0x00
+          Interlaced stream or variable: No
+          Fields per frame: 2 fields
+          Field 1 first: No
+          Field pattern: Field 1 only
+        bCopyProtect                        0
+      VideoStreaming Interface Descriptor:
+        bLength                            30
+        bDescriptorType                    36
+        bDescriptorSubtype                  5 (FRAME_UNCOMPRESSED)
+        bFrameIndex                         1
+        bmCapabilities                   0x01
+          Still image supported
+        wWidth                            640
+        wHeight                           360
+        dwMinBitRate                110592000
+        dwMaxBitRate                110592000
+        dwMaxVideoFrameBufferSize      460800
+        dwDefaultFrameInterval         333333
+        bFrameIntervalType                  1
+        dwFrameInterval( 0)            333333
+      VideoStreaming Interface Descriptor:
+        bLength                            30
+        bDescriptorType                    36
+        bDescriptorSubtype                  5 (FRAME_UNCOMPRESSED)
+        bFrameIndex                         2
+        bmCapabilities                   0x01
+          Still image supported
+        wWidth                            640
+        wHeight                           480
+        dwMinBitRate                147456000
+        dwMaxBitRate                147456000
+        dwMaxVideoFrameBufferSize      614400
+        dwDefaultFrameInterval         333333
+        bFrameIntervalType                  1
+        dwFrameInterval( 0)            333333
+      VideoStreaming Interface Descriptor:
+        bLength                            30
+        bDescriptorType                    36
+        bDescriptorSubtype                  5 (FRAME_UNCOMPRESSED)
+        bFrameIndex                         3
+        bmCapabilities                   0x01
+          Still image supported
+        wWidth                            176
+        wHeight                           144
+        dwMinBitRate                 12165120
+        dwMaxBitRate                 12165120
+        dwMaxVideoFrameBufferSize       50688
+        dwDefaultFrameInterval         333333
+        bFrameIntervalType                  1
+        dwFrameInterval( 0)            333333
+      VideoStreaming Interface Descriptor:
+        bLength                            30
+        bDescriptorType                    36
+        bDescriptorSubtype                  5 (FRAME_UNCOMPRESSED)
+        bFrameIndex                         4
+        bmCapabilities                   0x01
+          Still image supported
+        wWidth                            320
+        wHeight                           240
+        dwMinBitRate                 36864000
+        dwMaxBitRate                 36864000
+        dwMaxVideoFrameBufferSize      153600
+        dwDefaultFrameInterval         333333
+        bFrameIntervalType                  1
+        dwFrameInterval( 0)            333333
+      VideoStreaming Interface Descriptor:
+        bLength                            30
+        bDescriptorType                    36
+        bDescriptorSubtype                  5 (FRAME_UNCOMPRESSED)
+        bFrameIndex                         5
+        bmCapabilities                   0x01
+          Still image supported
+        wWidth                            352
+        wHeight                           288
+        dwMinBitRate                 48660480
+        dwMaxBitRate                 48660480
+        dwMaxVideoFrameBufferSize      202752
+        dwDefaultFrameInterval         333333
+        bFrameIntervalType                  1
+        dwFrameInterval( 0)            333333
+      VideoStreaming Interface Descriptor:
+        bLength                             6
+        bDescriptorType                    36
+        bDescriptorSubtype                 13 (COLORFORMAT)
+        bColorPrimaries                     1 (BT.709,sRGB)
+        bTransferCharacteristics            1 (BT.709)
+        bMatrixCoefficients                 4 (SMPTE 170M (BT.601))
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting       1
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            5
+          Transfer Type            Isochronous
+          Synch Type               Asynchronous
+          Usage Type               Data
+        wMaxPacketSize     0x00c0  1x 192 bytes
+        bInterval               1
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting       2
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            5
+          Transfer Type            Isochronous
+          Synch Type               Asynchronous
+          Usage Type               Data
+        wMaxPacketSize     0x0180  1x 384 bytes
+        bInterval               1
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting       3
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            5
+          Transfer Type            Isochronous
+          Synch Type               Asynchronous
+          Usage Type               Data
+        wMaxPacketSize     0x0200  1x 512 bytes
+        bInterval               1
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting       4
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            5
+          Transfer Type            Isochronous
+          Synch Type               Asynchronous
+          Usage Type               Data
+        wMaxPacketSize     0x0280  1x 640 bytes
+        bInterval               1
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting       5
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            5
+          Transfer Type            Isochronous
+          Synch Type               Asynchronous
+          Usage Type               Data
+        wMaxPacketSize     0x0320  1x 800 bytes
+        bInterval               1
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting       6
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            5
+          Transfer Type            Isochronous
+          Synch Type               Asynchronous
+          Usage Type               Data
+        wMaxPacketSize     0x03b0  1x 944 bytes
+        bInterval               1
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting       7
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            5
+          Transfer Type            Isochronous
+          Synch Type               Asynchronous
+          Usage Type               Data
+        wMaxPacketSize     0x0a80  2x 640 bytes
+        bInterval               1
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting       8
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            5
+          Transfer Type            Isochronous
+          Synch Type               Asynchronous
+          Usage Type               Data
+        wMaxPacketSize     0x0b20  2x 800 bytes
+        bInterval               1
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting       9
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            5
+          Transfer Type            Isochronous
+          Synch Type               Asynchronous
+          Usage Type               Data
+        wMaxPacketSize     0x0be0  2x 992 bytes
+        bInterval               1
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting      10
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            5
+          Transfer Type            Isochronous
+          Synch Type               Asynchronous
+          Usage Type               Data
+        wMaxPacketSize     0x13c0  3x 960 bytes
+        bInterval               1
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        1
+      bAlternateSetting      11
+      bNumEndpoints           1
+      bInterfaceClass        14 Video
+      bInterfaceSubClass      2 Video Streaming
+      bInterfaceProtocol      0
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            5
+          Transfer Type            Isochronous
+          Synch Type               Asynchronous
+          Usage Type               Data
+        wMaxPacketSize     0x13fc  3x 1020 bytes
+        bInterval               1
+
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Couldn't open device, some information will be missing
+Device Descriptor:
+  bLength                18
+  bDescriptorType         1
+  bcdUSB               3.10
+  bDeviceClass            9 Hub
+  bDeviceSubClass         0 [unknown]
+  bDeviceProtocol         3
+  bMaxPacketSize0         9
+  idVendor           0x1d6b Linux Foundation
+  idProduct          0x0003 3.0 root hub
+  bcdDevice            6.11
+  iManufacturer           3 Linux 6.11.0-13-generic xhci-hcd
+  iProduct                2 xHCI Host Controller
+  iSerial                 1 0000:03:00.3
+  bNumConfigurations      1
+  Configuration Descriptor:
+    bLength                 9
+    bDescriptorType         2
+    wTotalLength       0x001f
+    bNumInterfaces          1
+    bConfigurationValue     1
+    iConfiguration          0
+    bmAttributes         0xe0
+      Self Powered
+      Remote Wakeup
+    MaxPower                0mA
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        0
+      bAlternateSetting       0
+      bNumEndpoints           1
+      bInterfaceClass         9 Hub
+      bInterfaceSubClass      0 [unknown]
+      bInterfaceProtocol      0 Full speed (or root) hub
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            3
+          Transfer Type            Interrupt
+          Synch Type               None
+          Usage Type               Data
+        wMaxPacketSize     0x0004  1x 4 bytes
+        bInterval              12
+        bMaxBurst               0
+
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Couldn't open device, some information will be missing
+Device Descriptor:
+  bLength                18
+  bDescriptorType         1
+  bcdUSB               2.00
+  bDeviceClass            9 Hub
+  bDeviceSubClass         0 [unknown]
+  bDeviceProtocol         1 Single TT
+  bMaxPacketSize0        64
+  idVendor           0x1d6b Linux Foundation
+  idProduct          0x0002 2.0 root hub
+  bcdDevice            6.11
+  iManufacturer           3 Linux 6.11.0-13-generic xhci-hcd
+  iProduct                2 xHCI Host Controller
+  iSerial                 1 0000:03:00.4
+  bNumConfigurations      1
+  Configuration Descriptor:
+    bLength                 9
+    bDescriptorType         2
+    wTotalLength       0x0019
+    bNumInterfaces          1
+    bConfigurationValue     1
+    iConfiguration          0
+    bmAttributes         0xe0
+      Self Powered
+      Remote Wakeup
+    MaxPower                0mA
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        0
+      bAlternateSetting       0
+      bNumEndpoints           1
+      bInterfaceClass         9 Hub
+      bInterfaceSubClass      0 [unknown]
+      bInterfaceProtocol      0 Full speed (or root) hub
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            3
+          Transfer Type            Interrupt
+          Synch Type               None
+          Usage Type               Data
+        wMaxPacketSize     0x0004  1x 4 bytes
+        bInterval              12
+
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Couldn't open device, some information will be missing
+Device Descriptor:
+  bLength                18
+  bDescriptorType         1
+  bcdUSB               3.10
+  bDeviceClass            9 Hub
+  bDeviceSubClass         0 [unknown]
+  bDeviceProtocol         3
+  bMaxPacketSize0         9
+  idVendor           0x1d6b Linux Foundation
+  idProduct          0x0003 3.0 root hub
+  bcdDevice            6.11
+  iManufacturer           3 Linux 6.11.0-13-generic xhci-hcd
+  iProduct                2 xHCI Host Controller
+  iSerial                 1 0000:03:00.4
+  bNumConfigurations      1
+  Configuration Descriptor:
+    bLength                 9
+    bDescriptorType         2
+    wTotalLength       0x001f
+    bNumInterfaces          1
+    bConfigurationValue     1
+    iConfiguration          0
+    bmAttributes         0xe0
+      Self Powered
+      Remote Wakeup
+    MaxPower                0mA
+    Interface Descriptor:
+      bLength                 9
+      bDescriptorType         4
+      bInterfaceNumber        0
+      bAlternateSetting       0
+      bNumEndpoints           1
+      bInterfaceClass         9 Hub
+      bInterfaceSubClass      0 [unknown]
+      bInterfaceProtocol      0 Full speed (or root) hub
+      iInterface              0
+      Endpoint Descriptor:
+        bLength                 7
+        bDescriptorType         5
+        bEndpointAddress     0x81  EP 1 IN
+        bmAttributes            3
+          Transfer Type            Interrupt
+          Synch Type               None
+          Usage Type               Data
+        wMaxPacketSize     0x0004  1x 4 bytes
+        bInterval              12
+        bMaxBurst               0
+
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host noprefixroute
+       valid_lft forever preferred_lft forever
+2: eno1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 80:e8:2c:b5:70:c5 brd ff:ff:ff:ff:ff:ff
+    altname enp1s0
+    inet 192.168.100.151/24 brd 192.168.100.255 scope global dynamic noprefixroute eno1
+       valid_lft 63380sec preferred_lft 63380sec
+    inet6 fe80::f0cf:404f:f330:8a25/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+3: wlp2s0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether 80:91:33:2d:2d:db brd ff:ff:ff:ff:ff:ff
+
+Linux hp-HP-Laptop-14s-dk0xxx 6.11.0-13-generic #14-Ubuntu SMP PREEMPT_DYNAMIC Sat Nov 30 23:51:51 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=24.10
+DISTRIB_CODENAME=oracular
+DISTRIB_DESCRIPTION="Ubuntu 24.10"
+PRETTY_NAME="Ubuntu 24.10"
+NAME="Ubuntu"
+VERSION_ID="24.10"
+VERSION="24.10 (Oracular Oriole)"
+VERSION_CODENAME=oracular
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=oracular
+LOGO=ubuntu-logo
+
