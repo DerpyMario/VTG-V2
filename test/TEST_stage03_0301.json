@@ -1,0 +1,1757 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": 27,
+            "fClipMaxx": 327,
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "BIO_BG04_001 (7)",
+                    "position": {
+                        "x": 177,
+                        "y": "-220.2",
+                        "z": 100
+                    },
+                    "scale": {
+                        "x": 10,
+                        "y": 2,
+                        "z": 12
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/bg/prefabs/BIO_BG04_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "158.823",
+            "fClipMaxx": "178.377",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "BIO_BG02_001 (8)",
+                    "position": {
+                        "x": "168.6",
+                        "y": "-205.492",
+                        "z": "8.5"
+                    },
+                    "scale": {
+                        "x": "1.5",
+                        "y": "1.5",
+                        "z": "1.5"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/bg/prefabs/BIO_BG02_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "158.823",
+            "fClipMaxx": "178.377",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "BIO_BG02_001 (9)",
+                    "position": {
+                        "x": "168.6",
+                        "y": "-181.782",
+                        "z": "8.5"
+                    },
+                    "scale": {
+                        "x": "1.5",
+                        "y": "1.5",
+                        "z": "1.5"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/bg/prefabs/BIO_BG02_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "158.823",
+            "fClipMaxx": "178.377",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "BIO_BG02_002 (7)",
+                    "position": {
+                        "x": "168.6",
+                        "y": "-190.69",
+                        "z": "8.5"
+                    },
+                    "scale": {
+                        "x": "1.5",
+                        "y": "1.5",
+                        "z": "1.5"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/bg/prefabs/BIO_BG02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "158.823",
+            "fClipMaxx": "178.377",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "BIO_BG02_003 (7)",
+                    "position": {
+                        "x": "168.6",
+                        "y": "-196.6",
+                        "z": "8.5"
+                    },
+                    "scale": {
+                        "x": "1.5",
+                        "y": "1.5",
+                        "z": "1.5"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/bg/prefabs/BIO_BG02_003.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "158.823",
+            "fClipMaxx": "178.377",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "BIO_BG02_004 (5)",
+                    "position": {
+                        "x": "168.6",
+                        "y": "-174.39",
+                        "z": "8.5"
+                    },
+                    "scale": {
+                        "x": "1.5",
+                        "y": "1.5",
+                        "z": "1.5"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/bg/prefabs/BIO_BG02_004.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "193.024",
+            "fClipMaxx": "208.576",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "BIO_BG_moon_01",
+                    "position": {
+                        "x": "200.8",
+                        "y": "-181.17",
+                        "z": 50
+                    },
+                    "scale": {
+                        "x": "3.5",
+                        "y": "3.5",
+                        "z": "3.5"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/bg/prefabs/BIO_BG_moon_01.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-55.818",
+            "fClipMaxx": "422.119",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "BIO_clound",
+                    "position": {
+                        "x": "151.5",
+                        "y": -247,
+                        "z": 16
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/bg/prefabs/BIO_clound.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-55.818",
+            "fClipMaxx": "422.119",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "BIO_clound (1)",
+                    "position": {
+                        "x": "151.5",
+                        "y": -195,
+                        "z": -2
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/bg/prefabs/BIO_clound.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "150.5",
+            "fClipMaxx": "175.5",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (10)",
+                    "position": {
+                        "x": "159.633",
+                        "y": "-199.477",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_001 (11)",
+                    "position": {
+                        "x": "159.633",
+                        "y": "-196.677",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (13)",
+                    "position": {
+                        "x": "159.633",
+                        "y": "-193.877",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_003 (4)",
+                    "position": {
+                        "x": "161.46",
+                        "y": "-188.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_003.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_001 (12)",
+                    "position": {
+                        "x": "159.633",
+                        "y": "-191.079",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (15)",
+                    "position": {
+                        "x": "160.84",
+                        "y": "-189.068",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (17)",
+                    "position": {
+                        "x": "160.84",
+                        "y": "-186.268",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_001 (14)",
+                    "position": {
+                        "x": "160.84",
+                        "y": "-183.47",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (19)",
+                    "position": {
+                        "x": "160.84",
+                        "y": "-180.67",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_001 (16)",
+                    "position": {
+                        "x": "160.84",
+                        "y": "-177.871",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (21)",
+                    "position": {
+                        "x": "160.84",
+                        "y": "-175.071",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_001 (19)",
+                    "position": {
+                        "x": "159.73",
+                        "y": "-194.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_001 (20)",
+                    "position": {
+                        "x": "159.73",
+                        "y": "-193.65",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_002 (21)",
+                    "position": {
+                        "x": "160.76",
+                        "y": "-179.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER06_001 (13)",
+                    "position": {
+                        "x": "161.365",
+                        "y": "-182.58",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER06_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_002 (22)",
+                    "position": {
+                        "x": "160.76",
+                        "y": "-183.41",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_002 (23)",
+                    "position": {
+                        "x": "160.76",
+                        "y": "-186.77",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER06_001 (14)",
+                    "position": {
+                        "x": "161.365",
+                        "y": "-186.22",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER06_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER06_001 (15)",
+                    "position": {
+                        "x": "161.365",
+                        "y": "-178.73",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER06_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_002 (24)",
+                    "position": {
+                        "x": "160.76",
+                        "y": "-175.97",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_002 (51)",
+                    "position": {
+                        "x": "168.083",
+                        "y": "-198.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR04_002 (23)",
+                    "position": {
+                        "x": "163.89",
+                        "y": "-198.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR04_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_003 (9)",
+                    "position": {
+                        "x": "165.99",
+                        "y": "-198.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_003.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_002 (52)",
+                    "position": {
+                        "x": "170.283",
+                        "y": "-198.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_002 (44)",
+                    "position": {
+                        "x": "165.76",
+                        "y": "-188.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_002 (45)",
+                    "position": {
+                        "x": "163.56",
+                        "y": "-188.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_002 (43)",
+                    "position": {
+                        "x": "167.96",
+                        "y": "-188.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_002 (47)",
+                    "position": {
+                        "x": "170.16",
+                        "y": "-188.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR04_002 (22)",
+                    "position": {
+                        "x": "172.361",
+                        "y": "-188.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR04_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_002 (53)",
+                    "position": {
+                        "x": "172.483",
+                        "y": "-198.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_002 (54)",
+                    "position": {
+                        "x": "174.683",
+                        "y": "-198.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-鎖定戰鬥閘門",
+                    "name": "111_MapObjEvent_水平平台4",
+                    "position": {
+                        "x": "159.898",
+                        "y": "-197.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":1;2\"MoveToPos\":{\"x\":-2.5189666748046877;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.5;2\"fMoveTime\":1.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0};2{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":111;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":-0.2458953857421875;2\"B2DY\":-0.003429412841796875;2\"B2DW\":0.306610107421875;2\"B2DH\":0.3289947509765625;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"MoveFloorSE\";2\"position\":{\"x\":2.1100387573242189;2\"y\":0.88311767578125;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/MoveFloorSE.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"0\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR04_002\";2\"position\":{\"x\":1.739990234375;2\"y\":-0.2100067138671875;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR04_002.prefab\";2\"bundlepath\":\"stage/prefab/bio_laboratory/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR03_003\";2\"position\":{\"x\":0.418975830078125;2\"y\":-0.2100067138671875;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_003.prefab\";2\"bundlepath\":\"stage/prefab/bio_laboratory/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-透明牆",
+                    "name": "StageBlockWall",
+                    "position": {
+                        "x": "168.79",
+                        "y": "-177.58",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":-0.45647430419921877;2\"B2DY\":0.7144851684570313;2\"B2DW\":21.204025268554689;2\"B2DH\":2.4289703369140627;2\"nLayer\":11;2\"nSemiBlockMode\":0}"
+                },
+                {
+                    "sGroupID": "Group-刺棘傷害",
+                    "name": "MapObjEvent",
+                    "position": {
+                        "x": "161.92",
+                        "y": "-186.82",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":15;2\"MoveToPos\":{\"x\":13.699996948242188;2\"y\":1.3600006103515626;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":950001;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0.0;2\\\"y\\\":0.0;2\\\"z\\\":0.0};2\\\"fMoveTime\\\":0.0;2\\\"fDT\\\":0.0;2\\\"nIntParam1\\\":960006}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":1;2\\\"nIntParam2\\\":2}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":-0.2663116455078125;2\"B2DY\":4.477470397949219;2\"B2DW\":0.690765380859375;2\"B2DH\":12.281173706054688;2\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageMainCamera",
+                    "position": {
+                        "x": "168.51",
+                        "y": "-194.924",
+                        "z": -18
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageMainCamera.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "4"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "175.5",
+            "fClipMaxx": "200.5",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (8)",
+                    "position": {
+                        "x": "177.4",
+                        "y": "-199.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL01_002 (43)",
+                    "position": {
+                        "x": "177.4",
+                        "y": "-198.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL01_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL01_002 (44)",
+                    "position": {
+                        "x": "177.4",
+                        "y": "-197.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL01_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_002 (55)",
+                    "position": {
+                        "x": "176.883",
+                        "y": "-198.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (11)",
+                    "position": {
+                        "x": "177.4",
+                        "y": "-195.55",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (14)",
+                    "position": {
+                        "x": "176.2",
+                        "y": "-193.877",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_001 (13)",
+                    "position": {
+                        "x": "176.2",
+                        "y": "-191.079",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (16)",
+                    "position": {
+                        "x": "176.2",
+                        "y": "-188.279",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (18)",
+                    "position": {
+                        "x": "176.2",
+                        "y": "-185.479",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_001 (15)",
+                    "position": {
+                        "x": "176.2",
+                        "y": "-182.681",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (20)",
+                    "position": {
+                        "x": "176.2",
+                        "y": "-179.881",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_001 (17)",
+                    "position": {
+                        "x": "176.2",
+                        "y": "-177.082",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL02_002 (22)",
+                    "position": {
+                        "x": "176.2",
+                        "y": "-174.282",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/WALL02_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER10_001 (72)",
+                    "position": {
+                        "x": 181,
+                        "y": "-186.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "1.4",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER10_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER10_001 (73)",
+                    "position": {
+                        "x": 181,
+                        "y": "-188.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "1.4",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER10_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER10_001 (74)",
+                    "position": {
+                        "x": "178.2",
+                        "y": "-186.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "1.4",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER10_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER10_001 (75)",
+                    "position": {
+                        "x": "178.2",
+                        "y": "-188.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "1.4",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER10_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_002 (13)",
+                    "position": {
+                        "x": "177.44",
+                        "y": "-199.04",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_001 (17)",
+                    "position": {
+                        "x": "177.3",
+                        "y": "-195.49",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_001 (18)",
+                    "position": {
+                        "x": "176.1",
+                        "y": "-192.75",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_003 (13)",
+                    "position": {
+                        "x": "176.18",
+                        "y": "-174.27",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_003.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_002 (18)",
+                    "position": {
+                        "x": "176.24",
+                        "y": "-185.09",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_002 (19)",
+                    "position": {
+                        "x": "176.24",
+                        "y": "-181.37",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER06_001 (11)",
+                    "position": {
+                        "x": "175.67",
+                        "y": "-184.06",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER06_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER06_001 (12)",
+                    "position": {
+                        "x": "175.67",
+                        "y": "-180.29",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER06_001.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER04_002 (20)",
+                    "position": {
+                        "x": "176.24",
+                        "y": "-177.21",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/OTHER04_002.prefab",
+                    "bundlepath": "stage/prefab/bio_laboratory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-鎖定戰鬥閘門",
+                    "name": "109_MapObjEvent_水平平台3",
+                    "position": {
+                        "x": "178.52",
+                        "y": "-188.86",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":1;2\"MoveToPos\":{\"x\":-2.0640106201171877;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.5;2\"fMoveTime\":1.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0};2{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":109;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":-0.0289459228515625;2\"B2DY\":-0.05917167663574219;2\"B2DW\":0.438140869140625;2\"B2DH\":0.4538383483886719;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"MoveFloorSE\";2\"position\":{\"x\":-276.99993896484377;2\"y\":300.3131103515625;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/MoveFloorSE.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"0\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR03_003\";2\"position\":{\"x\":-0.422271728515625;2\"y\":0.470001220703125;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_003.prefab\";2\"bundlepath\":\"stage/prefab/bio_laboratory/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR04_002\";2\"position\":{\"x\":-1.84228515625;2\"y\":0.470001220703125;2\"z\":0.0};2\"scale\":{\"x\":-1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR04_002.prefab\";2\"bundlepath\":\"stage/prefab/bio_laboratory/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR03_003 (1)\";2\"position\":{\"x\":1.5777000188827515;2\"y\":0.470001220703125;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/BIO_LABORATORY/object/prefabs/FLOOR03_003.prefab\";2\"bundlepath\":\"stage/prefab/bio_laboratory/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-刺棘傷害",
+                    "name": "MapObjEvent",
+                    "position": {
+                        "x": "175.62",
+                        "y": "-185.46",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":15;2\"MoveToPos\":{\"x\":1.2100067138671876;2\"y\":-21.704986572265626;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":950001;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0.0;2\\\"y\\\":0.0;2\\\"z\\\":0.0};2\\\"fMoveTime\\\":0.0;2\\\"fDT\\\":0.0;2\\\"nIntParam1\\\":960006}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":1;2\\\"nIntParam2\\\":2}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":-0.2663116455078125;2\"B2DY\":3.3112564086914064;2\"B2DW\":0.690765380859375;2\"B2DH\":9.683273315429688;2\"Datas\":[]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "200.5",
+            "fClipMaxx": "225.5",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StageLight01",
+                    "position": {
+                        "x": "221.441",
+                        "y": -153,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.383",
+                        "y": "-0.383",
+                        "z": "0.179",
+                        "w": "0.821"
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageLight01.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "5"
+                }
+            ]
+        }
+    ]
+}

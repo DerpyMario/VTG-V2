@@ -1,0 +1,2681 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": 0,
+            "fClipMaxx": "66.34",
+            "Datas": [
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "TILE01_001",
+                    "position": {
+                        "x": "56.89",
+                        "y": "-43.3",
+                        "z": "-4.8"
+                    },
+                    "scale": {
+                        "x": "1.08",
+                        "y": "1.089",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/bg/prefabs/TILE01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,HeatHazeParticle,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": -1,
+            "fClipMaxx": 24,
+            "Datas": [
+                {
+                    "sGroupID": "Group-基礎元件",
+                    "name": "StageLight01",
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.383",
+                        "y": "-0.383",
+                        "z": "0.179",
+                        "w": "0.821"
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageLight01.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "5"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 24,
+            "fClipMaxx": 49,
+            "Datas": [
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "BG03_003",
+                    "position": {
+                        "x": "46.23",
+                        "y": "-42.71",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": "1.4",
+                        "y": "1.4",
+                        "z": "1.4"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/bg/prefabs/BG03_003.prefab",
+                    "bundlepath": "stage/prefab/factory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "BG_FakeLight_001",
+                    "position": {
+                        "x": "47.55",
+                        "y": "-43.294",
+                        "z": "-6.97"
+                    },
+                    "scale": {
+                        "x": "4.749",
+                        "y": "0.886",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/bg/prefabs/BG_FakeLight_001.prefab",
+                    "bundlepath": "stage/prefab/factory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "BG_FakeLight_002",
+                    "position": {
+                        "x": "48.42",
+                        "y": "-43.294",
+                        "z": "-2.22"
+                    },
+                    "scale": {
+                        "x": "1.5",
+                        "y": "1.05",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/bg/prefabs/BG_FakeLight_002.prefab",
+                    "bundlepath": "stage/prefab/factory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "BG_FakeLight_001",
+                    "position": {
+                        "x": "48.38",
+                        "y": "-43.294",
+                        "z": "0.01"
+                    },
+                    "scale": {
+                        "x": "1.18",
+                        "y": "-1.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "-0.5",
+                        "z": "-0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/bg/prefabs/BG_FakeLight_001.prefab",
+                    "bundlepath": "stage/prefab/factory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "BG_FakeLight_002",
+                    "position": {
+                        "x": "48.383",
+                        "y": "-43.294",
+                        "z": "2.237"
+                    },
+                    "scale": {
+                        "x": "1.5",
+                        "y": "-1.05",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/bg/prefabs/BG_FakeLight_002.prefab",
+                    "bundlepath": "stage/prefab/factory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "CEILING01_002 (4)",
+                    "position": {
+                        "x": "45.329",
+                        "y": "-34.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/CEILING01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (238)",
+                    "position": {
+                        "x": "44.752",
+                        "y": "-49.28",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (239)",
+                    "position": {
+                        "x": "44.752",
+                        "y": "-39.74",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (146)",
+                    "position": {
+                        "x": "44.752",
+                        "y": "-42.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (183)",
+                    "position": {
+                        "x": "44.752",
+                        "y": "-44.48",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_001 (63)",
+                    "position": {
+                        "x": "44.752",
+                        "y": "-39.09",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (240)",
+                    "position": {
+                        "x": "47.15",
+                        "y": "-49.28",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (241)",
+                    "position": {
+                        "x": "47.15",
+                        "y": "-39.74",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (184)",
+                    "position": {
+                        "x": "47.15",
+                        "y": "-42.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (191)",
+                    "position": {
+                        "x": "47.15",
+                        "y": "-44.48",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_001 (64)",
+                    "position": {
+                        "x": "47.15",
+                        "y": "-39.09",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-岩漿碰撞與傷害",
+                    "name": "MapObjEvent_傷害",
+                    "position": {
+                        "x": "47.47",
+                        "y": "-43.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":15;2\"MoveToPos\":{\"x\":241.4;2\"y\":-3.77999878;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":950001;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0;2\\\"y\\\":0;2\\\"z\\\":0};2\\\"fMoveTime\\\":0;2\\\"fDT\\\":0;2\\\"nIntParam1\\\":960006}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":1;2\\\"nIntParam2\\\":2}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"keys\":[];2\"length\":0;2\"preWrapMode\":8;2\"postWrapMode\":8};2\"B2DX\":8.99784851;2\"B2DY\":-0.0255584717;2\"B2DW\":18.995697;2\"B2DH\":0.948883057;2\"Datas\":[]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 49,
+            "fClipMaxx": 74,
+            "Datas": [
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "BG03_003",
+                    "position": {
+                        "x": "67.56",
+                        "y": "-42.71",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": "1.4",
+                        "y": "1.4",
+                        "z": "1.4"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/bg/prefabs/BG03_003.prefab",
+                    "bundlepath": "stage/prefab/factory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "BG_FakeLight_001",
+                    "position": {
+                        "x": "66.24",
+                        "y": "-43.294",
+                        "z": "-6.79"
+                    },
+                    "scale": {
+                        "x": "4.749",
+                        "y": "-0.886",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/bg/prefabs/BG_FakeLight_001.prefab",
+                    "bundlepath": "stage/prefab/factory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "BG_FakeLight_001",
+                    "position": {
+                        "x": "65.028",
+                        "y": "-43.294",
+                        "z": "0.01"
+                    },
+                    "scale": {
+                        "x": "1.18",
+                        "y": "1.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "-0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/bg/prefabs/BG_FakeLight_001.prefab",
+                    "bundlepath": "stage/prefab/factory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "BG_FakeLight_002",
+                    "position": {
+                        "x": "65.03",
+                        "y": "-43.294",
+                        "z": "-2.22"
+                    },
+                    "scale": {
+                        "x": "-1.5",
+                        "y": "1.05",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/bg/prefabs/BG_FakeLight_002.prefab",
+                    "bundlepath": "stage/prefab/factory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "BG_FakeLight_002",
+                    "position": {
+                        "x": "65.075",
+                        "y": "-43.294",
+                        "z": "2.237"
+                    },
+                    "scale": {
+                        "x": "-1.5",
+                        "y": "-1.05",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/bg/prefabs/BG_FakeLight_002.prefab",
+                    "bundlepath": "stage/prefab/factory/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-基礎元件",
+                    "name": "StageMainCamera",
+                    "position": {
+                        "x": "57.25",
+                        "y": "-39.5",
+                        "z": -18
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageMainCamera.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "4"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (230)",
+                    "position": {
+                        "x": "66.282",
+                        "y": "-49.28",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (231)",
+                    "position": {
+                        "x": "66.282",
+                        "y": "-39.74",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (145)",
+                    "position": {
+                        "x": "66.282",
+                        "y": "-42.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (181)",
+                    "position": {
+                        "x": "66.282",
+                        "y": "-44.48",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_001 (61)",
+                    "position": {
+                        "x": "66.282",
+                        "y": "-39.09",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (234)",
+                    "position": {
+                        "x": "66.282",
+                        "y": "-36.09",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (235)",
+                    "position": {
+                        "x": "66.282",
+                        "y": "-24.18",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (186)",
+                    "position": {
+                        "x": "66.282",
+                        "y": "-28.92",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (187)",
+                    "position": {
+                        "x": "66.282",
+                        "y": "-31.29",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (190)",
+                    "position": {
+                        "x": "66.282",
+                        "y": "-26.55",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (208)",
+                    "position": {
+                        "x": "71.1",
+                        "y": "-45.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (209)",
+                    "position": {
+                        "x": "71.1",
+                        "y": "-40.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (245)",
+                    "position": {
+                        "x": "73.5",
+                        "y": "-45.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (247)",
+                    "position": {
+                        "x": "73.5",
+                        "y": "-40.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_002 (80)",
+                    "position": {
+                        "x": "73.5",
+                        "y": "-40.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_001 (58)",
+                    "position": {
+                        "x": "71.1",
+                        "y": "-40.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (226)",
+                    "position": {
+                        "x": "70.96",
+                        "y": "-31.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (227)",
+                    "position": {
+                        "x": "70.96",
+                        "y": "-26.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (260)",
+                    "position": {
+                        "x": "73.36",
+                        "y": "-31.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (261)",
+                    "position": {
+                        "x": "73.36",
+                        "y": "-26.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (232)",
+                    "position": {
+                        "x": "68.68",
+                        "y": "-49.28",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (233)",
+                    "position": {
+                        "x": "68.68",
+                        "y": "-39.74",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (182)",
+                    "position": {
+                        "x": "68.68",
+                        "y": "-42.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (185)",
+                    "position": {
+                        "x": "68.68",
+                        "y": "-44.48",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_001 (62)",
+                    "position": {
+                        "x": "68.68",
+                        "y": "-39.09",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (236)",
+                    "position": {
+                        "x": "68.68",
+                        "y": "-36.09",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (237)",
+                    "position": {
+                        "x": "68.68",
+                        "y": "-24.18",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (188)",
+                    "position": {
+                        "x": "68.68",
+                        "y": "-28.92",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (189)",
+                    "position": {
+                        "x": "68.68",
+                        "y": "-31.29",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (195)",
+                    "position": {
+                        "x": "68.68",
+                        "y": "-26.55",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "CEILING01_002",
+                    "position": {
+                        "x": "62.928",
+                        "y": "-34.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/CEILING01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "CEILING01_002 (1)",
+                    "position": {
+                        "x": "58.527",
+                        "y": "-34.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/CEILING01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "CEILING01_002 (2)",
+                    "position": {
+                        "x": "54.13",
+                        "y": "-34.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/CEILING01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "CEILING01_002 (3)",
+                    "position": {
+                        "x": "49.729",
+                        "y": "-34.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/CEILING01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR04_004",
+                    "position": {
+                        "x": "49.54",
+                        "y": "-40.07",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": "0.8"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR04_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR04_004 (1)",
+                    "position": {
+                        "x": "51.93",
+                        "y": "-40.07",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": "0.8"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR04_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR04_004 (2)",
+                    "position": {
+                        "x": "54.32",
+                        "y": "-40.07",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": "0.8"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR04_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR04_004 (3)",
+                    "position": {
+                        "x": "56.71",
+                        "y": "-40.07",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": "0.8"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR04_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR04_004 (4)",
+                    "position": {
+                        "x": "59.11",
+                        "y": "-40.07",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": "0.8"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR04_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR04_004 (5)",
+                    "position": {
+                        "x": "61.5",
+                        "y": "-40.07",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": "0.8"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR04_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR04_004 (6)",
+                    "position": {
+                        "x": "63.89",
+                        "y": "-40.07",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": "0.8"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR04_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-岩漿碰撞與傷害",
+                    "name": "StageBlockWall_碰撞(地板)",
+                    "position": {
+                        "x": "54.907",
+                        "y": "-44.39",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":\"1.406\";2\"B2DY\":\"-0.739\";2\"B2DW\":\"19.687\";2\"B2DH\":\"2.524\";2\"nLayer\":11;2\"nSemiBlockMode\":0}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 74,
+            "fClipMaxx": 99,
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (244)",
+                    "position": {
+                        "x": "75.82",
+                        "y": "-45.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (246)",
+                    "position": {
+                        "x": "75.82",
+                        "y": "-40.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_002 (82)",
+                    "position": {
+                        "x": "75.82",
+                        "y": "-40.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (250)",
+                    "position": {
+                        "x": "85.365",
+                        "y": "-45.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (251)",
+                    "position": {
+                        "x": "85.365",
+                        "y": "-40.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_002 (83)",
+                    "position": {
+                        "x": "78.16",
+                        "y": "-40.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (210)",
+                    "position": {
+                        "x": "87.76",
+                        "y": "-45.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (211)",
+                    "position": {
+                        "x": "87.76",
+                        "y": "-40.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_002 (84)",
+                    "position": {
+                        "x": "80.54",
+                        "y": "-40.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (255)",
+                    "position": {
+                        "x": "80.56",
+                        "y": "-31.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (257)",
+                    "position": {
+                        "x": "80.56",
+                        "y": "-26.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (164)",
+                    "position": {
+                        "x": "90.14",
+                        "y": "-44.54",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (68)",
+                    "position": {
+                        "x": "90.14",
+                        "y": "-30.26",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (165)",
+                    "position": {
+                        "x": "90.14",
+                        "y": "-23.13",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (182)",
+                    "position": {
+                        "x": "92.54",
+                        "y": "-44.54",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (185)",
+                    "position": {
+                        "x": "92.54",
+                        "y": "-23.13",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_004 (137)",
+                    "position": {
+                        "x": "92.54",
+                        "y": "-30.26",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (147)",
+                    "position": {
+                        "x": "90.14",
+                        "y": "-32.63",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_004 (140)",
+                    "position": {
+                        "x": "92.54",
+                        "y": "-32.63",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (149)",
+                    "position": {
+                        "x": "90.14",
+                        "y": -35,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_004 (143)",
+                    "position": {
+                        "x": "92.54",
+                        "y": -35,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (151)",
+                    "position": {
+                        "x": "90.14",
+                        "y": "-37.37",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_004 (146)",
+                    "position": {
+                        "x": "92.54",
+                        "y": "-37.37",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (153)",
+                    "position": {
+                        "x": "90.14",
+                        "y": "-39.74",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_004 (149)",
+                    "position": {
+                        "x": "92.54",
+                        "y": "-39.74",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_001 (60)",
+                    "position": {
+                        "x": "87.74",
+                        "y": "-40.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_002 (85)",
+                    "position": {
+                        "x": "82.94",
+                        "y": "-40.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_002 (87)",
+                    "position": {
+                        "x": "85.34",
+                        "y": "-40.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/FLOOR02_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (253)",
+                    "position": {
+                        "x": "82.96",
+                        "y": "-31.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (256)",
+                    "position": {
+                        "x": "82.96",
+                        "y": "-26.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (258)",
+                    "position": {
+                        "x": "85.36",
+                        "y": "-31.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (259)",
+                    "position": {
+                        "x": "85.36",
+                        "y": "-26.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (224)",
+                    "position": {
+                        "x": "87.76",
+                        "y": "-31.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_001 (225)",
+                    "position": {
+                        "x": "87.76",
+                        "y": "-26.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_001.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (318)",
+                    "position": {
+                        "x": "78.16",
+                        "y": "-31.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (319)",
+                    "position": {
+                        "x": "78.16",
+                        "y": "-26.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (320)",
+                    "position": {
+                        "x": "75.76",
+                        "y": "-31.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (321)",
+                    "position": {
+                        "x": "75.76",
+                        "y": "-26.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (69)",
+                    "position": {
+                        "x": "90.14",
+                        "y": "-27.89",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_004 (151)",
+                    "position": {
+                        "x": "92.54",
+                        "y": "-27.89",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_002 (70)",
+                    "position": {
+                        "x": "90.14",
+                        "y": "-25.52",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_002.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_004 (154)",
+                    "position": {
+                        "x": "92.54",
+                        "y": "-25.52",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_004.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (248)",
+                    "position": {
+                        "x": "82.97",
+                        "y": "-45.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (249)",
+                    "position": {
+                        "x": "82.97",
+                        "y": "-40.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (252)",
+                    "position": {
+                        "x": "80.59",
+                        "y": "-45.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (254)",
+                    "position": {
+                        "x": "80.59",
+                        "y": "-40.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (294)",
+                    "position": {
+                        "x": "78.2",
+                        "y": "-45.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "-0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "GRID01_003 (295)",
+                    "position": {
+                        "x": "78.2",
+                        "y": "-40.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "0.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/FACTORY/object/prefabs/GRID01_003.prefab",
+                    "bundlepath": "stage/prefab/factory/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        }
+    ]
+}

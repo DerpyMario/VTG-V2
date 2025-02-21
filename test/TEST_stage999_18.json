@@ -1,0 +1,392 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "9.7",
+            "fClipMaxx": "34.7",
+            "Datas": [
+                {
+                    "sGroupID": "Group-BG",
+                    "name": "102_MapObjEvent",
+                    "position": {
+                        "x": "10.7",
+                        "y": "-0.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.5;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":1;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":102;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"BG_sky\";2\"position\":{\"x\":19.299999237060548;2\"y\":7.859999656677246;2\"z\":50.0};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":3.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/BG/prefabs/BG_sky.prefab\";2\"bundlepath\":\"stage/prefab/jakob/bg/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"BG_cloud_b\";2\"position\":{\"x\":19.299999237060548;2\"y\":7.760000228881836;2\"z\":30.0};2\"scale\":{\"x\":2.3999998569488527;2\"y\":1.0;2\"z\":10.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/BG/prefabs/BG_cloud_b.prefab\";2\"bundlepath\":\"stage/prefab/jakob/bg/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"BG_cloud_a\";2\"position\":{\"x\":19.299999237060548;2\"y\":7.760000228881836;2\"z\":15.0};2\"scale\":{\"x\":2.3999998569488527;2\"y\":1.0;2\"z\":10.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/BG/prefabs/BG_cloud_a.prefab\";2\"bundlepath\":\"stage/prefab/jakob/bg/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-電梯",
+                    "name": "102_MapObjEvent",
+                    "position": {
+                        "x": "10.7",
+                        "y": "-0.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.5;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":1;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":102;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"101_MapObjEvent\";2\"position\":{\"x\":18.799999237060548;2\"y\":-21.81999969482422;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/MapObjEvent.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"10;2MAPEVENT_OBJ3{\\\"mapEvent\\\":1;3\\\"MoveToPos\\\":{\\\"x\\\":0.0;3\\\"y\\\":18.940000534057618;3\\\"z\\\":0.0};3\\\"fDelayTime\\\":0.0;3\\\"fMoveTime\\\":4.570000171661377;3\\\"bLoop\\\":false;3\\\"nType\\\":129;3\\\"bCheckPlayer\\\":true;3\\\"bCheckEnemy\\\":false;3\\\"bCheckRideObj\\\":true;3\\\"bRunAtInit\\\":false;3\\\"bUB2D\\\":true;3\\\"nCommonBit\\\":0;3\\\"bmgs\\\":\\\"{\\\\\\\"listMutliMove\\\\\\\":[{\\\\\\\"tMovePos\\\\\\\":{\\\\\\\"x\\\\\\\":29.5;3\\\\\\\"y\\\\\\\":21.200000762939454;3\\\\\\\"z\\\\\\\":0.0};3\\\\\\\"fMoveTime\\\\\\\":6.0;3\\\\\\\"fDT\\\\\\\":0.0;3\\\\\\\"nIntParam1\\\\\\\":0}];3\\\\\\\"listMutliAni\\\\\\\":[{\\\\\\\"aniName\\\\\\\":\\\\\\\"\\\\\\\";3\\\\\\\"nIntParam1\\\\\\\":0;3\\\\\\\"nIntParam2\\\\\\\":1600};3{\\\\\\\"aniName\\\\\\\":\\\\\\\"\\\\\\\";3\\\\\\\"nIntParam1\\\\\\\":0;3\\\\\\\"nIntParam2\\\\\\\":0}];3\\\\\\\"nBitParam0\\\\\\\":0}\\\";3\\\"bmge\\\":\\\"\\\";3\\\"nSetID\\\":101;3\\\"mspd\\\":{\\\"serializedVersion\\\":\\\"2\\\";3\\\"m_Curve\\\":[];3\\\"m_PreInfinity\\\":2;3\\\"m_PostInfinity\\\":2;3\\\"m_RotationOrder\\\":4};3\\\"B2DX\\\":-13.004422187805176;3\\\"B2DY\\\":-0.31238555908203127;3\\\"B2DW\\\":1.8356761932373047;3\\\"B2DH\\\":1.4589881896972657;3\\\"Datas\\\":[{\\\"sGroupID\\\":\\\"\\\";3\\\"name\\\":\\\"OTHER01_001 (2)\\\";3\\\"position\\\":{\\\"x\\\":0.0;3\\\"y\\\":0.0;3\\\"z\\\":8.696199671476279e-8};3\\\"scale\\\":{\\\"x\\\":2.799999952316284;3\\\"y\\\":1.0;3\\\"z\\\":1.5};3\\\"rotate\\\":{\\\"x\\\":-0.7068970203399658;3\\\"y\\\":0.0;3\\\"z\\\":0.0;3\\\"w\\\":0.707316517829895};3\\\"path\\\":\\\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/OTHER01_001.prefab\\\";3\\\"bundlepath\\\":\\\"stage/prefab/jakob/object/prefabs_new\\\";3\\\"property\\\":\\\"0;3-1;31;31;30;30;3;3-1;31;31;30;30\\\"};3{\\\"sGroupID\\\":\\\"\\\";3\\\"name\\\":\\\"MoveElevatorSE\\\";3\\\"position\\\":{\\\"x\\\":40.720001220703128;3\\\"y\\\":-48.073646545410159;3\\\"z\\\":0.039507538080215457};3\\\"scale\\\":{\\\"x\\\":1.0;3\\\"y\\\":1.0;3\\\"z\\\":1.0};3\\\"rotate\\\":{\\\"x\\\":0.0;3\\\"y\\\":0.0;3\\\"z\\\":0.0;3\\\"w\\\":1.0};3\\\"path\\\":\\\"Assets/RockmanUnity/Prefabs/MoveElevatorSE.prefab\\\";3\\\"bundlepath\\\":\\\"prefab/stage/stagepack\\\";3\\\"property\\\":\\\"0\\\"};3{\\\"sGroupID\\\":\\\"\\\";3\\\"name\\\":\\\"OTHER01_001 (3)\\\";3\\\"position\\\":{\\\"x\\\":0.0;3\\\"y\\\":18.920000076293947;3\\\"z\\\":0.0};3\\\"scale\\\":{\\\"x\\\":2.799999952316284;3\\\"y\\\":1.0;3\\\"z\\\":1.5};3\\\"rotate\\\":{\\\"x\\\":-0.7068970203399658;3\\\"y\\\":0.0;3\\\"z\\\":0.0;3\\\"w\\\":0.707316517829895};3\\\"path\\\":\\\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/OTHER01_001.prefab\\\";3\\\"bundlepath\\\":\\\"stage/prefab/jakob/object/prefabs_new\\\";3\\\"property\\\":\\\"0;3-1;31;31;30;30;3;3-1;31;31;30;30\\\"}]}\"}]}"
+                },
+                {
+                    "sGroupID": "Group1-物件1",
+                    "name": "102_MapObjEvent",
+                    "position": {
+                        "x": "10.7",
+                        "y": "-0.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.5;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":1;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":102;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"ROOM01_004\";2\"position\":{\"x\":18.790000915527345;2\"y\":-2.9100000858306886;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM01_004.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM01_003\";2\"position\":{\"x\":18.790000915527345;2\"y\":-7.409999847412109;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM01_003.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM01_002\";2\"position\":{\"x\":18.790000915527345;2\"y\":-10.859999656677246;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM01_002.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM01_001\";2\"position\":{\"x\":18.790000915527345;2\"y\":6.079999923706055;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM01_001.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM01_003 (1)\";2\"position\":{\"x\":18.790000915527345;2\"y\":1.5899999141693116;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM01_003.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM03_001 (4)\";2\"position\":{\"x\":18.790000915527345;2\"y\":-19.829999923706056;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM03_001.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM03_001 (5)\";2\"position\":{\"x\":18.790000915527345;2\"y\":-13.90999984741211;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM03_001.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM02_001 (4)\";2\"position\":{\"x\":18.790000915527345;2\"y\":12.420000076293946;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM02_001.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2Glass;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM02_001 (5)\";2\"position\":{\"x\":18.790000915527345;2\"y\":18.380001068115236;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM02_001.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2Glass;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM02_001 (6)\";2\"position\":{\"x\":18.790000915527345;2\"y\":24.31999969482422;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM02_001.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2Glass;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM02_001 (7)\";2\"position\":{\"x\":18.790000915527345;2\"y\":30.280000686645509;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM02_001.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2Glass;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM02_001 (8)\";2\"position\":{\"x\":18.790000915527345;2\"y\":36.23999786376953;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM02_001.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2Glass;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"ROOM02_001 (9)\";2\"position\":{\"x\":18.790000915527345;2\"y\":42.19999694824219;2\"z\":2.2200000286102297};2\"scale\":{\"x\":1.799999713897705;2\"y\":1.499999761581421;2\"z\":1.499999761581421};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/JAKOB/object/prefabs/ROOM02_001.prefab\";2\"bundlepath\":\"stage/prefab/jakob/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2Glass;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-Start & End",
+                    "name": "StageMainCamera",
+                    "position": {
+                        "x": "29.6",
+                        "y": "-13.68",
+                        "z": -18
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageMainCamera.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "4"
+                },
+                {
+                    "sGroupID": "Group-雜訊畫面",
+                    "name": "104_MapObjEvent",
+                    "position": {
+                        "x": "27.301",
+                        "y": "-4.086",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":104;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"fad_noise_efx_2\";2\"position\":{\"x\":2.1988790035247804;2\"y\":0.986018717288971;2\"z\":-4.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/fad_noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-雜訊畫面",
+                    "name": "105_MapObjEvent",
+                    "position": {
+                        "x": "27.301",
+                        "y": "-4.086",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":105;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"fad_noise_efx_2\";2\"position\":{\"x\":2.1988790035247804;2\"y\":0.986018717288971;2\"z\":-4.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/fad_noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-雜訊畫面",
+                    "name": "106_MapObjEvent",
+                    "position": {
+                        "x": "27.301",
+                        "y": "-4.086",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":106;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"fad_noise_efx_2\";2\"position\":{\"x\":2.1988790035247804;2\"y\":0.986018717288971;2\"z\":-4.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/fad_noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-雜訊畫面",
+                    "name": "107_MapObjEvent",
+                    "position": {
+                        "x": "27.301",
+                        "y": "-4.086",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":107;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"fad_noise_efx_2\";2\"position\":{\"x\":2.1988790035247804;2\"y\":0.986018717288971;2\"z\":-4.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/fad_noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-雜訊畫面",
+                    "name": "108_MapObjEvent",
+                    "position": {
+                        "x": "27.301",
+                        "y": "-4.086",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":108;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"fad_noise_efx_2\";2\"position\":{\"x\":2.1988790035247804;2\"y\":0.986018717288971;2\"z\":-4.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/fad_noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-雜訊畫面",
+                    "name": "109_MapObjEvent",
+                    "position": {
+                        "x": "27.301",
+                        "y": "-4.086",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":109;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"fad_noise_efx_2\";2\"position\":{\"x\":2.1988790035247804;2\"y\":0.986018717288971;2\"z\":-4.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/fad_noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-雜訊畫面",
+                    "name": "110_MapObjEvent",
+                    "position": {
+                        "x": "27.301",
+                        "y": "-4.086",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":110;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"fad_noise_efx_2\";2\"position\":{\"x\":2.1988790035247804;2\"y\":0.986018717288971;2\"z\":-4.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/fad_noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-雜訊畫面",
+                    "name": "111_MapObjEvent",
+                    "position": {
+                        "x": "27.301",
+                        "y": "-4.086",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":111;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"fad_noise_efx_2\";2\"position\":{\"x\":2.1988790035247804;2\"y\":0.986018717288971;2\"z\":-4.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/fad_noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageLight01",
+                    "position": {
+                        "x": "30.2",
+                        "y": "29.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.273",
+                        "y": "0.403",
+                        "z": "-0.127",
+                        "w": "0.864"
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageLight01.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "5"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "34.7",
+            "fClipMaxx": "59.7",
+            "Datas": [
+                {
+                    "sGroupID": "Group-雜訊",
+                    "name": "112_MapObjEvent",
+                    "position": {
+                        "x": "50.809",
+                        "y": "-3.732",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":1;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":112;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"noise_efx\";2\"position\":{\"x\":-28.968589782714845;2\"y\":-9.707697868347168;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"noise_efx_2\";2\"position\":{\"x\":-24.06859016418457;2\"y\":-10.037698745727539;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2noise_a;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"noise_efx (1)\";2\"position\":{\"x\":-23.60858917236328;2\"y\":-3.4976980686187746;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"noise_efx_2 (1)\";2\"position\":{\"x\":-30.938589096069337;2\"y\":-3.827697992324829;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2noise_a;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"noise_efx (2)\";2\"position\":{\"x\":-23.60858917236328;2\"y\":1.0023019313812256;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"noise_efx_2 (2)\";2\"position\":{\"x\":-30.938589096069337;2\"y\":0.6723020076751709;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2noise_a;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"noise_efx (3)\";2\"position\":{\"x\":-20.958589553833009;2\"y\":-9.707697868347168;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"noise_efx_2 (3)\";2\"position\":{\"x\":-16.058589935302736;2\"y\":-10.037698745727539;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2noise_a;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"noise_efx (4)\";2\"position\":{\"x\":-15.598590850830079;2\"y\":-3.4976980686187746;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"noise_efx_2 (4)\";2\"position\":{\"x\":-22.928590774536134;2\"y\":-3.827697992324829;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2noise_a;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"noise_efx (5)\";2\"position\":{\"x\":-15.598590850830079;2\"y\":1.0023019313812256;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"noise_efx_2 (5)\";2\"position\":{\"x\":-22.928590774536134;2\"y\":0.6723020076751709;2\"z\":-5.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/noise_efx_2.prefab\";2\"bundlepath\":\"stage/prefab/stage_object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2noise_a;2-1;21;21;20;20\"}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "59.7",
+            "fClipMaxx": "84.7",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "103_MapObjEvent",
+                    "position": {
+                        "x": "67.2",
+                        "y": "1.63",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":-56.499996185302737;2\"y\":-0.6300429105758667;2\"z\":0.0000152587890625};2\"fDelayTime\":0.10000000149011612;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":103;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"FLOOR02_006 (3)\";2\"position\":{\"x\":-4.659999847412109;2\"y\":-5.130043029785156;2\"z\":0.0000152587890625};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_006.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new2\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2FLOOR02_006A;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR02_001 (3)\";2\"position\":{\"x\":-58.56999588012695;2\"y\":-5.130043029785156;2\"z\":0.0000152587890625};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_001.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR02_004 (4)\";2\"position\":{\"x\":-54.3699951171875;2\"y\":-5.130043029785156;2\"z\":0.0000152587890625};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_004.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new2\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR02_007 (6)\";2\"position\":{\"x\":-51.39999771118164;2\"y\":-5.240042686462402;2\"z\":0.0000152587890625};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_007.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new2\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR02_009 (4)\";2\"position\":{\"x\":-46.959999084472659;2\"y\":-5.240042686462402;2\"z\":0.0000152587890625};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_009.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new2\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2FLOOR02_009A;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR02_008 (8)\";2\"position\":{\"x\":-42.43999481201172;2\"y\":-5.240042686462402;2\"z\":0.0000152587890625};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_008.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new2\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR02_008 (7)\";2\"position\":{\"x\":-38.55999755859375;2\"y\":-5.240042686462402;2\"z\":0.0000152587890625};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_008.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new2\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR02_008 (9)\";2\"position\":{\"x\":-34.589996337890628;2\"y\":-5.240042686462402;2\"z\":0.0000152587890625};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_008.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new2\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR02_007 (8)\";2\"position\":{\"x\":-30.589996337890626;2\"y\":-5.240042686462402;2\"z\":0.0000152587890625};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_007.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new2\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR02_004 (5)\";2\"position\":{\"x\":-23.6299991607666;2\"y\":-5.130043029785156;2\"z\":0.0000152587890625};2\"scale\":{\"x\":-2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_004.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new2\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR02_003 (3)\";2\"position\":{\"x\":-20.049999237060548;2\"y\":-5.130043029785156;2\"z\":0.0000152587890625};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_003.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new2\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20;2FLOOR02_003A;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER02_001 (8)\";2\"position\":{\"x\":-29.829999923706056;2\"y\":2.109999895095825;2\"z\":0.0};2\"scale\":{\"x\":-1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/OTHER02_001.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new7\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR02_008 (10)\";2\"position\":{\"x\":-26.6200008392334;2\"y\":-5.240042686462402;2\"z\":0.0000152587890625};2\"scale\":{\"x\":2.0;2\"y\":2.0;2\"z\":2.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_008.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new2\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR07_001 (1)\";2\"position\":{\"x\":-37.540000915527347;2\"y\":-1.2300000190734864;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR07_001.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new4\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER02_001 (9)\";2\"position\":{\"x\":-45.040000915527347;2\"y\":4.239999771118164;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/OTHER02_001.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new7\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-物件2背景",
+                    "name": "103_MapObjEvent",
+                    "position": {
+                        "x": "67.2",
+                        "y": "1.63",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":0.0;2\"y\":8.344650268554688e-7;2\"z\":0.0};2\"fDelayTime\":0.10000000149011612;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":false;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":103;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"BG_skyB\";2\"position\":{\"x\":-30.0;2\"y\":7.599999904632568;2\"z\":32.0};2\"scale\":{\"x\":1.4999998807907105;2\"y\":1.499999761581421;2\"z\":1.5999999046325684};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.7071068286895752;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/BG/prefabs/BG_skyB.prefab\";2\"bundlepath\":\"stage/prefab/air_force/bg/prefabs_new\";2\"property\":\"0;2BG_cloudA;2-1;21;21;20;20;2BG_cloudB;2-1;21;21;20;20;2BG_cloudC;2-1;21;21;20;20;2BG_sky;2-1;21;21;20;20\"}]}"
+                }
+            ]
+        }
+    ]
+}

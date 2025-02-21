@@ -1,0 +1,393 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "28.5",
+            "fClipMaxx": "53.5",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "MapObjEvent (4)",
+                    "position": {
+                        "x": "39.67",
+                        "y": "3.24",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ1{\"mapEvent\":36;1\"MoveToPos\":{\"x\":-4.219997406005859;1\"y\":0.0;1\"z\":0.0};1\"fDelayTime\":0.0;1\"fMoveTime\":3.0;1\"bLoop\":false;1\"nType\":1000;1\"bCheckPlayer\":true;1\"bCheckEnemy\":false;1\"bCheckRideObj\":true;1\"bRunAtInit\":false;1\"bUB2D\":true;1\"nCommonBit\":0;1\"bmgs\":\"\";1\"bmge\":\"\";1\"nSetID\":0;1\"mspd\":{\"serializedVersion\":\"2\";1\"m_Curve\":[];1\"m_PreInfinity\":2;1\"m_PostInfinity\":2;1\"m_RotationOrder\":4};1\"B2DX\":0.9460563659667969;1\"B2DY\":-0.20641803741455079;1\"B2DW\":2.8921127319335939;1\"B2DH\":13.591127395629883;1\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "51.09",
+                        "y": "-0.37",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":true;\"bUnLockRange\":true;\"nEndEventID\":26;\"nEndParam1\":501;\"nSetID\":0;\"bDead\":false;\"fDTime\":0.0;\"sSave\":\"0;0;1;0;0\";\"B2DX\":-1.01531982421875;\"B2DY\":0.1353778839111328;\"B2DW\":3.0306396484375;\"B2DH\":11.288597106933594;\"SpawnPoints\":[{\"x\":51.09000015258789;\"y\":-0.3700000047683716;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":101401;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":999;\"nStageCustomType\":0;\"nStageCustomParams\":[0;0;0]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": 41,
+                        "y": "-0.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ2;1;0;1;0;0;0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "MapObjEvent",
+                    "position": {
+                        "x": "45.72",
+                        "y": "5.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ1{\"mapEvent\":17;1\"MoveToPos\":{\"x\":6.558738708496094;1\"y\":-1.2475905418395997;1\"z\":0.0};1\"fDelayTime\":0.0;1\"fMoveTime\":0.0;1\"bLoop\":false;1\"nType\":0;1\"bCheckPlayer\":true;1\"bCheckEnemy\":false;1\"bCheckRideObj\":true;1\"bRunAtInit\":false;1\"bUB2D\":true;1\"nCommonBit\":0;1\"bmgs\":\"{\\\"listMutliMove\\\":[];1\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"1\\\";1\\\"nIntParam1\\\":0;1\\\"nIntParam2\\\":0}];1\\\"nBitParam0\\\":0}\";1\"bmge\":\"\";1\"nSetID\":1000;1\"mspd\":{\"serializedVersion\":\"2\";1\"m_Curve\":[];1\"m_PreInfinity\":2;1\"m_PostInfinity\":2;1\"m_RotationOrder\":4};1\"B2DX\":4.345027923583984;1\"B2DY\":-2.80325984954834;1\"B2DW\":4.169677734375;1\"B2DH\":12.731706619262696;1\"Datas\":[{\"sGroupID\":\"\";1\"name\":\"OTHER07_001\";1\"position\":{\"x\":4.079998016357422;1\"y\":-3.0299999713897707;1\"z\":2.5};1\"scale\":{\"x\":0.9999998807907105;1\"y\":0.9999999403953552;1\"z\":0.9999999403953552};1\"rotate\":{\"x\":0.0;1\"y\":0.7071068286895752;1\"z\":0.7071068286895752;1\"w\":0.0};1\"path\":\"Assets/Main/_AssetBundles/Art/stage/AREA_H/object/prefabs/OTHER07_001.prefab\";1\"bundlepath\":\"stage/prefab/area_h/object/prefabs_new\";1\"property\":\"0;1-1;11;11;10;10;1;1-1;11;11;10;10;1OTHER07_001_part;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work);1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_top;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_top/middle_water_mesh_002a;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_top/middle_water_mesh_002a (1);1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_top/m_water_f0;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_top/m_water_f1-1;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_top/m_water_f1-2;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_top/m_w_line-1 ;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_top/m_w_line-2;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_top/water_up-middle 1;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_top/water_nss-middle 2 ;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_middle;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_middle/water_middle;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_middle/water_middle/m_water_f1-3;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_middle/water_middle/middle_water_mesh_002a;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_middle/water_middle/water_stup2;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_middle/water_middle/water_bits;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_middle/water_middle/w01-2;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_middle/water_middle/m_water_f1-3 (1);1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_down;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_down/down;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_down/down/m_water_f1-3;1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_down/down/floor_water_f0w2 (2);1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_down/down/up_water_f01 (2);1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_down/down/f_water_f1-1 (2);1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_down/down/water_up-middle (2);1-1;11;11;10;10;1fxuse_SUMMER-AERA_000/fxuse_SUMMER-AERA_000_(work)/fxuse_SUMMER-AERA_000_down/down/water_bits1 (2);1-1;11;11;10;10\"}]}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "MapObjEvent",
+                    "position": {
+                        "x": "35.45",
+                        "y": "3.24",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ1{\"mapEvent\":36;1\"MoveToPos\":{\"x\":10.800827026367188;1\"y\":-0.972480058670044;1\"z\":0.0};1\"fDelayTime\":0.0;1\"fMoveTime\":10.0;1\"bLoop\":false;1\"nType\":1000;1\"bCheckPlayer\":true;1\"bCheckEnemy\":false;1\"bCheckRideObj\":true;1\"bRunAtInit\":false;1\"bUB2D\":true;1\"nCommonBit\":0;1\"bmgs\":\"\";1\"bmge\":\"\";1\"nSetID\":0;1\"mspd\":{\"serializedVersion\":\"2\";1\"m_Curve\":[];1\"m_PreInfinity\":2;1\"m_PostInfinity\":2;1\"m_RotationOrder\":4};1\"B2DX\":0.9460563659667969;1\"B2DY\":-0.20641803741455079;1\"B2DW\":2.8921127319335939;1\"B2DH\":13.591127395629883;1\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-222632",
+                    "name": "501_LockRangePoint_1",
+                    "position": {
+                        "x": "44.13",
+                        "y": "2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":31.429988861083986;\"fMax\":507.8399658203125;\"fTop\":29.80000114440918;\"fBtn\":-5.909999847412109;\"nType\":0;\"B2DX\":-1.2655372619628907;\"B2DY\":-2.1845035552978517;\"B2DW\":6.813179016113281;\"B2DH\":8.126056671142579;\"fSpeed\":10.0;\"nSetID\":501;\"sMsg\":\"0;0.000;0;0;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-222632",
+                    "name": "501_LockRangePoint_1 (1)",
+                    "position": {
+                        "x": "44.13",
+                        "y": "2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":31.520000457763673;\"fMax\":82.43000030517578;\"fTop\":8.470000267028809;\"fBtn\":-5.909999847412109;\"nType\":0;\"B2DX\":-2.326446533203125;\"B2DY\":-2.417452812194824;\"B2DW\":4.498237609863281;\"B2DH\":7.660158157348633;\"fSpeed\":10.0;\"nSetID\":502;\"sMsg\":\"0;0.000;1;0;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-222632",
+                    "name": "501_LockRangePoint_1 (2)",
+                    "position": {
+                        "x": "44.13",
+                        "y": "2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":60.959999084472659;\"fMax\":82.43000030517578;\"fTop\":8.470000267028809;\"fBtn\":-5.909999847412109;\"nType\":0;\"B2DX\":24.418167114257814;\"B2DY\":-0.3272886276245117;\"B2DW\":8.203376770019532;\"B2DH\":11.840486526489258;\"fSpeed\":10.0;\"nSetID\":503;\"sMsg\":\"0;0.000;1;0;0;0;0\"}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "203.5",
+            "fClipMaxx": "228.5",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "MapObjEvent_2",
+                    "position": {
+                        "x": "228.21",
+                        "y": "-74.12",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ1{\"mapEvent\":17;1\"MoveToPos\":{\"x\":394.1100158691406;1\"y\":-93.31999206542969;1\"z\":0.0};1\"fDelayTime\":0.0;1\"fMoveTime\":0.0;1\"bLoop\":false;1\"nType\":0;1\"bCheckPlayer\":true;1\"bCheckEnemy\":false;1\"bCheckRideObj\":true;1\"bRunAtInit\":false;1\"bUB2D\":true;1\"nCommonBit\":0;1\"bmgs\":\"{\\\"listMutliMove\\\":[];1\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"1\\\";1\\\"nIntParam1\\\":1;1\\\"nIntParam2\\\":0};1{\\\"aniName\\\":\\\"2\\\";1\\\"nIntParam1\\\":0;1\\\"nIntParam2\\\":0};1{\\\"aniName\\\":\\\"3\\\";1\\\"nIntParam1\\\":1;1\\\"nIntParam2\\\":0}];1\\\"nBitParam0\\\":0}\";1\"bmge\":\"\";1\"nSetID\":2;1\"mspd\":{\"serializedVersion\":\"2\";1\"m_Curve\":[];1\"m_PreInfinity\":2;1\"m_PostInfinity\":2;1\"m_RotationOrder\":4};1\"B2DX\":10000.0;1\"B2DY\":10000.0;1\"B2DW\":1.0;1\"B2DH\":1.0;1\"Datas\":[{\"sGroupID\":\"\";1\"name\":\"gate_00\";1\"position\":{\"x\":26.3700008392334;1\"y\":-3.5300025939941408;1\"z\":0.0};1\"scale\":{\"x\":1.0499999523162842;1\"y\":1.0;1\"z\":1.0};1\"rotate\":{\"x\":-0.7071068286895752;1\"y\":0.0;1\"z\":0.0;1\"w\":0.7071068286895752};1\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/gate_00.prefab\";1\"bundlepath\":\"prefab/stage/stageobject\";1\"property\":\"0;1gate_base;1-1;11;11;10;10;1gate_center_down;1-1;11;11;10;10;1gate_center_top;1-1;11;11;10;10;1gate_lev01_down;1-1;11;11;10;10;1gate_lev01_top;1-1;11;11;10;10;1gate_lev02_down;1-1;11;11;10;10;1gate_lev02_top;1-1;11;11;10;10;1gate_lev03_down;1-1;11;11;10;10;1gate_lev03_top;1-1;11;11;10;10\"};1{\"sGroupID\":\"\";1\"name\":\"gate_00 (1)\";1\"position\":{\"x\":143.03005981445313;1\"y\":16.750011444091798;1\"z\":0.0};1\"scale\":{\"x\":1.0499999523162842;1\"y\":1.0;1\"z\":1.0};1\"rotate\":{\"x\":-0.7071068286895752;1\"y\":0.0;1\"z\":0.0;1\"w\":0.7071068286895752};1\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/gate_00.prefab\";1\"bundlepath\":\"prefab/stage/stageobject\";1\"property\":\"0;1gate_base;1-1;11;11;10;10;1gate_center_down;1-1;11;11;10;10;1gate_center_top;1-1;11;11;10;10;1gate_lev01_down;1-1;11;11;10;10;1gate_lev01_top;1-1;11;11;10;10;1gate_lev02_down;1-1;11;11;10;10;1gate_lev02_top;1-1;11;11;10;10;1gate_lev03_down;1-1;11;11;10;10;1gate_lev03_top;1-1;11;11;10;10\"};1{\"sGroupID\":\"\";1\"name\":\"gate_00 (2)\";1\"position\":{\"x\":142.5400390625;1\"y\":-18.508991241455079;1\"z\":0.0};1\"scale\":{\"x\":1.0499999523162842;1\"y\":1.0;1\"z\":1.0};1\"rotate\":{\"x\":-0.7071068286895752;1\"y\":0.0;1\"z\":0.0;1\"w\":0.7071068286895752};1\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/gate_00.prefab\";1\"bundlepath\":\"prefab/stage/stageobject\";1\"property\":\"0;1gate_base;1-1;11;11;10;10;1gate_center_down;1-1;11;11;10;10;1gate_center_top;1-1;11;11;10;10;1gate_lev01_down;1-1;11;11;10;10;1gate_lev01_top;1-1;11;11;10;10;1gate_lev02_down;1-1;11;11;10;10;1gate_lev02_top;1-1;11;11;10;10;1gate_lev03_down;1-1;11;11;10;10;1gate_lev03_top;1-1;11;11;10;10\"};1{\"sGroupID\":\"\";1\"name\":\"gate_00 (3)\";1\"position\":{\"x\":69.42999267578125;1\"y\":-19.987972259521486;1\"z\":0.0};1\"scale\":{\"x\":1.0499999523162842;1\"y\":1.0;1\"z\":1.0};1\"rotate\":{\"x\":-0.7071068286895752;1\"y\":0.0;1\"z\":0.0;1\"w\":0.7071068286895752};1\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/gate_00.prefab\";1\"bundlepath\":\"prefab/stage/stageobject\";1\"property\":\"0;1gate_base;1-1;11;11;10;10;1gate_center_down;1-1;11;11;10;10;1gate_center_top;1-1;11;11;10;10;1gate_lev01_down;1-1;11;11;10;10;1gate_lev01_top;1-1;11;11;10;10;1gate_lev02_down;1-1;11;11;10;10;1gate_lev02_top;1-1;11;11;10;10;1gate_lev03_down;1-1;11;11;10;10;1gate_lev03_top;1-1;11;11;10;10\"};1{\"sGroupID\":\"\";1\"name\":\"gate_00 (4)\";1\"position\":{\"x\":90.13400268554688;1\"y\":13.19101333618164;1\"z\":0.0};1\"scale\":{\"x\":1.0499999523162842;1\"y\":1.0;1\"z\":1.0};1\"rotate\":{\"x\":-0.7071068286895752;1\"y\":0.0;1\"z\":0.0;1\"w\":0.7071068286895752};1\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/gate_00.prefab\";1\"bundlepath\":\"prefab/stage/stageobject\";1\"property\":\"0;1gate_base;1-1;11;11;10;10;1gate_center_down;1-1;11;11;10;10;1gate_center_top;1-1;11;11;10;10;1gate_lev01_down;1-1;11;11;10;10;1gate_lev01_top;1-1;11;11;10;10;1gate_lev02_down;1-1;11;11;10;10;1gate_lev02_top;1-1;11;11;10;10;1gate_lev03_down;1-1;11;11;10;10;1gate_lev03_top;1-1;11;11;10;10\"};1{\"sGroupID\":\"\";1\"name\":\"gate_00 (3)\";1\"position\":{\"x\":199.08001708984376;1\"y\":0.4100151062011719;1\"z\":0.0};1\"scale\":{\"x\":1.0499999523162842;1\"y\":1.0;1\"z\":1.0};1\"rotate\":{\"x\":-0.7071068286895752;1\"y\":0.0;1\"z\":0.0;1\"w\":0.7071068286895752};1\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/gate_00.prefab\";1\"bundlepath\":\"prefab/stage/stageobject\";1\"property\":\"0;1gate_base;1-1;11;11;10;10;1gate_center_down;1-1;11;11;10;10;1gate_center_top;1-1;11;11;10;10;1gate_lev01_down;1-1;11;11;10;10;1gate_lev01_top;1-1;11;11;10;10;1gate_lev02_down;1-1;11;11;10;10;1gate_lev02_top;1-1;11;11;10;10;1gate_lev03_down;1-1;11;11;10;10;1gate_lev03_top;1-1;11;11;10;10\"}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "253.5",
+            "fClipMaxx": "278.5",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StageCtrlEvent",
+                    "position": {
+                        "x": "254.09",
+                        "y": "-75.29",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-0.11544036865234375;\"B2DY\":-0.2984600067138672;\"B2DW\":1.2308807373046876;\"B2DH\":7.651338577270508;\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":23;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":20;\"fTime\":2.0;\"fWait\":0.5;\"nParam1\":651.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":50.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":15;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":24;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":25;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":100.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":41;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":14.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":33;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":408401.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0;\"bUB2D\":true;\"bDDF\":false;\"nDF\":0;\"bNoUnlockRange\":false}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "278.5",
+            "fClipMaxx": "303.5",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StageCtrlEvent (3)",
+                    "position": {
+                        "x": "297.15",
+                        "y": "-91.748",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-0.11544036865234375;\"B2DY\":-0.2984600067138672;\"B2DW\":1.2308807373046876;\"B2DH\":7.651338577270508;\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":23;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":20;\"fTime\":2.0;\"fWait\":0.5;\"nParam1\":651.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":50.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":15;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":24;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":25;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":100.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":41;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":14.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":33;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":408401.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0;\"bUB2D\":true;\"bDDF\":false;\"nDF\":0;\"bNoUnlockRange\":false}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "303.5",
+            "fClipMaxx": "328.5",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StageCtrlEvent (4)",
+                    "position": {
+                        "x": "317.854",
+                        "y": "-58.569",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-0.11544036865234375;\"B2DY\":-0.2984600067138672;\"B2DW\":1.2308807373046876;\"B2DH\":7.651338577270508;\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":23;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":20;\"fTime\":2.0;\"fWait\":0.5;\"nParam1\":651.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":50.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":15;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":24;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":25;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":100.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":41;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":14.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":33;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":408401.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0;\"bUB2D\":true;\"bDDF\":false;\"nDF\":0;\"bNoUnlockRange\":false}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "353.5",
+            "fClipMaxx": "378.5",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StageCtrlEvent (1)",
+                    "position": {
+                        "x": "370.75",
+                        "y": "-55.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-0.11544036865234375;\"B2DY\":-0.2984600067138672;\"B2DW\":1.2308807373046876;\"B2DH\":7.651338577270508;\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":23;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":20;\"fTime\":2.0;\"fWait\":0.5;\"nParam1\":651.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":50.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":15;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":24;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":25;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":100.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":41;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":14.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":33;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":408401.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0;\"bUB2D\":true;\"bDDF\":false;\"nDF\":0;\"bNoUnlockRange\":false}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageCtrlEvent (2)",
+                    "position": {
+                        "x": "370.26",
+                        "y": "-90.269",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-0.11544036865234375;\"B2DY\":-0.2984600067138672;\"B2DW\":1.2308807373046876;\"B2DH\":7.651338577270508;\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":23;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":20;\"fTime\":2.0;\"fWait\":0.5;\"nParam1\":651.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":50.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":15;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":24;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":25;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":100.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":41;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":14.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":33;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":408401.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0;\"bUB2D\":true;\"bDDF\":false;\"nDF\":0;\"bNoUnlockRange\":false}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "403.5",
+            "fClipMaxx": "428.5",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StageCtrlEvent (5)",
+                    "position": {
+                        "x": "426.8",
+                        "y": "-71.35",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-0.11544036865234375;\"B2DY\":-0.2984600067138672;\"B2DW\":1.2308807373046876;\"B2DH\":7.651338577270508;\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":23;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":20;\"fTime\":2.0;\"fWait\":0.5;\"nParam1\":651.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":50.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":15;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":24;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":25;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":100.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":41;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":14.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":33;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":408401.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0;\"bUB2D\":true;\"bDDF\":false;\"nDF\":0;\"bNoUnlockRange\":false}"
+                }
+            ]
+        }
+    ]
+}

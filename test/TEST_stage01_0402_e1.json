@@ -1,0 +1,35 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "-129.5",
+            "fClipMaxx": "-104.5",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": -117,
+                        "y": -31,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;0;1"
+                }
+            ]
+        }
+    ]
+}

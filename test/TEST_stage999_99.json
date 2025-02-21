@@ -1,0 +1,1762 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "-155.4",
+            "fClipMaxx": "-11.4",
+            "Datas": [
+                {
+                    "sGroupID": "BG_sky",
+                    "name": "BG_cloud01_03",
+                    "position": {
+                        "x": "-83.4",
+                        "y": "-128.6",
+                        "z": 100
+                    },
+                    "scale": {
+                        "x": 8,
+                        "y": 2,
+                        "z": 8
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_cloud03_01.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,BG_cloud_a_01,-1,1,1,0,0,BG_cloud_b_01,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-124.023",
+            "fClipMaxx": "248.503",
+            "Datas": [
+                {
+                    "sGroupID": "BG_sky",
+                    "name": "BG_sky01_03",
+                    "position": {
+                        "x": "62.24",
+                        "y": "-117.4",
+                        "z": "134.4"
+                    },
+                    "scale": {
+                        "x": "1.25",
+                        "y": 1,
+                        "z": "1.659"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_sky01_03.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-11.5",
+            "fClipMaxx": "132.5",
+            "Datas": [
+                {
+                    "sGroupID": "BG_sky",
+                    "name": "BG_cloud01_03 (1)",
+                    "position": {
+                        "x": "60.5",
+                        "y": "-128.6",
+                        "z": 100
+                    },
+                    "scale": {
+                        "x": 8,
+                        "y": 2,
+                        "z": 8
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_cloud03_01.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,BG_cloud_a_01,-1,1,1,0,0,BG_cloud_b_01,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "132.3",
+            "fClipMaxx": "276.3",
+            "Datas": [
+                {
+                    "sGroupID": "BG_sky",
+                    "name": "BG_cloud01_03 (2)",
+                    "position": {
+                        "x": "204.3",
+                        "y": "-128.6",
+                        "z": 100
+                    },
+                    "scale": {
+                        "x": 8,
+                        "y": 2,
+                        "z": 8
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/BG/prefabs/BG_cloud03_01.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/bg/prefabs_new",
+                    "property": "0,BG_cloud_a_01,-1,1,1,0,0,BG_cloud_b_01,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "68.98",
+            "fClipMaxx": "97.8",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR08_001",
+                    "position": {
+                        "x": "83.39",
+                        "y": "-70.91",
+                        "z": "4.3"
+                    },
+                    "scale": {
+                        "x": "-1.3",
+                        "y": "1.3",
+                        "z": "1.3"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR08_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,FLOOR08_001A,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-9.4",
+            "fClipMaxx": "15.6",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (63)",
+                    "position": {
+                        "x": "8.86",
+                        "y": "-82.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (61)",
+                    "position": {
+                        "x": "8.86",
+                        "y": "-79.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (59)",
+                    "position": {
+                        "x": "8.86",
+                        "y": "-76.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (36)",
+                    "position": {
+                        "x": "8.86",
+                        "y": "-74.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_002 (13)",
+                    "position": {
+                        "x": "8.86",
+                        "y": "-69.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (62)",
+                    "position": {
+                        "x": "2.86",
+                        "y": "-82.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (60)",
+                    "position": {
+                        "x": "2.86",
+                        "y": "-79.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (58)",
+                    "position": {
+                        "x": "2.86",
+                        "y": "-76.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (32)",
+                    "position": {
+                        "x": "2.86",
+                        "y": "-74.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_001 (6)",
+                    "position": {
+                        "x": "2.86",
+                        "y": "-69.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (57)",
+                    "position": {
+                        "x": "-3.14",
+                        "y": "-82.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (56)",
+                    "position": {
+                        "x": "-3.14",
+                        "y": "-79.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (55)",
+                    "position": {
+                        "x": "-3.14",
+                        "y": "-76.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (28)",
+                    "position": {
+                        "x": "-3.14",
+                        "y": "-74.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_002 (12)",
+                    "position": {
+                        "x": "-3.14",
+                        "y": "-69.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (67)",
+                    "position": {
+                        "x": "14.81",
+                        "y": "-82.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (66)",
+                    "position": {
+                        "x": "14.81",
+                        "y": "-79.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (65)",
+                    "position": {
+                        "x": "14.81",
+                        "y": "-76.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (64)",
+                    "position": {
+                        "x": "14.81",
+                        "y": "-74.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_002 (14)",
+                    "position": {
+                        "x": "14.81",
+                        "y": "-69.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER03_003 (2)",
+                    "position": {
+                        "x": "13.738",
+                        "y": "-70.2",
+                        "z": "2.95"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER03_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageMainCamera",
+                    "position": {
+                        "x": 10,
+                        "y": "-68.362",
+                        "z": -18
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageMainCamera.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "4"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageLight01",
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.383",
+                        "y": "-0.383",
+                        "z": "0.179",
+                        "w": "0.821"
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageLight01.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "5"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "15.6",
+            "fClipMaxx": "40.6",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER03_001 (1)",
+                    "position": {
+                        "x": "19.284",
+                        "y": "-70.2",
+                        "z": "2.95"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER03_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER03_002 (3)",
+                    "position": {
+                        "x": "16.511",
+                        "y": "-67.85",
+                        "z": "2.95"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER03_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (68)",
+                    "position": {
+                        "x": "20.79",
+                        "y": "-82.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (69)",
+                    "position": {
+                        "x": "20.79",
+                        "y": "-79.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (70)",
+                    "position": {
+                        "x": "20.79",
+                        "y": "-76.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (71)",
+                    "position": {
+                        "x": "20.79",
+                        "y": "-74.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_002 (15)",
+                    "position": {
+                        "x": "20.79",
+                        "y": "-69.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER03_003",
+                    "position": {
+                        "x": "35.923",
+                        "y": "-70.2",
+                        "z": "2.95"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER03_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER03_002",
+                    "position": {
+                        "x": "33.15",
+                        "y": "-67.85",
+                        "z": "2.95"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER03_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER03_001",
+                    "position": {
+                        "x": "30.377",
+                        "y": "-70.2",
+                        "z": "2.95"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER03_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (72)",
+                    "position": {
+                        "x": "38.79",
+                        "y": "-82.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (73)",
+                    "position": {
+                        "x": "38.79",
+                        "y": "-79.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (74)",
+                    "position": {
+                        "x": "38.79",
+                        "y": "-76.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (37)",
+                    "position": {
+                        "x": "38.79",
+                        "y": "-74.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_002 (16)",
+                    "position": {
+                        "x": "38.79",
+                        "y": "-69.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (75)",
+                    "position": {
+                        "x": "32.79",
+                        "y": "-82.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (76)",
+                    "position": {
+                        "x": "32.79",
+                        "y": "-79.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (77)",
+                    "position": {
+                        "x": "32.79",
+                        "y": "-76.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (33)",
+                    "position": {
+                        "x": "32.79",
+                        "y": "-74.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_001 (7)",
+                    "position": {
+                        "x": "32.79",
+                        "y": "-69.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (78)",
+                    "position": {
+                        "x": "26.79",
+                        "y": "-82.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (79)",
+                    "position": {
+                        "x": "26.79",
+                        "y": "-79.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (80)",
+                    "position": {
+                        "x": "26.79",
+                        "y": "-76.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (29)",
+                    "position": {
+                        "x": "26.79",
+                        "y": "-74.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_002 (17)",
+                    "position": {
+                        "x": "26.79",
+                        "y": "-69.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER03_003 (1)",
+                    "position": {
+                        "x": "24.83",
+                        "y": "-70.2",
+                        "z": "2.95"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER03_003.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER03_002 (1)",
+                    "position": {
+                        "x": "27.604",
+                        "y": "-67.85",
+                        "z": "2.95"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER03_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER03_002 (2)",
+                    "position": {
+                        "x": "22.057",
+                        "y": "-67.85",
+                        "z": "2.95"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER03_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "40.6",
+            "fClipMaxx": "65.6",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (81)",
+                    "position": {
+                        "x": "44.74",
+                        "y": "-82.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (82)",
+                    "position": {
+                        "x": "44.74",
+                        "y": "-79.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (83)",
+                    "position": {
+                        "x": "44.74",
+                        "y": "-76.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (84)",
+                    "position": {
+                        "x": "44.74",
+                        "y": "-74.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_002 (18)",
+                    "position": {
+                        "x": "44.74",
+                        "y": "-69.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER05_001",
+                    "position": {
+                        "x": "41.68",
+                        "y": "-69.9",
+                        "z": "6.14"
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/OTHER05_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (85)",
+                    "position": {
+                        "x": "50.72",
+                        "y": "-82.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (86)",
+                    "position": {
+                        "x": "50.72",
+                        "y": "-79.76",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (87)",
+                    "position": {
+                        "x": "50.72",
+                        "y": "-76.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (88)",
+                    "position": {
+                        "x": "50.72",
+                        "y": "-74.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_002 (19)",
+                    "position": {
+                        "x": "50.72",
+                        "y": "-69.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR01_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR07_004 (1)",
+                    "position": {
+                        "x": "53.85",
+                        "y": "-68.8",
+                        "z": "-0.35"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": "1.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_004.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR07_002 (1)",
+                    "position": {
+                        "x": "50.85",
+                        "y": "-68.8",
+                        "z": "-0.35"
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": "1.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_002.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR07_001 (1)",
+                    "position": {
+                        "x": "55.91",
+                        "y": "-69.5",
+                        "z": "-3.55"
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": "1.5",
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_001.prefab",
+                    "bundlepath": "stage/prefab/sky_stage/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-掉落",
+                    "name": "102_MapObjEvent",
+                    "position": {
+                        "x": "63.06",
+                        "y": "-66.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":14;2\"MoveToPos\":{\"x\":-63.060001373291019;2\"y\":66.80000305175781;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.10000000149011612;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0.0;2\\\"y\\\":0.0;2\\\"z\\\":0.0};2\\\"fMoveTime\\\":0.0;2\\\"fDT\\\":0.0;2\\\"nIntParam1\\\":960006}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":2;2\\\"nIntParam2\\\":1}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":102;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":4.889543533325195;2\"B2DY\":8.589845657348633;2\"B2DW\":2.2209129333496095;2\"B2DH\":1.0678901672363282;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall\";2\"position\":{\"x\":8.899996757507325;2\"y\":7.590000152587891;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (1)\";2\"position\":{\"x\":8.899996757507325;2\"y\":10.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (2)\";2\"position\":{\"x\":8.899996757507325;2\"y\":13.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (3)\";2\"position\":{\"x\":8.899999618530274;2\"y\":16.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (4)\";2\"position\":{\"x\":8.899996757507325;2\"y\":19.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (5)\";2\"position\":{\"x\":8.899996757507325;2\"y\":22.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (6)\";2\"position\":{\"x\":8.899996757507325;2\"y\":25.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "65.6",
+            "fClipMaxx": "90.6",
+            "Datas": [
+                {
+                    "sGroupID": "Group-掉落",
+                    "name": "101_MapObjEvent",
+                    "position": {
+                        "x": "84.92",
+                        "y": "-66.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":14;2\"MoveToPos\":{\"x\":-84.91999816894531;2\"y\":66.80000305175781;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.10000000149011612;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":0.0;2\\\"y\\\":0.0;2\\\"z\\\":0.0};2\\\"fMoveTime\\\":0.0;2\\\"fDT\\\":0.0;2\\\"nIntParam1\\\":960006}];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":2;2\\\"nIntParam2\\\":1}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":101;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":4.211494445800781;2\"B2DY\":9.806228637695313;2\"B2DW\":2.0965423583984377;2\"B2DH\":1.5984039306640626;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (7)\";2\"position\":{\"x\":7.099998474121094;2\"y\":10.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (8)\";2\"position\":{\"x\":7.099998474121094;2\"y\":16.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (9)\";2\"position\":{\"x\":7.099998474121094;2\"y\":22.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (10)\";2\"position\":{\"x\":7.099998474121094;2\"y\":7.590000152587891;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (11)\";2\"position\":{\"x\":7.099998474121094;2\"y\":13.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (12)\";2\"position\":{\"x\":7.099999904632568;2\"y\":19.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"airdrop_box_fall_fall (13)\";2\"position\":{\"x\":7.099998474121094;2\"y\":25.59000015258789;2\"z\":0.0};2\"scale\":{\"x\":1.5;2\"y\":1.5;2\"z\":1.5};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/airdrop_box_fall_fall.prefab\";2\"bundlepath\":\"stage/prefab/stage_object/prefabs_new\";2\"property\":\"0;2airdrop_box_fall;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-移動平台",
+                    "name": "103_MapObjEvent",
+                    "position": {
+                        "x": "67.85",
+                        "y": "-71.24",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":1;2\"MoveToPos\":{\"x\":-67.8499984741211;2\"y\":71.23999786376953;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":3.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":true;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[];2\\\"listMutliAni\\\":[];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":103;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":-5.315895080566406;2\"B2DW\":1.0;2\"B2DH\":0.89117431640625;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"FLOOR07_005 (1)\";2\"position\":{\"x\":-5.0;2\"y\":-0.6700057983398438;2\"z\":-3.549999952316284};2\"scale\":{\"x\":-1.0;2\"y\":1.499999761581421;2\"z\":0.9999999403953552};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_005.prefab\";2\"bundlepath\":\"stage/prefab/sky_stage/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR07_003 (1)\";2\"position\":{\"x\":-6.099998474121094;2\"y\":0.32999420166015627;2\"z\":-0.3499999940395355};2\"scale\":{\"x\":1.0;2\"y\":1.499999761581421;2\"z\":0.9999999403953552};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_003.prefab\";2\"bundlepath\":\"stage/prefab/sky_stage/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR07_001 (2)\";2\"position\":{\"x\":-0.9000015258789063;2\"y\":0.32999420166015627;2\"z\":-3.549999952316284};2\"scale\":{\"x\":-1.0;2\"y\":1.499999761581421;2\"z\":0.9999999403953552};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_001.prefab\";2\"bundlepath\":\"stage/prefab/sky_stage/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR07_003 (3)\";2\"position\":{\"x\":-9.0;2\"y\":0.32999420166015627;2\"z\":-0.3499999940395355};2\"scale\":{\"x\":1.0;2\"y\":1.499999761581421;2\"z\":0.9999999403953552};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_003.prefab\";2\"bundlepath\":\"stage/prefab/sky_stage/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR07_003 (2)\";2\"position\":{\"x\":-3.1999969482421877;2\"y\":0.32999420166015627;2\"z\":-0.3499999940395355};2\"scale\":{\"x\":1.0;2\"y\":1.499999761581421;2\"z\":0.9999999403953552};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_003.prefab\";2\"bundlepath\":\"stage/prefab/sky_stage/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR07_005 (2)\";2\"position\":{\"x\":-8.669998168945313;2\"y\":-0.6700057983398438;2\"z\":-3.549999952316284};2\"scale\":{\"x\":-1.0;2\"y\":1.499999761581421;2\"z\":0.9999999403953552};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_005.prefab\";2\"bundlepath\":\"stage/prefab/sky_stage/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR07_003 (4)\";2\"position\":{\"x\":-11.899999618530274;2\"y\":0.32999420166015627;2\"z\":-0.3499999940395355};2\"scale\":{\"x\":1.0;2\"y\":1.5000009536743165;2\"z\":1.0000004768371583};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_003.prefab\";2\"bundlepath\":\"stage/prefab/sky_stage/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR07_005 (3)\";2\"position\":{\"x\":-12.350000381469727;2\"y\":-0.6700057983398438;2\"z\":-3.549999952316284};2\"scale\":{\"x\":-1.0;2\"y\":1.5000009536743165;2\"z\":1.0000004768371583};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_005.prefab\";2\"bundlepath\":\"stage/prefab/sky_stage/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR07_003 (5)\";2\"position\":{\"x\":-14.800000190734864;2\"y\":0.32999420166015627;2\"z\":-0.3499999940395355};2\"scale\":{\"x\":1.0;2\"y\":1.5000009536743165;2\"z\":1.0000004768371583};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/SKY_STAGE/object/prefabs/FLOOR07_003.prefab\";2\"bundlepath\":\"stage/prefab/sky_stage/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"MoveFloorSE\";2\"position\":{\"x\":59.52000427246094;2\"y\":-69.89364624023438;2\"z\":0.039507538080215457};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/MoveFloorSE.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"0\"}]}"
+                },
+                {
+                    "sGroupID": "boss_event",
+                    "name": "MapObjEvent",
+                    "position": {
+                        "x": "82.1",
+                        "y": "-57.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":21;2\"MoveToPos\":{\"x\":-82.0999984741211;2\"y\":57.849998474121097;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":991;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"StageBlockWall\";2\"position\":{\"x\":-9.640000343322754;2\"y\":-8.290000915527344;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/StageBlockWall.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"11;2BLOCKWALL_OBJ3{\\\"B2DX\\\":0.0;3\\\"B2DY\\\":0.0;3\\\"B2DW\\\":1.0;3\\\"B2DH\\\":10.0;3\\\"nLayer\\\":11;3\\\"nSemiBlockMode\\\":0}\"};2{\"sGroupID\":\"\";2\"name\":\"StageBlockWall (1)\";2\"position\":{\"x\":9.390000343322754;2\"y\":-8.15999984741211;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/StageBlockWall.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"11;2BLOCKWALL_OBJ3{\\\"B2DX\\\":0.0;3\\\"B2DY\\\":0.0;3\\\"B2DW\\\":1.0;3\\\"B2DH\\\":10.0;3\\\"nLayer\\\":11;3\\\"nSemiBlockMode\\\":0}\"}]}"
+                }
+            ]
+        }
+    ]
+}

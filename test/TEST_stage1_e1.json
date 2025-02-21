@@ -1,0 +1,116 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "-21.45",
+            "fClipMaxx": "3.55",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": "-8.95",
+                        "y": "0.21",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;1"
+                },
+                {
+                    "sGroupID": "Group-鎖定移動",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "-8.9",
+                        "y": "2.036",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":-13.869998931884766;\"fMax\":15.30000114440918;\"fTop\":11.196199417114258;\"fBtn\":-6.763800144195557;\"nType\":0;\"B2DX\":-0.16754674911499024;\"B2DY\":-0.5204696655273438;\"B2DW\":3.7203779220581056;\"B2DH\":3.8351516723632814;\"fSpeed\":10.0;\"nSetID\":0}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "3.55",
+            "fClipMaxx": "28.55",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "EnemyPoint",
+                    "position": {
+                        "x": "4.04",
+                        "y": "-2.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ910001:0:0:1:1"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "28.55",
+            "fClipMaxx": "53.55",
+            "Datas": [
+                {
+                    "sGroupID": "Group-死亡區域",
+                    "name": "DeadAreaEvent (1)",
+                    "position": {
+                        "x": "32.2",
+                        "y": "-7.75",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":2.7088191509246828;\"B2DY\":0.0;\"B2DW\":6.417638301849365;\"B2DH\":1.0;\"ReturnPoints\":[{\"x\":32.20000076293945;\"y\":1.2799997329711915;\"z\":0.0}]}"
+                }
+            ]
+        }
+    ]
+}

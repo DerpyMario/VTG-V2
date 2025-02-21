@@ -1,0 +1,185 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "14.29",
+            "fClipMaxx": "39.29",
+            "Datas": [
+                {
+                    "sGroupID": "Group-鎖定",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "15.29",
+                        "y": "-35.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":8.380000114440918;\"fMax\":47.5;\"fTop\":-27.389999389648439;\"fBtn\":-47.62000274658203;\"nType\":1;\"B2DX\":1.4818615913391114;\"B2DY\":-1.3360519409179688;\"B2DW\":5.514565467834473;\"B2DH\":6.469795227050781;\"fSpeed\":10.0;\"nSetID\":0;\"sMsg\":\"0\"}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "39.29",
+            "fClipMaxx": "64.29",
+            "Datas": [
+                {
+                    "sGroupID": "Group-開門1",
+                    "name": "StageCtrlEvent",
+                    "position": {
+                        "x": "45.7",
+                        "y": "-37.66",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-0.08517265319824219;\"B2DY\":-0.18251419067382813;\"B2DW\":1.1703453063964844;\"B2DH\":3.3650283813476564;\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":20;\"fTime\":2.0;\"fWait\":0.10000000149011612;\"nParam1\":49.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":1.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":1.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0}"
+                },
+                {
+                    "sGroupID": "Group-鎖定",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "47.4",
+                        "y": "-35.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":45.30000305175781;\"fMax\":70.34000396728516;\"fTop\":-23.899999618530275;\"fBtn\":-47.59999465942383;\"nType\":0;\"B2DX\":-0.1714019775390625;\"B2DY\":-2.0354747772216799;\"B2DW\":2.6351776123046877;\"B2DH\":5.070949554443359;\"fSpeed\":15.0;\"nSetID\":0;\"sMsg\":\"0\"}"
+                },
+                {
+                    "sGroupID": "Group-怪物",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "57.71",
+                        "y": -42,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":50;\"bDead\":false;\"fDTime\":0.0;\"sSave\":\"0\";\"B2DX\":0.0;\"B2DY\":27.08075714111328;\"B2DW\":1.0;\"B2DH\":4.273612976074219;\"SpawnPoints\":[{\"x\":82.30999755859375;\"y\":-37.619998931884769;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":1101;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0}];\"nDeadID\":-1}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "64.29",
+            "fClipMaxx": "89.29",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": "64.9",
+                        "y": "-37.53",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;1;1;0"
+                },
+                {
+                    "sGroupID": "Group-BOSS警告&開門2",
+                    "name": "StageCtrlEvent",
+                    "position": {
+                        "x": "68.48",
+                        "y": "-36.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-0.11544036865234375;\"B2DY\":-0.2984600067138672;\"B2DW\":1.2308807373046876;\"B2DH\":7.651338577270508;\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":23;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":20;\"fTime\":3.0;\"fWait\":0.5;\"nParam1\":74.66000366210938;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":15;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":3.5;\"nParam1\":50.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":17;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":24;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":25;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":100.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":29;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0}"
+                },
+                {
+                    "sGroupID": "Group-鎖定",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "70.3",
+                        "y": "-35.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":68.41000366210938;\"fMax\":88.51000213623047;\"fTop\":-28.140003204345704;\"fBtn\":-51.48999786376953;\"nType\":0;\"B2DX\":-0.23772430419921876;\"B2DY\":-2.0354747772216799;\"B2DW\":2.767822265625;\"B2DH\":5.070949554443359;\"fSpeed\":10.0;\"nSetID\":0;\"sMsg\":\"0\"}"
+                }
+            ]
+        }
+    ]
+}

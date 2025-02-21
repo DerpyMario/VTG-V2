@@ -1,0 +1,754 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "3.2",
+            "fClipMaxx": "28.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-視角",
+                    "name": "502_LockRangePoint_2",
+                    "position": {
+                        "x": "21.05",
+                        "y": "-2.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":18.910009384155275;\"fMax\":40.0400390625;\"fTop\":7.430002212524414;\"fBtn\":-6.510004043579102;\"nType\":0;\"B2DX\":-13.162485122680664;\"B2DY\":6.946140289306641;\"B2DW\":3.5199012756347658;\"B2DH\":3.2269859313964845;\"fSpeed\":8.0;\"nSetID\":502;\"sMsg\":\"0;0.000;0\"}"
+                },
+                {
+                    "sGroupID": "Group-移動方塊1",
+                    "name": "1005_StageCtrlEvent",
+                    "position": {
+                        "x": "4.2",
+                        "y": "-14.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-2.4946746826171877;\"B2DY\":-0.7462844848632813;\"B2DW\":5.989349365234375;\"B2DH\":0.73858642578125;\"StageCtrlInsTructions\":[{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":2.0;\"fWait\":1.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":1.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":4.0;\"fWait\":1.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":5.0;\"fWait\":1.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"}];\"nSetID\":1005;\"bUB2D\":false}"
+                },
+                {
+                    "sGroupID": "Group-移動方塊1",
+                    "name": "1_EnemyPoint",
+                    "position": {
+                        "x": "23.75",
+                        "y": "-3.79",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:1:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊1",
+                    "name": "2_EnemyPoint",
+                    "position": {
+                        "x": "25.64",
+                        "y": "-3.79",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:2:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊2",
+                    "name": "1006_StageCtrlEvent",
+                    "position": {
+                        "x": "4.2",
+                        "y": "-14.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-2.4946746826171877;\"B2DY\":-0.7462844848632813;\"B2DW\":5.989349365234375;\"B2DH\":0.73858642578125;\"StageCtrlInsTructions\":[{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":6.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":7.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":13.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":14.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"}];\"nSetID\":1006;\"bUB2D\":false}"
+                },
+                {
+                    "sGroupID": "Group-移動方塊3",
+                    "name": "1007_StageCtrlEvent",
+                    "position": {
+                        "x": "4.2",
+                        "y": "-14.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-2.4946746826171877;\"B2DY\":-0.7462844848632813;\"B2DW\":5.989349365234375;\"B2DH\":0.73858642578125;\"StageCtrlInsTructions\":[{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":12.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":19.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":20.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"}];\"nSetID\":1007;\"bUB2D\":false}"
+                },
+                {
+                    "sGroupID": "Group-移動方塊5",
+                    "name": "1009_StageCtrlEvent",
+                    "position": {
+                        "x": "4.2",
+                        "y": "-14.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-2.4946746826171877;\"B2DY\":-0.7462844848632813;\"B2DW\":5.989349365234375;\"B2DH\":0.73858642578125;\"StageCtrlInsTructions\":[{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":9.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":10.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":11.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":18.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"}];\"nSetID\":1009;\"bUB2D\":false}"
+                },
+                {
+                    "sGroupID": "Group-移動方塊5",
+                    "name": "9_EnemyPoint",
+                    "position": {
+                        "x": "25.64",
+                        "y": "-1.94",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:9:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊6",
+                    "name": "1010_StageCtrlEvent",
+                    "position": {
+                        "x": "4.2",
+                        "y": "-14.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-2.4946746826171877;\"B2DY\":-0.7462844848632813;\"B2DW\":5.989349365234375;\"B2DH\":0.73858642578125;\"StageCtrlInsTructions\":[{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":8.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":15.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":16.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":17.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"}];\"nSetID\":1010;\"bUB2D\":false}"
+                },
+                {
+                    "sGroupID": "Group-移動方塊6",
+                    "name": "8_EnemyPoint",
+                    "position": {
+                        "x": "23.75",
+                        "y": "-1.94",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:8:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊6",
+                    "name": "15_EnemyPoint",
+                    "position": {
+                        "x": "23.75",
+                        "y": "-0.1",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:15:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊6",
+                    "name": "16_EnemyPoint",
+                    "position": {
+                        "x": "25.64",
+                        "y": "-0.1",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:16:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊6",
+                    "name": "17_EnemyPoint",
+                    "position": {
+                        "x": "27.52",
+                        "y": "-0.1",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:17:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊7",
+                    "name": "1011_StageCtrlEvent",
+                    "position": {
+                        "x": "4.2",
+                        "y": "-14.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-2.4946746826171877;\"B2DY\":-0.7462844848632813;\"B2DW\":5.989349365234375;\"B2DH\":0.73858642578125;\"StageCtrlInsTructions\":[{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":22.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":23.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":24.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":25.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"}];\"nSetID\":1011;\"bUB2D\":false}"
+                },
+                {
+                    "sGroupID": "Group-移動方塊7",
+                    "name": "22_EnemyPoint",
+                    "position": {
+                        "x": "23.75",
+                        "y": "1.75",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:22:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊7",
+                    "name": "23_EnemyPoint",
+                    "position": {
+                        "x": "25.64",
+                        "y": "1.75",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:23:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊7",
+                    "name": "24_EnemyPoint",
+                    "position": {
+                        "x": "27.52",
+                        "y": "1.75",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:24:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊4",
+                    "name": "1008_StageCtrlEvent",
+                    "position": {
+                        "x": "4.2",
+                        "y": "-14.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-2.4946746826171877;\"B2DY\":-0.7462844848632813;\"B2DW\":5.989349365234375;\"B2DH\":0.73858642578125;\"StageCtrlInsTructions\":[{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":21.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":27.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"};{\"tStageCtrl\":40;\"fTime\":28.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"}];\"nSetID\":1008;\"bUB2D\":false}"
+                },
+                {
+                    "sGroupID": "Group-移動方塊8",
+                    "name": "1012_StageCtrlEvent",
+                    "position": {
+                        "x": "4.2",
+                        "y": "-14.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":-2.4946746826171877;\"B2DY\":-0.7462844848632813;\"B2DW\":5.989349365234375;\"B2DH\":0.73858642578125;\"StageCtrlInsTructions\":[{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":26.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;6000\"}];\"nSetID\":1012;\"bUB2D\":false}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "28.2",
+            "fClipMaxx": "53.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Start & End",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": "29.54",
+                        "y": "-1.57",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;0;0;0;0;0;0"
+                },
+                {
+                    "sGroupID": "Group-視角",
+                    "name": "501_LockRangePoint_1",
+                    "position": {
+                        "x": "29.715",
+                        "y": "-6.596",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":18.205339431762697;\"fMax\":41.36534118652344;\"fTop\":8.253999710083008;\"fBtn\":-7.986000061035156;\"nType\":0;\"B2DX\":-13.02271556854248;\"B2DY\":-0.45398712158203127;\"B2DW\":1.363424301147461;\"B2DH\":1.9079742431640626;\"fSpeed\":10.0;\"nSetID\":501;\"sMsg\":\"0;0.000;0\"}"
+                },
+                {
+                    "sGroupID": "Group-移動方塊2",
+                    "name": "13_EnemyPoint",
+                    "position": {
+                        "x": "33.23",
+                        "y": "-1.94",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:13:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊2",
+                    "name": "14_EnemyPoint",
+                    "position": {
+                        "x": "35.09",
+                        "y": "-1.94",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:14:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊3",
+                    "name": "19_EnemyPoint",
+                    "position": {
+                        "x": "31.35",
+                        "y": "-0.1",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:19:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊3",
+                    "name": "20_EnemyPoint",
+                    "position": {
+                        "x": "33.23",
+                        "y": "-0.1",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:20:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊5",
+                    "name": "18_EnemyPoint",
+                    "position": {
+                        "x": "29.46",
+                        "y": "-0.1",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:18:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊7",
+                    "name": "25_EnemyPoint",
+                    "position": {
+                        "x": "29.46",
+                        "y": "1.75",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:25:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊4",
+                    "name": "21_EnemyPoint",
+                    "position": {
+                        "x": "35.09",
+                        "y": "-0.1",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:21:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊4",
+                    "name": "27_EnemyPoint",
+                    "position": {
+                        "x": "33.23",
+                        "y": "1.75",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:27:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊4",
+                    "name": "28_EnemyPoint",
+                    "position": {
+                        "x": "35.09",
+                        "y": "1.75",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:28:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "Group-移動方塊8",
+                    "name": "26_EnemyPoint",
+                    "position": {
+                        "x": "31.35",
+                        "y": "1.75",
+                        "z": "-0.09"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2251:0:0:1.0000:0:26:0:0.0000:0:0:"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageCtrlEvent",
+                    "position": {
+                        "x": "34.9",
+                        "y": "-2.88",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":0.0;\"B2DY\":0.31305480003356936;\"B2DW\":1.0;\"B2DH\":3.675192356109619;\"StageCtrlInsTructions\":[{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":23;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0;\"bUB2D\":true}"
+                }
+            ]
+        }
+    ]
+}

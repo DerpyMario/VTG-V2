@@ -1,0 +1,162 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "61.93",
+            "fClipMaxx": "86.93",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": "82.4",
+                        "y": "-68.26",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;1;1;0;0"
+                },
+                {
+                    "sGroupID": "Group-鎖定",
+                    "name": "502_LockRangePoint_BOSS",
+                    "position": {
+                        "x": "65.6",
+                        "y": "-68.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":58.91999816894531;\"fMax\":100.43000030517578;\"fTop\":-59.69999694824219;\"fBtn\":-79.06999969482422;\"nType\":0;\"B2DX\":16.39560317993164;\"B2DY\":-0.51568603515625;\"B2DW\":21.83306121826172;\"B2DH\":5.451202392578125;\"fSpeed\":10.0;\"nSetID\":502;\"sMsg\":\"0;0.000\"}"
+                },
+                {
+                    "sGroupID": "Group-怪物",
+                    "name": "EnemyPoint",
+                    "position": {
+                        "x": "62.93",
+                        "y": "-70.6",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2111:0:0:1.0000:1:0:0:0.0000"
+                },
+                {
+                    "sGroupID": "Group-怪物",
+                    "name": "EnemyPoint (3)",
+                    "position": {
+                        "x": "72.02",
+                        "y": "-70.6",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2111:0:0:1.0000:1:0:0:0.0000"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "86.93",
+            "fClipMaxx": "111.93",
+            "Datas": [
+                {
+                    "sGroupID": "Group-怪物",
+                    "name": "EnemyPoint (1)",
+                    "position": {
+                        "x": "97.77",
+                        "y": "-70.6",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2111:1:0:1.0000:1:0:0:0.0000"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "111.93",
+            "fClipMaxx": "136.93",
+            "Datas": [
+                {
+                    "sGroupID": "Group-怪物",
+                    "name": "EnemyPoint (2)",
+                    "position": {
+                        "x": "86.93",
+                        "y": "-70.6",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ2111:1:0:1.0000:1:0:0:0.0000"
+                }
+            ]
+        }
+    ]
+}

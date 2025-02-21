@@ -1,0 +1,58 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "956.23",
+            "fClipMaxx": "981.23",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": "968.73",
+                        "y": "13.32",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;0;1"
+                },
+                {
+                    "sGroupID": "Group-鏡頭鎖定",
+                    "name": "BOSS_LockRangePoint",
+                    "position": {
+                        "x": "967.6",
+                        "y": "15.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":964.9299926757813;\"fMax\":984.0999755859375;\"fTop\":28.209999084472658;\"fBtn\":9.489995956420899;\"nType\":0;\"B2DX\":0.4553565979003906;\"B2DY\":0.1711101531982422;\"B2DW\":4.153984069824219;\"B2DH\":9.484119415283204;\"fSpeed\":10.0;\"nSetID\":0;\"sMsg\":\"0\"}"
+                }
+            ]
+        }
+    ]
+}

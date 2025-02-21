@@ -1,0 +1,653 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "-23.951",
+            "fClipMaxx": "-9.229",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_001",
+                    "position": {
+                        "x": "-16.59",
+                        "y": "-18.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_001.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "15.99",
+            "fClipMaxx": "38.646",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_006",
+                    "position": {
+                        "x": "28.79",
+                        "y": "-18.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_006.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new2",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,FLOOR02_006A,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "104.069",
+            "fClipMaxx": "118.791",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_001",
+                    "position": {
+                        "x": "111.43",
+                        "y": "-17.03",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_001.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "144.01",
+            "fClipMaxx": "166.666",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_006",
+                    "position": {
+                        "x": "156.81",
+                        "y": "-17.03",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_006.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new2",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,FLOOR02_006A,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 0,
+            "fClipMaxx": "113.761",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Start & End",
+                    "name": "data_noise",
+                    "position": {
+                        "x": "110.29",
+                        "y": "-18.08",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/data_noise.prefab",
+                    "bundlepath": "stage/prefab/stage_object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,noise_efx_2,-1,1,1,0,0,noise_efx_2/noise_a,-1,1,1,0,0,center,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-91.07",
+            "fClipMaxx": "-66.07",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StageLight01",
+                    "position": {
+                        "x": "-90.07",
+                        "y": "3.009",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.383",
+                        "y": "-0.383",
+                        "z": "0.179",
+                        "w": "0.821"
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageLight01.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "5"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-41.07",
+            "fClipMaxx": "-16.07",
+            "Datas": [
+                {
+                    "sGroupID": "Group-移動平台",
+                    "name": "MapObjEvent",
+                    "position": {
+                        "x": "-18.18",
+                        "y": "-13.43",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":1;2\"MoveToPos\":{\"x\":17.21000099182129;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":2.0;2\"fMoveTime\":14.640000343322754;2\"bLoop\":true;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"{\\\"listMutliMove\\\":[];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0};2{\\\"aniName\\\":\\\"\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0}];2\\\"nBitParam0\\\":0}\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":7.869976043701172;2\"B2DY\":-2.6428356170654299;2\"B2DW\":16.739952087402345;2\"B2DH\":6.285671234130859;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"OTHER02_001 (8)\";2\"position\":{\"x\":-0.22999954223632813;2\"y\":1.0;2\"z\":0.0};2\"scale\":{\"x\":1.399999976158142;2\"y\":1.4000006914138795;2\"z\":1.4000006914138795};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/OTHER02_001.prefab\";2\"bundlepath\":\"stage/prefab/air_force/object/prefabs_new7\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-16.07",
+            "fClipMaxx": "8.93",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_002",
+                    "position": {
+                        "x": "-9.21",
+                        "y": "-18.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_002.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003",
+                    "position": {
+                        "x": "-1.62",
+                        "y": "-18.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_004",
+                    "position": {
+                        "x": "-5.62",
+                        "y": "-18.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_004.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_004 (1)",
+                    "position": {
+                        "x": "2.38",
+                        "y": "-18.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_004.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_001",
+                    "position": {
+                        "x": "7.6",
+                        "y": "-18.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_001.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Start & End",
+                    "name": "StageMainCamera",
+                    "position": {
+                        "x": "-8.955",
+                        "y": "-14.68",
+                        "z": -18
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageMainCamera.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "4"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "8.93",
+            "fClipMaxx": "33.93",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_003",
+                    "position": {
+                        "x": "13.4",
+                        "y": "-18.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new2",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,FLOOR02_003A,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "58.93",
+            "fClipMaxx": "83.93",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER02_001 (5)",
+                    "position": {
+                        "x": "70.53",
+                        "y": "-14.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": "-1.4",
+                        "y": "1.4",
+                        "z": "1.4"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/OTHER02_001.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new7",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER02_002 (1)",
+                    "position": {
+                        "x": "59.76",
+                        "y": "-12.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": "-1.4",
+                        "y": "1.4",
+                        "z": "1.4"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/OTHER02_002.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new8",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "OTHER02_001 (7)",
+                    "position": {
+                        "x": "81.2",
+                        "y": "-16.5",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": "-1.4",
+                        "y": "1.4",
+                        "z": "1.4"
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/OTHER02_001.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new7",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "108.93",
+            "fClipMaxx": "133.93",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_002",
+                    "position": {
+                        "x": "118.81",
+                        "y": "-17.03",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_002.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_004 (1)",
+                    "position": {
+                        "x": "130.4",
+                        "y": "-17.03",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_004.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005 (1)",
+                    "position": {
+                        "x": "130.4",
+                        "y": "-17.03",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003",
+                    "position": {
+                        "x": "126.4",
+                        "y": "-17.03",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_004",
+                    "position": {
+                        "x": "122.4",
+                        "y": "-17.03",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_004.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_005",
+                    "position": {
+                        "x": "122.4",
+                        "y": "-17.03",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR01_005.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "133.93",
+            "fClipMaxx": "158.93",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_001",
+                    "position": {
+                        "x": "135.62",
+                        "y": "-17.03",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_001.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR02_003",
+                    "position": {
+                        "x": "141.42",
+                        "y": "-17.03",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 2,
+                        "y": 2,
+                        "z": 2
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/AIR_FORCE/object/prefabs/FLOOR02_003.prefab",
+                    "bundlepath": "stage/prefab/air_force/object/prefabs_new2",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,FLOOR02_003A,-1,1,1,0,0"
+                }
+            ]
+        }
+    ]
+}

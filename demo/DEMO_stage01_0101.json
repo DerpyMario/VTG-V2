@@ -1,0 +1,3842 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": 0,
+            "fClipMaxx": "44.801",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_LEFT_000 (1)",
+                    "position": {
+                        "x": "43.35",
+                        "y": "-3.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_LEFT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Root,-1,1,1,0,0,Root/FX_Lightning_051_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A (Drop),-1,1,1,0,0,Root/FX_Lightning_051_B,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A (Drop),-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 0,
+            "fClipMaxx": "88.785",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_LEFT_000 (6)",
+                    "position": {
+                        "x": "87.334",
+                        "y": "-17.18",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_LEFT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Root,-1,1,1,0,0,Root/FX_Lightning_051_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A (Drop),-1,1,1,0,0,Root/FX_Lightning_051_B,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A (Drop),-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 0,
+            "fClipMaxx": "103.89",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_RIGHT_000 (7)",
+                    "position": {
+                        "x": "102.59",
+                        "y": "-17.18",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_RIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Root,-1,1,1,0,0,Root/FX_Lightning_051_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A (Drop),-1,1,1,0,0,Root/FX_Lightning_051_B,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A (Drop),-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "86.04",
+            "fClipMaxx": "103.96",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_002_new",
+                    "position": {
+                        "x": 95,
+                        "y": "-2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": "1.6",
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_002_new.prefab",
+                    "bundlepath": "stage/prefab/highway/object/floor_center_002_new",
+                    "property": "0,model,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-7.589",
+            "fClipMaxx": "74.455",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "HWAY_BG_004",
+                    "position": {
+                        "x": 0,
+                        "y": -4,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_004.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,viaduct02,-1,1,1,0,0,viaduct04,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-47.61",
+            "fClipMaxx": "271.021",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "HWAY_BG_003",
+                    "position": {
+                        "x": 0,
+                        "y": -5,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_003.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,viaduct01,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-41.983",
+            "fClipMaxx": "149.399",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "HWAY_BG_002",
+                    "position": {
+                        "x": 0,
+                        "y": -5,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_002.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,buil02,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 0,
+            "fClipMaxx": "131.965",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "HWAY_BG_001",
+                    "position": {
+                        "x": 0,
+                        "y": -5,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_001.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,buil01,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-148.318",
+            "fClipMaxx": "330.287",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "HWAY_BG_000",
+                    "position": {
+                        "x": 59,
+                        "y": "-3.5",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_000.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,bg01,-1,1,1,0,0,bg02,-1,1,1,0,0,clound,-1,1,1,0,0,fog,-1,1,1,0,0,sky,-1,1,1,0,0,viaduct03,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "56.75",
+            "fClipMaxx": "71.75",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "sigmabus",
+                    "position": {
+                        "x": "64.25",
+                        "y": "2.4",
+                        "z": "28.68"
+                    },
+                    "scale": {
+                        "x": "1.5",
+                        "y": "1.5",
+                        "z": "1.5"
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/sigmabus.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 0,
+            "fClipMaxx": "136.803",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_RIGHT_000 (5)",
+                    "position": {
+                        "x": "135.503",
+                        "y": "-4.39",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_RIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Root,-1,1,1,0,0,Root/FX_Lightning_051_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A (Drop),-1,1,1,0,0,Root/FX_Lightning_051_B,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A (Drop),-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 0,
+            "fClipMaxx": "153.964",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_LEFT_000",
+                    "position": {
+                        "x": "152.513",
+                        "y": "-4.39",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_LEFT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Root,-1,1,1,0,0,Root/FX_Lightning_051_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A (Drop),-1,1,1,0,0,Root/FX_Lightning_051_B,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A (Drop),-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 0,
+            "fClipMaxx": "157.073",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_RIGHT_000 (6)",
+                    "position": {
+                        "x": "155.773",
+                        "y": "-6.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_RIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Root,-1,1,1,0,0,Root/FX_Lightning_051_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A (Drop),-1,1,1,0,0,Root/FX_Lightning_051_B,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A (Drop),-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 0,
+            "fClipMaxx": "168.291",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_RIGHT_000 (8)",
+                    "position": {
+                        "x": "167.013",
+                        "y": "-6.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_RIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Root,-1,1,1,0,0,Root/FX_Lightning_051_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A (Drop),-1,1,1,0,0,Root/FX_Lightning_051_B,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A (Drop),-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 0,
+            "fClipMaxx": "170.533",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_RIGHT_000 (10)",
+                    "position": {
+                        "x": "169.233",
+                        "y": "-7.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_RIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Root,-1,1,1,0,0,Root/FX_Lightning_051_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A (Drop),-1,1,1,0,0,Root/FX_Lightning_051_B,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A (Drop),-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "-12.8",
+            "fClipMaxx": "12.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (7)",
+                    "position": {
+                        "x": "5.481",
+                        "y": "-9.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_RIGHT_000 (5)",
+                    "position": {
+                        "x": "-9.37",
+                        "y": "-4.63",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_RIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Root,-1,1,1,0,0,Root/FX_Lightning_051_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A (Drop),-1,1,1,0,0,Root/FX_Lightning_051_B,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A (Drop),-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (8)",
+                    "position": {
+                        "x": "-1.67",
+                        "y": "-9.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (10)",
+                    "position": {
+                        "x": "-1.68",
+                        "y": "-4.63",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (4)",
+                    "position": {
+                        "x": "-5.281",
+                        "y": "-4.63",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000",
+                    "position": {
+                        "x": "5.481",
+                        "y": "-4.63",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (2)",
+                    "position": {
+                        "x": "1.88",
+                        "y": "-4.63",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_LEFT_000",
+                    "position": {
+                        "x": "7.64",
+                        "y": "-4.63",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_LEFT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Root,-1,1,1,0,0,Root/FX_Lightning_051_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A (Drop),-1,1,1,0,0,Root/FX_Lightning_051_B,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A (Drop),-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_RIGHT_000 (6)",
+                    "position": {
+                        "x": "10.53",
+                        "y": "-3.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_RIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0,Root,-1,1,1,0,0,Root/FX_Lightning_051_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_A/FX_Trail_020_A (Drop),-1,1,1,0,0,Root/FX_Lightning_051_B,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A,-1,1,1,0,0,Root/FX_Lightning_051_B/FX_Trail_020_A (Drop),-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (25)",
+                    "position": {
+                        "x": "-1.67",
+                        "y": "-21.54",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (26)",
+                    "position": {
+                        "x": "5.481",
+                        "y": "-21.54",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000",
+                    "position": {
+                        "x": "5.48",
+                        "y": "-4.39",
+                        "z": "4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageLight01",
+                    "position": {
+                        "x": 0,
+                        "y": 3,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.383",
+                        "y": "-0.383",
+                        "z": "0.179",
+                        "w": "0.821"
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageLight01.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "5"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageMainCamera",
+                    "position": {
+                        "x": "0.35",
+                        "y": "-3.5",
+                        "z": -18
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageMainCamera.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "4"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "MapbackgroundEnv",
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/MapbackgroundEnv.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0"
+                },
+                {
+                    "sGroupID": "Group-透明擋牆",
+                    "name": "StageBlockWall",
+                    "position": {
+                        "x": "-7.91",
+                        "y": "-3.81",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":0;2\"B2DY\":\"2.426\";2\"B2DW\":1;2\"B2DH\":\"8.803\";2\"nLayer\":11;2\"nSemiBlockMode\":0}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "12.2",
+            "fClipMaxx": "37.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (11)",
+                    "position": {
+                        "x": "12.621",
+                        "y": "-8.34",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (12)",
+                    "position": {
+                        "x": "12.611",
+                        "y": "-3.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (9)",
+                    "position": {
+                        "x": "19.79",
+                        "y": "-8.34",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (11)",
+                    "position": {
+                        "x": "19.78",
+                        "y": "-3.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (5)",
+                    "position": {
+                        "x": "16.179",
+                        "y": "-3.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (1)",
+                    "position": {
+                        "x": "26.941",
+                        "y": "-3.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (10)",
+                    "position": {
+                        "x": "26.941",
+                        "y": "-8.34",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (3)",
+                    "position": {
+                        "x": "23.34",
+                        "y": "-3.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (12)",
+                    "position": {
+                        "x": "34.03",
+                        "y": "-8.34",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (13)",
+                    "position": {
+                        "x": "34.02",
+                        "y": "-3.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (6)",
+                    "position": {
+                        "x": "30.419",
+                        "y": "-3.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (27)",
+                    "position": {
+                        "x": "12.621",
+                        "y": "-20.19",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (28)",
+                    "position": {
+                        "x": "19.79",
+                        "y": "-20.19",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (29)",
+                    "position": {
+                        "x": "26.941",
+                        "y": "-20.19",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (30)",
+                    "position": {
+                        "x": "34.03",
+                        "y": "-20.19",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "sinelogo",
+                    "position": {
+                        "x": "23.24",
+                        "y": "-0.8",
+                        "z": "25.2"
+                    },
+                    "scale": {
+                        "x": "0.8",
+                        "y": "0.8",
+                        "z": "0.8"
+                    },
+                    "rotate": {
+                        "x": "0.683",
+                        "y": "0.183",
+                        "z": "-0.183",
+                        "w": "0.683"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/sinelogo.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone",
+                    "position": {
+                        "x": "23.57",
+                        "y": "-16.4",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone2",
+                    "position": {
+                        "x": "23.57",
+                        "y": "-16.4",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone2.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (1)",
+                    "position": {
+                        "x": "19.77",
+                        "y": "-3.14",
+                        "z": "4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (2)",
+                    "position": {
+                        "x": "34.03",
+                        "y": "-3.14",
+                        "z": "4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (3)",
+                    "position": {
+                        "x": "12.7",
+                        "y": "-3.14",
+                        "z": "-4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (4)",
+                    "position": {
+                        "x": "26.96",
+                        "y": "-3.14",
+                        "z": "-4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "37.2",
+            "fClipMaxx": "62.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (7)",
+                    "position": {
+                        "x": "37.58",
+                        "y": "-3.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (2)",
+                    "position": {
+                        "x": "41.181",
+                        "y": "-3.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (13)",
+                    "position": {
+                        "x": "41.181",
+                        "y": "-8.34",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (3)",
+                    "position": {
+                        "x": "47.381",
+                        "y": "-6.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (14)",
+                    "position": {
+                        "x": "47.381",
+                        "y": "-11.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (15)",
+                    "position": {
+                        "x": "54.47",
+                        "y": "-11.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (14)",
+                    "position": {
+                        "x": "54.46",
+                        "y": "-6.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (8)",
+                    "position": {
+                        "x": "50.859",
+                        "y": "-6.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (4)",
+                    "position": {
+                        "x": "61.621",
+                        "y": "-6.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (16)",
+                    "position": {
+                        "x": "61.621",
+                        "y": "-11.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (9)",
+                    "position": {
+                        "x": "58.02",
+                        "y": "-6.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (31)",
+                    "position": {
+                        "x": "41.181",
+                        "y": "-20.19",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (32)",
+                    "position": {
+                        "x": "47.381",
+                        "y": "-22.57",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (34)",
+                    "position": {
+                        "x": "61.621",
+                        "y": "-22.57",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (5)",
+                    "position": {
+                        "x": "54.47",
+                        "y": "-5.97",
+                        "z": "4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "62.2",
+            "fClipMaxx": "87.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (10)",
+                    "position": {
+                        "x": "65.23",
+                        "y": "-6.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (13)",
+                    "position": {
+                        "x": "85.32",
+                        "y": "-22.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (20)",
+                    "position": {
+                        "x": "85.309",
+                        "y": "-17.18",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "SLOPE_CENTER_001",
+                    "position": {
+                        "x": "85.3",
+                        "y": "-2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (5)",
+                    "position": {
+                        "x": "68.8",
+                        "y": "-6.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (17)",
+                    "position": {
+                        "x": "68.8",
+                        "y": "-11.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "SLOPE_CENTER_000",
+                    "position": {
+                        "x": "76.3",
+                        "y": "-4.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/SLOPE_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "SLOPE_LEFT_000",
+                    "position": {
+                        "x": "72.3",
+                        "y": "-5.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/SLOPE_LEFT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (22)",
+                    "position": {
+                        "x": "85.3",
+                        "y": "-7.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (33)",
+                    "position": {
+                        "x": "68.8",
+                        "y": "-22.57",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (6)",
+                    "position": {
+                        "x": "68.73",
+                        "y": "-5.97",
+                        "z": "4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "87.2",
+            "fClipMaxx": "112.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (15)",
+                    "position": {
+                        "x": "95.18",
+                        "y": "-22.17",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (14)",
+                    "position": {
+                        "x": "104.623",
+                        "y": "-22.25",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (23)",
+                    "position": {
+                        "x": "95.18",
+                        "y": "-17.18",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (21)",
+                    "position": {
+                        "x": "104.623",
+                        "y": "-17.26",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (5)",
+                    "position": {
+                        "x": "108.003",
+                        "y": "-2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (4)",
+                    "position": {
+                        "x": "104.623",
+                        "y": "-2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (6)",
+                    "position": {
+                        "x": "111.523",
+                        "y": "-2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (18)",
+                    "position": {
+                        "x": "111.523",
+                        "y": "-7.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (23)",
+                    "position": {
+                        "x": "104.623",
+                        "y": "-7.69",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (24)",
+                    "position": {
+                        "x": "111.523",
+                        "y": "-19.68",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone",
+                    "position": {
+                        "x": "92.82",
+                        "y": "-18.19",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone2",
+                    "position": {
+                        "x": "92.82",
+                        "y": "-18.19",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone2.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (11)",
+                    "position": {
+                        "x": "111.553",
+                        "y": "-2.45",
+                        "z": "-4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "112.2",
+            "fClipMaxx": "137.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (11)",
+                    "position": {
+                        "x": 115,
+                        "y": "-2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (19)",
+                    "position": {
+                        "x": "118.612",
+                        "y": "-7.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (15)",
+                    "position": {
+                        "x": "118.602",
+                        "y": "-2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (7)",
+                    "position": {
+                        "x": "125.763",
+                        "y": "-2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (20)",
+                    "position": {
+                        "x": "125.763",
+                        "y": "-7.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (12)",
+                    "position": {
+                        "x": "122.162",
+                        "y": "-2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_001 (13)",
+                    "position": {
+                        "x": "129.293",
+                        "y": "-2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "FLOOR_CENTER_000 (8)",
+                    "position": {
+                        "x": "132.863",
+                        "y": "-2.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (21)",
+                    "position": {
+                        "x": "132.863",
+                        "y": "-7.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (35)",
+                    "position": {
+                        "x": "132.863",
+                        "y": "-19.68",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Earth",
+                    "position": {
+                        "x": "112.823",
+                        "y": "3.9",
+                        "z": "27.08"
+                    },
+                    "scale": {
+                        "x": 5,
+                        "y": 5,
+                        "z": 5
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Earth.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "capcomll",
+                    "position": {
+                        "x": "112.823",
+                        "y": "4.12",
+                        "z": "27.04"
+                    },
+                    "scale": {
+                        "x": "5.3",
+                        "y": "5.3",
+                        "z": 10
+                    },
+                    "rotate": {
+                        "x": "-0.823",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.569"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/capcomll.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (9)",
+                    "position": {
+                        "x": "118.623",
+                        "y": "-2.45",
+                        "z": "4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (10)",
+                    "position": {
+                        "x": "132.883",
+                        "y": "-2.45",
+                        "z": "4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (12)",
+                    "position": {
+                        "x": "125.813",
+                        "y": "-2.45",
+                        "z": "-4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "137.2",
+            "fClipMaxx": "162.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (36)",
+                    "position": {
+                        "x": "143.203",
+                        "y": "-19.68",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (37)",
+                    "position": {
+                        "x": "150.354",
+                        "y": "-19.68",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (38)",
+                    "position": {
+                        "x": "157.864",
+                        "y": "-22.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (13)",
+                    "position": {
+                        "x": "143.163",
+                        "y": "-4.15",
+                        "z": "4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (16)",
+                    "position": {
+                        "x": "150.353",
+                        "y": "-4.15",
+                        "z": "-4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_001 (4)",
+                    "position": {
+                        "x": "139.592",
+                        "y": "-4.39",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (8)",
+                    "position": {
+                        "x": "143.203",
+                        "y": "-9.35",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (10)",
+                    "position": {
+                        "x": "143.193",
+                        "y": "-4.39",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (7)",
+                    "position": {
+                        "x": "150.354",
+                        "y": "-9.35",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000",
+                    "position": {
+                        "x": "150.354",
+                        "y": "-4.39",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_001 (2)",
+                    "position": {
+                        "x": "146.753",
+                        "y": "-4.39",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_001 (5)",
+                    "position": {
+                        "x": "161.422",
+                        "y": "-6.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (11)",
+                    "position": {
+                        "x": "157.864",
+                        "y": "-10.97",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (12)",
+                    "position": {
+                        "x": "157.854",
+                        "y": "-6.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "162.2",
+            "fClipMaxx": "187.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件1",
+                    "name": "WALL_CENTER_000 (39)",
+                    "position": {
+                        "x": "165.033",
+                        "y": "-22.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "OTHER_LIGHT_000 (14)",
+                    "position": {
+                        "x": "178.463",
+                        "y": "-2.09",
+                        "z": "4.7"
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object/prefabs_new",
+                    "property": "0,light,-1,1,1,0,0,light/SimpleShadow,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (9)",
+                    "position": {
+                        "x": "165.033",
+                        "y": "-10.97",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (11)",
+                    "position": {
+                        "x": "165.023",
+                        "y": "-6.01",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (1)",
+                    "position": {
+                        "x": "171.294",
+                        "y": "-2.31",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (5)",
+                    "position": {
+                        "x": "171.294",
+                        "y": "-7.02",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (7)",
+                    "position": {
+                        "x": "178.503",
+                        "y": "-2.31",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (20)",
+                    "position": {
+                        "x": "178.503",
+                        "y": "-7.31",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_001 (12)",
+                    "position": {
+                        "x": "174.902",
+                        "y": "-2.31",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_001 (13)",
+                    "position": {
+                        "x": "182.033",
+                        "y": "-2.31",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (8)",
+                    "position": {
+                        "x": "185.603",
+                        "y": "-2.31",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (21)",
+                    "position": {
+                        "x": "185.603",
+                        "y": "-7.31",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (23)",
+                    "position": {
+                        "x": "171.294",
+                        "y": "-11.92",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (24)",
+                    "position": {
+                        "x": "185.603",
+                        "y": "-19.26",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "187.2",
+            "fClipMaxx": "212.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "SLOPE_LEFT_000 (1)",
+                    "position": {
+                        "x": "188.223",
+                        "y": "-2.12",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/SLOPE_LEFT_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (24)",
+                    "position": {
+                        "x": "195.723",
+                        "y": "-5.48",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (13)",
+                    "position": {
+                        "x": "195.743",
+                        "y": "-15.52",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (20)",
+                    "position": {
+                        "x": "195.732",
+                        "y": "-10.53",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "SLOPE_CENTER_001",
+                    "position": {
+                        "x": "195.723",
+                        "y": "-0.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "-0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/SLOPE_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_002",
+                    "position": {
+                        "x": "202.123",
+                        "y": "-0.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_002.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (14)",
+                    "position": {
+                        "x": "208.523",
+                        "y": "-15.6",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (22)",
+                    "position": {
+                        "x": "208.523",
+                        "y": "-5.51",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (21)",
+                    "position": {
+                        "x": "208.523",
+                        "y": "-10.61",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (4)",
+                    "position": {
+                        "x": "208.523",
+                        "y": "-0.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_001 (5)",
+                    "position": {
+                        "x": "211.903",
+                        "y": "-0.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "212.2",
+            "fClipMaxx": "237.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (6)",
+                    "position": {
+                        "x": "215.183",
+                        "y": "-0.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (18)",
+                    "position": {
+                        "x": "215.423",
+                        "y": "-5.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (25)",
+                    "position": {
+                        "x": "215.183",
+                        "y": "-5.48",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (16)",
+                    "position": {
+                        "x": "215.203",
+                        "y": "-15.52",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (26)",
+                    "position": {
+                        "x": "215.192",
+                        "y": "-10.53",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_002 (1)",
+                    "position": {
+                        "x": "221.583",
+                        "y": "-0.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_002.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (19)",
+                    "position": {
+                        "x": "227.983",
+                        "y": "-15.6",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (28)",
+                    "position": {
+                        "x": "227.983",
+                        "y": "-5.51",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (29)",
+                    "position": {
+                        "x": "227.983",
+                        "y": "-10.61",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (9)",
+                    "position": {
+                        "x": "227.983",
+                        "y": "-0.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_001 (6)",
+                    "position": {
+                        "x": "231.363",
+                        "y": "-0.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_001.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "FLOOR_CENTER_000 (13)",
+                    "position": {
+                        "x": "234.883",
+                        "y": "-0.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/FLOOR_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-物件2",
+                    "name": "WALL_CENTER_000 (22)",
+                    "position": {
+                        "x": "234.883",
+                        "y": "-5.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/WALL_CENTER_000.prefab",
+                    "bundlepath": "stage/prefab/highway/object_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "237.2",
+            "fClipMaxx": "262.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-透明擋牆",
+                    "name": "StageBlockWall",
+                    "position": {
+                        "x": "254.003",
+                        "y": "17.32",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":0;2\"B2DY\":\"1.95\";2\"B2DW\":1;2\"B2DH\":\"13.949\";2\"nLayer\":11;2\"nSemiBlockMode\":0}"
+                }
+            ]
+        }
+    ]
+}

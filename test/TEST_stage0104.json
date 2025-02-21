@@ -1,0 +1,450 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "-2.84",
+            "fClipMaxx": "22.16",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "100_MapObjEvent_貨車移動",
+                    "position": {
+                        "x": 9,
+                        "y": "-3.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ1{\"mapEvent\":1;1\"MoveToPos\":{\"x\":14.489999771118164;1\"y\":0.029999999329447748;1\"z\":0.0};1\"fDelayTime\":2.0;1\"fMoveTime\":2.0;1\"bLoop\":false;1\"nType\":0;1\"bCheckPlayer\":true;1\"bCheckEnemy\":false;1\"bRunAtInit\":false;1\"bmgs\":\"\";1\"bmge\":\"\";1\"nSetID\":100;1\"mspd\":{\"serializedVersion\":\"2\";1\"m_Curve\":[];1\"m_PreInfinity\":2;1\"m_PostInfinity\":2;1\"m_RotationOrder\":4};1\"B2DX\":-0.24095821380615235;1\"B2DY\":1.0205903053283692;1\"B2DW\":3.126893997192383;1\"B2DH\":3.0411806106567385;1\"Datas\":[{\"sGroupID\":\"\";1\"name\":\"OTHER_CAR_001\";1\"position\":{\"x\":-0.03999999910593033;1\"y\":-2.680000066757202;1\"z\":-0.4099999964237213};1\"scale\":{\"x\":1.0;1\"y\":1.0000004768371583;1\"z\":1.0000004768371583};1\"rotate\":{\"x\":-0.7071068286895752;1\"y\":0.0;1\"z\":0.0;1\"w\":0.7071068286895752};1\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/OTHER_CAR_001.prefab\";1\"bundlepath\":\"stage/prefab/highway/object_new\";1\"property\":\"0;1-1;11;11;10;10;1;1-1;11;11;10;10\"};1{\"sGroupID\":\"\";1\"name\":\"StageBlockWall_擋玩家擋牆\";1\"position\":{\"x\":-3.9000000953674318;1\"y\":-0.20000000298023225;1\"z\":0.0};1\"scale\":{\"x\":1.0;1\"y\":1.0;1\"z\":1.0};1\"rotate\":{\"x\":0.0;1\"y\":0.0;1\"z\":0.0;1\"w\":1.0};1\"path\":\"Assets/RockmanUnity/Prefabs/StageBlockWall.prefab\";1\"bundlepath\":\"prefab/stage/stagepack\";1\"property\":\"11;1BLOCKWALL_OBJ2{\\\"B2DX\\\":0.0;2\\\"B2DY\\\":2.4264473915100099;2\\\"B2DW\\\":1.0;2\\\"B2DH\\\":8.802689552307129;2\\\"nLayer\\\":12}\"};1{\"sGroupID\":\"\";1\"name\":\"StageBlockWall_擋玩家擋牆\";1\"position\":{\"x\":4.0;1\"y\":-0.20000004768371583;1\"z\":0.0};1\"scale\":{\"x\":1.0;1\"y\":1.0;1\"z\":1.0};1\"rotate\":{\"x\":0.0;1\"y\":0.0;1\"z\":0.0;1\"w\":1.0};1\"path\":\"Assets/RockmanUnity/Prefabs/StageBlockWall.prefab\";1\"bundlepath\":\"prefab/stage/stagepack\";1\"property\":\"11;1BLOCKWALL_OBJ2{\\\"B2DX\\\":0.0;2\\\"B2DY\\\":2.4264473915100099;2\\\"B2DW\\\":1.0;2\\\"B2DH\\\":8.802689552307129;2\\\"nLayer\\\":12}\"}]}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageLight01",
+                    "position": {
+                        "x": 0,
+                        "y": 3,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.383",
+                        "y": "-0.383",
+                        "z": "0.179",
+                        "w": "0.821"
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageLight01.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "5"
+                },
+                {
+                    "sGroupID": "Group-第二波卡車&鏡頭",
+                    "name": "101_MapObjEvent_貨車移動",
+                    "position": {
+                        "x": "-1.24",
+                        "y": "-3.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":1;2\"MoveToPos\":{\"x\":16.56999969482422;2\"y\":0.029999999329447748;2\"z\":0.0};2\"fDelayTime\":2.0;2\"fMoveTime\":8.0;2\"bLoop\":false;2\"nType\":1;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bRunAtInit\":false;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":-19.239999771118165;2\\\"y\\\":-3.200000047683716;2\\\"z\\\":0.0};2\\\"fMoveTime\\\":3.0}]}\";2\"bmge\":\"\";2\"nSetID\":101;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":-0.24095821380615235;2\"B2DY\":1.0205903053283692;2\"B2DW\":3.126893997192383;2\"B2DH\":3.0411806106567385;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"OTHER_CAR_001\";2\"position\":{\"x\":-0.03999999910593033;2\"y\":-2.680000066757202;2\"z\":-0.4099999964237213};2\"scale\":{\"x\":1.0;2\"y\":1.0000004768371583;2\"z\":1.0000004768371583};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/OTHER_CAR_001.prefab\";2\"bundlepath\":\"stage/prefab/highway/object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"StageBlockWall_擋玩家擋牆\";2\"position\":{\"x\":-3.9000000953674318;2\"y\":-0.20000000298023225;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/StageBlockWall.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"11;2BLOCKWALL_OBJ3{\\\"B2DX\\\":0.0;3\\\"B2DY\\\":2.4264473915100099;3\\\"B2DW\\\":1.0;3\\\"B2DH\\\":8.802689552307129;3\\\"nLayer\\\":12}\"};2{\"sGroupID\":\"\";2\"name\":\"StageBlockWall_擋玩家擋牆\";2\"position\":{\"x\":4.0;2\"y\":-0.20000004768371583;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/StageBlockWall.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"11;2BLOCKWALL_OBJ3{\\\"B2DX\\\":0.0;3\\\"B2DY\\\":2.4264473915100099;3\\\"B2DW\\\":1.0;3\\\"B2DH\\\":8.802689552307129;3\\\"nLayer\\\":12}\"}]}"
+                },
+                {
+                    "sGroupID": "Group-第十波卡車&鏡頭",
+                    "name": "102_MapObjEvent_1號貨車",
+                    "position": {
+                        "x": "-1.24",
+                        "y": "-3.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":1;2\"MoveToPos\":{\"x\":16.56999969482422;2\"y\":0.029999999329447748;2\"z\":0.0};2\"fDelayTime\":2.0;2\"fMoveTime\":4.0;2\"bLoop\":false;2\"nType\":1;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bRunAtInit\":false;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":-9.239999771118164;2\\\"y\\\":-3.200000047683716;2\\\"z\\\":0.0};2\\\"fMoveTime\\\":5.0}]}\";2\"bmge\":\"\";2\"nSetID\":102;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":-0.24095821380615235;2\"B2DY\":1.0205903053283692;2\"B2DW\":3.126893997192383;2\"B2DH\":3.0411806106567385;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"OTHER_CAR_001\";2\"position\":{\"x\":-0.03999999910593033;2\"y\":-2.680000066757202;2\"z\":-0.4099999964237213};2\"scale\":{\"x\":1.0;2\"y\":1.0000004768371583;2\"z\":1.0000004768371583};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/OTHER_CAR_001.prefab\";2\"bundlepath\":\"stage/prefab/highway/object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"StageBlockWall_擋玩家擋牆\";2\"position\":{\"x\":-3.9000000953674318;2\"y\":-0.20000000298023225;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/StageBlockWall.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"11;2BLOCKWALL_OBJ3{\\\"B2DX\\\":0.0;3\\\"B2DY\\\":2.4264473915100099;3\\\"B2DW\\\":1.0;3\\\"B2DH\\\":8.802689552307129;3\\\"nLayer\\\":12}\"};2{\"sGroupID\":\"\";2\"name\":\"StageBlockWall_擋玩家擋牆\";2\"position\":{\"x\":4.0;2\"y\":-0.20000004768371583;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/StageBlockWall.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"11;2BLOCKWALL_OBJ3{\\\"B2DX\\\":0.0;3\\\"B2DY\\\":2.4264473915100099;3\\\"B2DW\\\":1.0;3\\\"B2DH\\\":8.802689552307129;3\\\"nLayer\\\":12}\"}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "22.16",
+            "fClipMaxx": "47.16",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StageMainCamera",
+                    "position": {
+                        "x": "23.5",
+                        "y": "-2.2",
+                        "z": -18
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageMainCamera.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "4"
+                },
+                {
+                    "sGroupID": "Group-第十波卡車&鏡頭",
+                    "name": "103_MapObjEvent_2號貨車",
+                    "position": {
+                        "x": "44.7",
+                        "y": "-3.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":1;2\"MoveToPos\":{\"x\":-14.09000015258789;2\"y\":0.029999999329447748;2\"z\":0.0};2\"fDelayTime\":2.0;2\"fMoveTime\":4.0;2\"bLoop\":false;2\"nType\":1;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bRunAtInit\":false;2\"bmgs\":\"{\\\"listMutliMove\\\":[{\\\"tMovePos\\\":{\\\"x\\\":44.70000076293945;2\\\"y\\\":-3.200000047683716;2\\\"z\\\":0.0};2\\\"fMoveTime\\\":5.0}]}\";2\"bmge\":\"\";2\"nSetID\":103;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":-0.24095821380615235;2\"B2DY\":1.0205903053283692;2\"B2DW\":3.126893997192383;2\"B2DH\":3.0411806106567385;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"OTHER_CAR_001\";2\"position\":{\"x\":-0.03999999910593033;2\"y\":-2.680000066757202;2\"z\":-0.4099999964237213};2\"scale\":{\"x\":1.0;2\"y\":1.0000004768371583;2\"z\":1.0000004768371583};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/OTHER_CAR_001.prefab\";2\"bundlepath\":\"stage/prefab/highway/object_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"StageBlockWall_擋玩家擋牆\";2\"position\":{\"x\":-3.9000000953674318;2\"y\":-0.20000000298023225;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/StageBlockWall.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"11;2BLOCKWALL_OBJ3{\\\"B2DX\\\":0.0;3\\\"B2DY\\\":2.4264473915100099;3\\\"B2DW\\\":1.0;3\\\"B2DH\\\":8.802689552307129;3\\\"nLayer\\\":12}\"};2{\"sGroupID\":\"\";2\"name\":\"StageBlockWall_擋玩家擋牆\";2\"position\":{\"x\":4.0;2\"y\":-0.20000004768371583;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.0;2\"z\":0.0;2\"w\":1.0};2\"path\":\"Assets/RockmanUnity/Prefabs/StageBlockWall.prefab\";2\"bundlepath\":\"prefab/stage/stagepack\";2\"property\":\"11;2BLOCKWALL_OBJ3{\\\"B2DX\\\":0.0;3\\\"B2DY\\\":2.4264473915100099;3\\\"B2DW\\\":1.0;3\\\"B2DH\\\":8.802689552307129;3\\\"nLayer\\\":12}\"}]}"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone",
+                    "position": {
+                        "x": "23.57",
+                        "y": "-16.4",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone2",
+                    "position": {
+                        "x": "23.57",
+                        "y": "-16.4",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone2.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "StageBlockWall",
+                    "position": {
+                        "x": "23.34",
+                        "y": 4,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageBlockWall.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "11,BLOCKWALL_OBJ2{\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"nLayer\":11}"
+                },
+                {
+                    "sGroupID": "Group-循環物件",
+                    "name": "MapObjEvent_循環_地板",
+                    "position": {
+                        "x": "23.5",
+                        "y": "-6.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":13;2\"MoveToPos\":{\"x\":-23.850000381469728;2\"y\":0.0;2\"z\":9.5367431640625e-7};2\"fDelayTime\":0.0;2\"fMoveTime\":3.0;2\"bLoop\":false;2\"nType\":1;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bRunAtInit\":true;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_000_COLLIDE (10)\";2\"position\":{\"x\":-35.230003356933597;2\"y\":0.39999961853027346;2\"z\":9.5367431640625e-7};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_000_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER_LIGHT_000\";2\"position\":{\"x\":-35.220001220703128;2\"y\":0.5100002288818359;2\"z\":4.700000762939453};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2light;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_002_COLLIDE (3)\";2\"position\":{\"x\":-28.850000381469728;2\"y\":0.39999961853027346;2\"z\":9.5367431640625e-7};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_002_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER_LIGHT_000 (3)\";2\"position\":{\"x\":-22.540000915527345;2\"y\":0.5100002288818359;2\"z\":-4.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":-0.7071068286895752;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2light;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_000_COLLIDE (11)\";2\"position\":{\"x\":-22.470001220703126;2\"y\":0.39999961853027346;2\"z\":9.5367431640625e-7};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_000_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_001_COLLIDE (6)\";2\"position\":{\"x\":-18.93000030517578;2\"y\":0.39999961853027346;2\"z\":9.5367431640625e-7};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_001_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER_LIGHT_000 (1)\";2\"position\":{\"x\":-15.430000305175782;2\"y\":0.5100002288818359;2\"z\":4.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2light;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_000_COLLIDE (12)\";2\"position\":{\"x\":-15.34000015258789;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_000_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_001_COLLIDE (7)\";2\"position\":{\"x\":-11.739999771118164;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_001_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER_LIGHT_000 (4)\";2\"position\":{\"x\":-8.109999656677246;2\"y\":0.5100002288818359;2\"z\":-4.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":-0.7071068286895752;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2light;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_000_COLLIDE (13)\";2\"position\":{\"x\":-8.149999618530274;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_000_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_002_COLLIDE (4)\";2\"position\":{\"x\":-1.7700004577636719;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_002_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER_LIGHT_000 (2)\";2\"position\":{\"x\":4.559999465942383;2\"y\":0.5100002288818359;2\"z\":4.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2light;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_000_COLLIDE (14)\";2\"position\":{\"x\":4.60999870300293;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_000_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_001_COLLIDE (8)\";2\"position\":{\"x\":8.149999618530274;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_001_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER_LIGHT_000 (6)\";2\"position\":{\"x\":11.72000503540039;2\"y\":0.5100002288818359;2\"z\":-4.7000017166137699};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":-0.7071068286895752;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2light;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_000_COLLIDE (15)\";2\"position\":{\"x\":11.710002899169922;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_000_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_001_COLLIDE (9)\";2\"position\":{\"x\":15.3100004196167;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_001_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER_LIGHT_000 (5)\";2\"position\":{\"x\":19.000003814697267;2\"y\":0.5100002288818359;2\"z\":4.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2light;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_000_COLLIDE (16)\";2\"position\":{\"x\":18.89999771118164;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_000_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_002_COLLIDE (5)\";2\"position\":{\"x\":25.290000915527345;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_002_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER_LIGHT_000 (7)\";2\"position\":{\"x\":31.69000244140625;2\"y\":0.5100002288818359;2\"z\":-4.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":-0.7071068286895752;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2light;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_000_COLLIDE (17)\";2\"position\":{\"x\":31.670001983642579;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_000_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_001_COLLIDE (10)\";2\"position\":{\"x\":35.21000289916992;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_001_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER_LIGHT_000 (8)\";2\"position\":{\"x\":38.85000228881836;2\"y\":0.5100002288818359;2\"z\":4.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2light;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_000_COLLIDE (18)\";2\"position\":{\"x\":38.790000915527347;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_000_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_001_COLLIDE (11)\";2\"position\":{\"x\":42.38999938964844;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_001_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"OTHER_LIGHT_000 (9)\";2\"position\":{\"x\":45.929996490478519;2\"y\":0.5100002288818359;2\"z\":4.699999809265137};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":0.7071068286895752;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/OTHER_LIGHT_000.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2light;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"FLOOR_CENTER_000_COLLIDE (19)\";2\"position\":{\"x\":45.97999572753906;2\"y\":0.39999961853027346;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/object/prefabs/FLOOR_CENTER_000_COLLIDE.prefab\";2\"bundlepath\":\"stage/prefab/highway/object/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-循環物件",
+                    "name": "MapObjEvent_循環_背景1",
+                    "position": {
+                        "x": "22.6",
+                        "y": "-6.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":13;2\"MoveToPos\":{\"x\":-167.89999389648438;2\"y\":4.599999904632568;2\"z\":9.5367431640625e-7};2\"fDelayTime\":0.0;2\"fMoveTime\":70.0;2\"bLoop\":false;2\"nType\":1;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bRunAtInit\":true;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"HWAY_BG_001 (1)\";2\"position\":{\"x\":-72.19999694824219;2\"y\":0.0;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":1.0;2\"z\":0.0;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefab/HWAY_BG_001.prefab\";2\"bundlepath\":\"stage/prefab/highway/bg/prefab_new\";2\"property\":\"0;2buil01;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"sinelogo\";2\"position\":{\"x\":0.6399993896484375;2\"y\":5.5;2\"z\":25.200000762939454};2\"scale\":{\"x\":0.800000011920929;2\"y\":0.8000000715255737;2\"z\":0.800000011920929};2\"rotate\":{\"x\":0.6830150485038757;2\"y\":0.18300402164459229;2\"z\":-0.18300402164459229;2\"w\":0.6830150485038757};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/sinelogo.prefab\";2\"bundlepath\":\"stage/prefab/highway/bg/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"HWAY_BG_001 (3)\";2\"position\":{\"x\":55.20000076293945;2\"y\":0.0;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":1.0;2\"z\":0.0;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefab/HWAY_BG_001.prefab\";2\"bundlepath\":\"stage/prefab/highway/bg/prefab_new\";2\"property\":\"0;2buil01;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"sinelogo (1)\";2\"position\":{\"x\":127.0999984741211;2\"y\":5.5;2\"z\":25.200000762939454};2\"scale\":{\"x\":0.7999999523162842;2\"y\":0.8000000715255737;2\"z\":0.7999999523162842};2\"rotate\":{\"x\":0.6830150485038757;2\"y\":0.18300402164459229;2\"z\":-0.18300402164459229;2\"w\":0.6830150485038757};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/sinelogo.prefab\";2\"bundlepath\":\"stage/prefab/highway/bg/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"HWAY_BG_001 (2)\";2\"position\":{\"x\":191.60000610351563;2\"y\":0.0;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":1.0;2\"z\":0.0;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefab/HWAY_BG_001.prefab\";2\"bundlepath\":\"stage/prefab/highway/bg/prefab_new\";2\"property\":\"0;2buil01;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"sinelogo (2)\";2\"position\":{\"x\":265.6000061035156;2\"y\":5.5;2\"z\":25.200000762939454};2\"scale\":{\"x\":0.7999999523162842;2\"y\":0.8000000715255737;2\"z\":0.7999999523162842};2\"rotate\":{\"x\":0.6830150485038757;2\"y\":0.18300402164459229;2\"z\":-0.18300402164459229;2\"w\":0.6830150485038757};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/sinelogo.prefab\";2\"bundlepath\":\"stage/prefab/highway/bg/prefabs_new\";2\"property\":\"0;2-1;21;21;20;20;2;2-1;21;21;20;20\"}]}"
+                },
+                {
+                    "sGroupID": "Group-循環物件",
+                    "name": "MapObjEvent_循環_背景2",
+                    "position": {
+                        "x": "22.6",
+                        "y": "-6.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":13;2\"MoveToPos\":{\"x\":-167.89999389648438;2\"y\":4.599999904632568;2\"z\":9.5367431640625e-7};2\"fDelayTime\":0.0;2\"fMoveTime\":90.0;2\"bLoop\":false;2\"nType\":1;2\"bCheckPlayer\":false;2\"bCheckEnemy\":false;2\"bRunAtInit\":true;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.0;2\"B2DY\":0.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"HWAY_BG_002\";2\"position\":{\"x\":-22.600000381469728;2\"y\":1.3000001907348633;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":1.0;2\"z\":0.0;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_002.prefab\";2\"bundlepath\":\"stage/prefab/highway/bg/prefabs_new\";2\"property\":\"0;2buil02;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"HWAY_BG_002 (1)\";2\"position\":{\"x\":174.5;2\"y\":1.3000001907348633;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":1.0;2\"z\":0.0;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_002.prefab\";2\"bundlepath\":\"stage/prefab/highway/bg/prefabs_new\";2\"property\":\"0;2buil02;2-1;21;21;20;20\"};2{\"sGroupID\":\"\";2\"name\":\"HWAY_BG_002 (2)\";2\"position\":{\"x\":376.0;2\"y\":1.3000001907348633;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":0.0;2\"y\":1.0;2\"z\":0.0;2\"w\":0.0};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_002.prefab\";2\"bundlepath\":\"stage/prefab/highway/bg/prefabs_new\";2\"property\":\"0;2buil02;2-1;21;21;20;20\"}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "47.16",
+            "fClipMaxx": "72.16",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "HWAY_BG_000",
+                    "position": {
+                        "x": 59,
+                        "y": "-3.5",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/HWAY_BG_000.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,bg01,-1,1,1,0,0,bg02,-1,1,1,0,0,clound,-1,1,1,0,0,fog,-1,1,1,0,0,sky,-1,1,1,0,0,viaduct03,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "sigmabus",
+                    "position": {
+                        "x": "64.25",
+                        "y": "2.4",
+                        "z": "28.68"
+                    },
+                    "scale": {
+                        "x": "0.8",
+                        "y": "0.8",
+                        "z": "0.8"
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/sigmabus.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "72.16",
+            "fClipMaxx": "97.16",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone",
+                    "position": {
+                        "x": "92.82",
+                        "y": "-18.19",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Light_Cone2",
+                    "position": {
+                        "x": "92.82",
+                        "y": "-18.19",
+                        "z": "6.61"
+                    },
+                    "scale": {
+                        "x": 30,
+                        "y": 30,
+                        "z": 50
+                    },
+                    "rotate": {
+                        "x": "-0.5",
+                        "y": "0.5",
+                        "z": "0.5",
+                        "w": "0.5"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Light_Cone2.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "97.16",
+            "fClipMaxx": "122.16",
+            "Datas": [
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "Earth",
+                    "position": {
+                        "x": "106.3",
+                        "y": "3.9",
+                        "z": "27.08"
+                    },
+                    "scale": {
+                        "x": 5,
+                        "y": 5,
+                        "z": 5
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/Earth.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-背景",
+                    "name": "capcomll",
+                    "position": {
+                        "x": "106.3",
+                        "y": "4.12",
+                        "z": "27.04"
+                    },
+                    "scale": {
+                        "x": "5.3",
+                        "y": "5.3",
+                        "z": 10
+                    },
+                    "rotate": {
+                        "x": "-0.823",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.569"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/HIGHWAY/bg/prefabs/capcomll.prefab",
+                    "bundlepath": "stage/prefab/highway/bg/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        }
+    ]
+}

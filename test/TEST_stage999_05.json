@@ -1,0 +1,4210 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "920.95",
+            "fClipMaxx": "945.95",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_001 (119)",
+                    "position": {
+                        "x": "921.95",
+                        "y": "10.61",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_001 (120)",
+                    "position": {
+                        "x": "921.95",
+                        "y": "14.81",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (60)",
+                    "position": {
+                        "x": "921.95",
+                        "y": "13.41",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_001 (121)",
+                    "position": {
+                        "x": "921.95",
+                        "y": "20.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_001 (122)",
+                    "position": {
+                        "x": "921.95",
+                        "y": 25,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (61)",
+                    "position": {
+                        "x": "921.95",
+                        "y": "23.6",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (21)",
+                    "position": {
+                        "x": "933.21",
+                        "y": "23.55",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (22)",
+                    "position": {
+                        "x": "929.21",
+                        "y": "23.55",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (25)",
+                    "position": {
+                        "x": "933.21",
+                        "y": "11.89",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (26)",
+                    "position": {
+                        "x": "929.21",
+                        "y": "11.89",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_001 (10)",
+                    "position": {
+                        "x": "925.3",
+                        "y": "22.21",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR03_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_001 (118)",
+                    "position": {
+                        "x": "925.3",
+                        "y": "22.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": "0.707",
+                        "z": "-0.707",
+                        "w": 0
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_001 (119)",
+                    "position": {
+                        "x": "925.3",
+                        "y": "12.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR03_001 (14)",
+                    "position": {
+                        "x": "925.3",
+                        "y": "15.51",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR03_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (38)",
+                    "position": {
+                        "x": "928.24",
+                        "y": "8.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (43)",
+                    "position": {
+                        "x": "928.24",
+                        "y": "10.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (45)",
+                    "position": {
+                        "x": "930.24",
+                        "y": "8.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (53)",
+                    "position": {
+                        "x": "932.24",
+                        "y": "8.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (57)",
+                    "position": {
+                        "x": "930.24",
+                        "y": "10.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (59)",
+                    "position": {
+                        "x": "932.24",
+                        "y": "10.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (31)",
+                    "position": {
+                        "x": "928.31",
+                        "y": "24.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (26)",
+                    "position": {
+                        "x": "928.31",
+                        "y": "26.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (47)",
+                    "position": {
+                        "x": "930.31",
+                        "y": "24.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (33)",
+                    "position": {
+                        "x": "932.31",
+                        "y": "24.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (50)",
+                    "position": {
+                        "x": "932.31",
+                        "y": "26.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (57)",
+                    "position": {
+                        "x": "930.31",
+                        "y": "26.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (44)",
+                    "position": {
+                        "x": "934.24",
+                        "y": "8.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (56)",
+                    "position": {
+                        "x": "934.24",
+                        "y": "10.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (35)",
+                    "position": {
+                        "x": "934.31",
+                        "y": "24.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (56)",
+                    "position": {
+                        "x": "934.31",
+                        "y": "26.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (61)",
+                    "position": {
+                        "x": "924.29",
+                        "y": "25.26",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (58)",
+                    "position": {
+                        "x": "924.29",
+                        "y": "27.26",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (59)",
+                    "position": {
+                        "x": "926.29",
+                        "y": "25.26",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (62)",
+                    "position": {
+                        "x": "926.29",
+                        "y": "27.26",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (60)",
+                    "position": {
+                        "x": "924.24",
+                        "y": "7.91",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (63)",
+                    "position": {
+                        "x": "924.24",
+                        "y": "9.91",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (64)",
+                    "position": {
+                        "x": "926.24",
+                        "y": "7.91",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (61)",
+                    "position": {
+                        "x": "926.24",
+                        "y": "9.91",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_001 (137)",
+                    "position": {
+                        "x": "921.95",
+                        "y": "6.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_001 (138)",
+                    "position": {
+                        "x": "921.95",
+                        "y": "10.6",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (68)",
+                    "position": {
+                        "x": "921.95",
+                        "y": "9.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_001 (139)",
+                    "position": {
+                        "x": "921.95",
+                        "y": "24.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_001 (140)",
+                    "position": {
+                        "x": "921.95",
+                        "y": "29.05",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (69)",
+                    "position": {
+                        "x": "921.95",
+                        "y": "27.65",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (20)",
+                    "position": {
+                        "x": "937.21",
+                        "y": "23.55",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (24)",
+                    "position": {
+                        "x": "937.21",
+                        "y": "11.89",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (23)",
+                    "position": {
+                        "x": "938.24",
+                        "y": "8.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (40)",
+                    "position": {
+                        "x": "936.24",
+                        "y": "8.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (55)",
+                    "position": {
+                        "x": "938.24",
+                        "y": "10.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (60)",
+                    "position": {
+                        "x": "936.24",
+                        "y": "10.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (28)",
+                    "position": {
+                        "x": "938.31",
+                        "y": "24.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (41)",
+                    "position": {
+                        "x": "936.31",
+                        "y": "24.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (51)",
+                    "position": {
+                        "x": "936.31",
+                        "y": "26.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (55)",
+                    "position": {
+                        "x": "938.31",
+                        "y": "26.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL01_001 (5)",
+                    "position": {
+                        "x": "945.23",
+                        "y": "22.93",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL01_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL01_001 (6)",
+                    "position": {
+                        "x": "945.23",
+                        "y": "18.93",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL01_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL01_001 (7)",
+                    "position": {
+                        "x": "945.23",
+                        "y": "11.88",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL01_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL01_001 (8)",
+                    "position": {
+                        "x": "945.23",
+                        "y": "7.88",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL01_001.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (19)",
+                    "position": {
+                        "x": "941.21",
+                        "y": "23.55",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (23)",
+                    "position": {
+                        "x": "941.21",
+                        "y": "11.89",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (21)",
+                    "position": {
+                        "x": "942.24",
+                        "y": "8.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (39)",
+                    "position": {
+                        "x": "940.24",
+                        "y": "8.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (54)",
+                    "position": {
+                        "x": "942.24",
+                        "y": "10.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (58)",
+                    "position": {
+                        "x": "940.24",
+                        "y": "10.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (27)",
+                    "position": {
+                        "x": "942.31",
+                        "y": "24.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (32)",
+                    "position": {
+                        "x": "940.31",
+                        "y": "24.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (52)",
+                    "position": {
+                        "x": "940.31",
+                        "y": "26.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (53)",
+                    "position": {
+                        "x": "942.31",
+                        "y": "26.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageMainCamera",
+                    "position": {
+                        "x": "934.72",
+                        "y": "16.31",
+                        "z": -18
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageMainCamera.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "4"
+                },
+                {
+                    "sGroupID": "Group-BOSS門1",
+                    "name": "MapObjEvent_1",
+                    "position": {
+                        "x": "943.78",
+                        "y": "15.25",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":17;2\"MoveToPos\":{\"x\":-900.5700073242188;2\"y\":-50.779998779296878;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bRunAtInit\":false;2\"bmgs\":\"{\\\"listMutliMove\\\":[];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"1\\\";2\\\"nIntParam1\\\":1;2\\\"nIntParam2\\\":0};2{\\\"aniName\\\":\\\"2\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0};2{\\\"aniName\\\":\\\"3\\\";2\\\"nIntParam1\\\":1;2\\\"nIntParam2\\\":0}];2\\\"bMLR\\\":false;2\\\"bLWPD\\\":false}\";2\"bmge\":\"\";2\"nSetID\":1;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":10000.5;2\"B2DY\":10000.0;2\"B2DW\":0.00009999999747378752;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"gate_00\";2\"position\":{\"x\":0.16998291015625;2\"y\":-1.3400001525878907;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/gate_00.prefab\";2\"bundlepath\":\"prefab/stage/stageobject\";2\"property\":\"0;2gate_base;2-1;21;21;20;20;2gate_center_down;2-1;21;21;20;20;2gate_center_top;2-1;21;21;20;20;2gate_lev01_down;2-1;21;21;20;20;2gate_lev01_top;2-1;21;21;20;20;2gate_lev02_down;2-1;21;21;20;20;2gate_lev02_top;2-1;21;21;20;20;2gate_lev03_down;2-1;21;21;20;20;2gate_lev03_top;2-1;21;21;20;20\"}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "945.95",
+            "fClipMaxx": "970.95",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (5)",
+                    "position": {
+                        "x": "948.32",
+                        "y": "19.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (9)",
+                    "position": {
+                        "x": "948.32",
+                        "y": "21.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (24)",
+                    "position": {
+                        "x": "948.32",
+                        "y": "8.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (22)",
+                    "position": {
+                        "x": "948.32",
+                        "y": "10.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (10)",
+                    "position": {
+                        "x": "953.3",
+                        "y": "18.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (11)",
+                    "position": {
+                        "x": "957.3",
+                        "y": "18.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (14)",
+                    "position": {
+                        "x": "949.3",
+                        "y": "18.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (3)",
+                    "position": {
+                        "x": "958.32",
+                        "y": "19.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (4)",
+                    "position": {
+                        "x": "954.32",
+                        "y": "19.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (5)",
+                    "position": {
+                        "x": "950.32",
+                        "y": "19.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (3)",
+                    "position": {
+                        "x": "956.32",
+                        "y": "19.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (4)",
+                    "position": {
+                        "x": "952.32",
+                        "y": "19.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (7)",
+                    "position": {
+                        "x": "958.32",
+                        "y": "21.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (8)",
+                    "position": {
+                        "x": "954.32",
+                        "y": "21.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (9)",
+                    "position": {
+                        "x": "950.32",
+                        "y": "21.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (10)",
+                    "position": {
+                        "x": "952.32",
+                        "y": "21.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (11)",
+                    "position": {
+                        "x": "956.32",
+                        "y": "21.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (16)",
+                    "position": {
+                        "x": "957.3",
+                        "y": "11.88",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (17)",
+                    "position": {
+                        "x": "953.3",
+                        "y": "11.88",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (18)",
+                    "position": {
+                        "x": "949.3",
+                        "y": "11.88",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (19)",
+                    "position": {
+                        "x": "958.32",
+                        "y": "8.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (20)",
+                    "position": {
+                        "x": "954.32",
+                        "y": "8.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (21)",
+                    "position": {
+                        "x": "950.32",
+                        "y": "8.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (25)",
+                    "position": {
+                        "x": "952.32",
+                        "y": "8.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (26)",
+                    "position": {
+                        "x": "956.32",
+                        "y": "8.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (23)",
+                    "position": {
+                        "x": "952.32",
+                        "y": "10.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (24)",
+                    "position": {
+                        "x": "956.32",
+                        "y": "10.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (28)",
+                    "position": {
+                        "x": "958.32",
+                        "y": "10.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (29)",
+                    "position": {
+                        "x": "954.32",
+                        "y": "10.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (30)",
+                    "position": {
+                        "x": "950.32",
+                        "y": "10.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (2)",
+                    "position": {
+                        "x": "960.32",
+                        "y": "19.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (7)",
+                    "position": {
+                        "x": "960.32",
+                        "y": "21.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (22)",
+                    "position": {
+                        "x": "960.32",
+                        "y": "8.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (25)",
+                    "position": {
+                        "x": "960.32",
+                        "y": "10.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (12)",
+                    "position": {
+                        "x": "961.3",
+                        "y": "18.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (2)",
+                    "position": {
+                        "x": "962.32",
+                        "y": "19.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (6)",
+                    "position": {
+                        "x": "962.32",
+                        "y": "21.94",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (15)",
+                    "position": {
+                        "x": "961.3",
+                        "y": "11.88",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (18)",
+                    "position": {
+                        "x": "962.32",
+                        "y": "8.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (27)",
+                    "position": {
+                        "x": "962.32",
+                        "y": "10.87",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (2)",
+                    "position": {
+                        "x": "968.16",
+                        "y": "10.37",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (6)",
+                    "position": {
+                        "x": "968.16",
+                        "y": "22.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (42)",
+                    "position": {
+                        "x": "964.73",
+                        "y": "12.45",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (8)",
+                    "position": {
+                        "x": "964.72",
+                        "y": "13.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (9)",
+                    "position": {
+                        "x": "964.72",
+                        "y": "9.65",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (43)",
+                    "position": {
+                        "x": "964.73",
+                        "y": "19.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (10)",
+                    "position": {
+                        "x": "964.73",
+                        "y": "21.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (11)",
+                    "position": {
+                        "x": "964.73",
+                        "y": "16.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (44)",
+                    "position": {
+                        "x": "964.73",
+                        "y": "23.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (12)",
+                    "position": {
+                        "x": "964.73",
+                        "y": "25.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (13)",
+                    "position": {
+                        "x": "964.73",
+                        "y": "21.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (31)",
+                    "position": {
+                        "x": "969.17",
+                        "y": "7.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (35)",
+                    "position": {
+                        "x": "967.17",
+                        "y": "7.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (32)",
+                    "position": {
+                        "x": "967.17",
+                        "y": "9.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (39)",
+                    "position": {
+                        "x": "969.17",
+                        "y": "9.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (43)",
+                    "position": {
+                        "x": "969.17",
+                        "y": "23.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (47)",
+                    "position": {
+                        "x": "967.17",
+                        "y": "23.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (44)",
+                    "position": {
+                        "x": "967.17",
+                        "y": "25.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (51)",
+                    "position": {
+                        "x": "969.17",
+                        "y": "25.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StageLight01",
+                    "position": {
+                        "x": "966.038",
+                        "y": "13.053",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.383",
+                        "y": "-0.383",
+                        "z": "0.179",
+                        "w": "0.821"
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageLight01.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "5"
+                },
+                {
+                    "sGroupID": "Group-BOSS警告&BOSS門2",
+                    "name": "MapObjEvent_2",
+                    "position": {
+                        "x": "962.27",
+                        "y": "17.35",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":17;2\"MoveToPos\":{\"x\":-21.55999755859375;2\"y\":0.0;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bRunAtInit\":false;2\"bmgs\":\"{\\\"listMutliMove\\\":[];2\\\"listMutliAni\\\":[{\\\"aniName\\\":\\\"1\\\";2\\\"nIntParam1\\\":1;2\\\"nIntParam2\\\":0};2{\\\"aniName\\\":\\\"2\\\";2\\\"nIntParam1\\\":0;2\\\"nIntParam2\\\":0};2{\\\"aniName\\\":\\\"3\\\";2\\\"nIntParam1\\\":1;2\\\"nIntParam2\\\":0}];2\\\"bMLR\\\":false;2\\\"bLWPD\\\":false}\";2\"bmge\":\"\";2\"nSetID\":2;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":10000.0;2\"B2DY\":10000.0;2\"B2DW\":1.0;2\"B2DH\":1.0;2\"Datas\":[{\"sGroupID\":\"\";2\"name\":\"gate_00\";2\"position\":{\"x\":3.1600000858306886;2\"y\":-3.440000057220459;2\"z\":0.0};2\"scale\":{\"x\":1.0;2\"y\":1.0;2\"z\":1.0};2\"rotate\":{\"x\":-0.7071068286895752;2\"y\":0.0;2\"z\":0.0;2\"w\":0.7071068286895752};2\"path\":\"Assets/Main/_AssetBundles/Art/stage/STAGE_OBJECT/prefabs/gate_00.prefab\";2\"bundlepath\":\"prefab/stage/stageobject\";2\"property\":\"0;2gate_base;2-1;21;21;20;20;2gate_center_down;2-1;21;21;20;20;2gate_center_top;2-1;21;21;20;20;2gate_lev01_down;2-1;21;21;20;20;2gate_lev01_top;2-1;21;21;20;20;2gate_lev02_down;2-1;21;21;20;20;2gate_lev02_top;2-1;21;21;20;20;2gate_lev03_down;2-1;21;21;20;20;2gate_lev03_top;2-1;21;21;20;20\"}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "970.95",
+            "fClipMaxx": "995.95",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (3)",
+                    "position": {
+                        "x": "972.16",
+                        "y": "10.37",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (7)",
+                    "position": {
+                        "x": "972.16",
+                        "y": "22.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (30)",
+                    "position": {
+                        "x": "973.17",
+                        "y": "7.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (36)",
+                    "position": {
+                        "x": "971.17",
+                        "y": "7.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (33)",
+                    "position": {
+                        "x": "971.17",
+                        "y": "9.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (38)",
+                    "position": {
+                        "x": "973.17",
+                        "y": "9.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (42)",
+                    "position": {
+                        "x": "973.17",
+                        "y": "23.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (48)",
+                    "position": {
+                        "x": "971.17",
+                        "y": "23.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (45)",
+                    "position": {
+                        "x": "971.17",
+                        "y": "25.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (50)",
+                    "position": {
+                        "x": "973.17",
+                        "y": "25.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (32)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "12.79",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (2)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "14.19",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (3)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "9.99",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (4)",
+                    "position": {
+                        "x": "976.16",
+                        "y": "10.37",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (5)",
+                    "position": {
+                        "x": "980.16",
+                        "y": "10.37",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": -1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (33)",
+                    "position": {
+                        "x": "983.61",
+                        "y": "16.96",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (4)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "18.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (5)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "14.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (40)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "21.16",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (6)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "22.56",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (7)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "18.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (8)",
+                    "position": {
+                        "x": "976.16",
+                        "y": "22.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR01_003 (9)",
+                    "position": {
+                        "x": "980.16",
+                        "y": "22.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR01_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (29)",
+                    "position": {
+                        "x": "977.17",
+                        "y": "7.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (34)",
+                    "position": {
+                        "x": "975.17",
+                        "y": "7.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (34)",
+                    "position": {
+                        "x": "975.17",
+                        "y": "9.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (37)",
+                    "position": {
+                        "x": "977.17",
+                        "y": "9.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (40)",
+                    "position": {
+                        "x": "979.17",
+                        "y": "7.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (36)",
+                    "position": {
+                        "x": "979.17",
+                        "y": "9.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (37)",
+                    "position": {
+                        "x": "981.17",
+                        "y": "7.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (42)",
+                    "position": {
+                        "x": "981.17",
+                        "y": "9.36",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (41)",
+                    "position": {
+                        "x": "977.17",
+                        "y": "23.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (46)",
+                    "position": {
+                        "x": "975.17",
+                        "y": "23.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (46)",
+                    "position": {
+                        "x": "975.17",
+                        "y": "25.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (49)",
+                    "position": {
+                        "x": "977.17",
+                        "y": "25.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (52)",
+                    "position": {
+                        "x": "979.17",
+                        "y": "23.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (48)",
+                    "position": {
+                        "x": "979.17",
+                        "y": "25.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_005 (49)",
+                    "position": {
+                        "x": "981.17",
+                        "y": "23.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_005.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "WALL03_006 (54)",
+                    "position": {
+                        "x": "981.17",
+                        "y": "25.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/WALL03_006.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (45)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "8.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (14)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "9.99",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (15)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "5.79",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (46)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "4.39",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (16)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "5.79",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (17)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "1.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (47)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "25.35",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (18)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "26.75",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (19)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "22.55",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_002 (48)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "29.45",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_002.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (20)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "30.85",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "-0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                },
+                {
+                    "sGroupID": "Group-Object",
+                    "name": "FLOOR05_003 (21)",
+                    "position": {
+                        "x": "983.6",
+                        "y": "26.65",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": "0.707",
+                        "y": 0,
+                        "z": 0,
+                        "w": "0.707"
+                    },
+                    "path": "Assets/Main/_AssetBundles/Art/stage/CYBER_SPACE/object/prefabs/FLOOR05_003.prefab",
+                    "bundlepath": "stage/prefab/cyber_space/object/prefabs_new",
+                    "property": "0,-1,1,1,0,0,,-1,1,1,0,0"
+                }
+            ]
+        }
+    ]
+}

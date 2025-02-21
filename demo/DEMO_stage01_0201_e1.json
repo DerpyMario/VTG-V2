@@ -1,0 +1,278 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "-9.6",
+            "fClipMaxx": "15.4",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": "2.9",
+                        "y": "-5.67",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;1;1"
+                },
+                {
+                    "sGroupID": "Group-鎖定鏡頭",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "-0.356",
+                        "y": "-4.316",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":-6.546304225921631;\"fMax\":191.83131408691407;\"fTop\":2.5037026405334474;\"fBtn\":-20.71629524230957;\"nType\":0;\"B2DX\":1.9527788162231446;\"B2DY\":-1.265493392944336;\"B2DW\":8.983253479003907;\"B2DH\":3.530986785888672;\"fSpeed\":10.0;\"nSetID\":0}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "15.4",
+            "fClipMaxx": "40.4",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "32.2",
+                        "y": "-11.417",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0.0;\"B2DX\":-17.837358474731447;\"B2DY\":4.633077621459961;\"B2DW\":1.3088722229003907;\"B2DH\":19.686748504638673;\"SpawnPoints\":[{\"x\":34.0;\"y\":-12.417302131652832;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":21;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0}];\"nDeadID\":-1}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "40.4",
+            "fClipMaxx": "65.4",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "EnemyEventPoint (1)",
+                    "position": {
+                        "x": "49.34",
+                        "y": "-13.27",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0.0;\"B2DX\":-22.67003059387207;\"B2DY\":4.633077621459961;\"B2DW\":1.3944282531738282;\"B2DH\":19.686748504638673;\"SpawnPoints\":[{\"x\":49.36000061035156;\"y\":-14.190000534057618;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":41;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "EnemyEventPoint (2)",
+                    "position": {
+                        "x": "58.9",
+                        "y": "-10.6",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0.0;\"B2DX\":-23.123104095458986;\"B2DY\":4.633077621459961;\"B2DW\":1.6109161376953126;\"B2DH\":19.686748504638673;\"SpawnPoints\":[{\"x\":60.70000076293945;\"y\":-11.600000381469727;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":21;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0}];\"nDeadID\":-1}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "65.4",
+            "fClipMaxx": "90.4",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "EnemyEventPoint (3)",
+                    "position": {
+                        "x": "77.2",
+                        "y": "-8.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0.0;\"B2DX\":-27.324676513671876;\"B2DY\":3.0498790740966799;\"B2DW\":1.24554443359375;\"B2DH\":22.853145599365236;\"SpawnPoints\":[{\"x\":79.0;\"y\":-9.699999809265137;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":21;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0}];\"nDeadID\":-1}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "115.4",
+            "fClipMaxx": "140.4",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "EnemyEventPoint (4)",
+                    "position": {
+                        "x": "119.8",
+                        "y": "-8.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0.0;\"B2DX\":-27.324676513671876;\"B2DY\":3.0498790740966799;\"B2DW\":1.24554443359375;\"B2DH\":22.853145599365236;\"SpawnPoints\":[{\"x\":124.1500015258789;\"y\":-13.020000457763672;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0};{\"fTime\":1.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0};{\"fTime\":2.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0}];\"nDeadID\":-1}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "140.4",
+            "fClipMaxx": "165.4",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "EnemyEventPoint (5)",
+                    "position": {
+                        "x": "154.51",
+                        "y": "-9.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0.0;\"B2DX\":-22.67003059387207;\"B2DY\":4.633077621459961;\"B2DW\":1.3944282531738282;\"B2DH\":19.686748504638673;\"SpawnPoints\":[{\"x\":154.52999877929688;\"y\":-10.720000267028809;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":41;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0}];\"nDeadID\":-1}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "165.4",
+            "fClipMaxx": "190.4",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "EnemyEventPoint (6)",
+                    "position": {
+                        "x": "174.9",
+                        "y": "-8.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0.0;\"B2DX\":-27.324676513671876;\"B2DY\":3.0498790740966799;\"B2DW\":1.24554443359375;\"B2DH\":22.853145599365236;\"SpawnPoints\":[{\"x\":176.6999969482422;\"y\":-9.699999809265137;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":21;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-鎖定鏡頭",
+                    "name": "LockRangePoint (1)",
+                    "position": {
+                        "x": "182.3",
+                        "y": "-26.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":176.11000061035157;\"fMax\":193.8000030517578;\"fTop\":-18.329999923706056;\"fBtn\":-38.099998474121097;\"nType\":0;\"B2DX\":1.9527788162231446;\"B2DY\":6.358461380004883;\"B2DW\":8.983253479003907;\"B2DH\":2.5144615173339845;\"fSpeed\":18.0;\"nSetID\":0}"
+                }
+            ]
+        }
+    ]
+}

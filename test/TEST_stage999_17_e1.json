@@ -1,0 +1,110 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "-25.6",
+            "fClipMaxx": "-0.6",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Start & End",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": "-13.1",
+                        "y": "-14.6",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ1;1;0;1;0;0;0"
+                },
+                {
+                    "sGroupID": "Group-276684",
+                    "name": "13_EnemyEventPoint",
+                    "position": {
+                        "x": "-19.42",
+                        "y": "-11.72",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0.0;\"sSave\":\"0;0;1;0;0\";\"B2DX\":10.204044342041016;\"B2DY\":-3.785752296447754;\"B2DW\":9.955406188964844;\"B2DH\":11.232168197631836;\"SpawnPoints\":[{\"x\":-20.860000610351564;\"y\":-11.84000015258789;\"z\":0.0};{\"x\":-15.65999984741211;\"y\":-11.720000267028809;\"z\":0.0};{\"x\":-17.670000076293947;\"y\":-11.720000267028809;\"z\":0.0};{\"x\":-19.420000076293947;\"y\":-11.720000267028809;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":1811;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":33;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":0.0;\"nID\":1811;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":999;\"nStageCustomType\":0;\"nStageCustomParams\":[0;0;0]};{\"fTime\":0.0;\"nID\":1811;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":999;\"nStageCustomType\":0;\"nStageCustomParams\":[0;0;0]};{\"fTime\":0.0;\"nID\":1811;\"nDeadID\":0;\"bBack\":false;\"nPosID\":2;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":999;\"nStageCustomType\":0;\"nStageCustomParams\":[0;0;0]};{\"fTime\":0.0;\"nID\":1811;\"nDeadID\":0;\"bBack\":false;\"nPosID\":3;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":999;\"nStageCustomType\":0;\"nStageCustomParams\":[0;0;0]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-視角鎖定",
+                    "name": "503_LockRangePoint_BATTLE_1",
+                    "position": {
+                        "x": "-16.45",
+                        "y": "-13.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":-22.810001373291017;\"fMax\":3.5999984741210939;\"fTop\":-7.300000190734863;\"fBtn\":-22.109996795654298;\"nType\":0;\"B2DX\":3.0156545639038088;\"B2DY\":11.403785705566407;\"B2DW\":1.0767993927001954;\"B2DH\":1.026656150817871;\"fSpeed\":10.0;\"nSetID\":503;\"sMsg\":\"0;0.000;1;0;0;0;0\"}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "99.4",
+            "fClipMaxx": "124.4",
+            "Datas": [
+                {
+                    "sGroupID": "Group-Start & End",
+                    "name": "MapObjEvent",
+                    "position": {
+                        "x": "111.23",
+                        "y": "-15.83",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ2{\"mapEvent\":4;2\"MoveToPos\":{\"x\":-11.298652648925782;2\"y\":6.599264144897461;2\"z\":0.0};2\"fDelayTime\":0.0;2\"fMoveTime\":0.0;2\"bLoop\":false;2\"nType\":0;2\"bCheckPlayer\":true;2\"bCheckEnemy\":false;2\"bCheckRideObj\":true;2\"bRunAtInit\":false;2\"bUB2D\":true;2\"nCommonBit\":0;2\"bmgs\":\"\";2\"bmge\":\"\";2\"nSetID\":0;2\"mspd\":{\"serializedVersion\":\"2\";2\"m_Curve\":[];2\"m_PreInfinity\":2;2\"m_PostInfinity\":2;2\"m_RotationOrder\":4};2\"B2DX\":0.6074905395507813;2\"B2DY\":-0.22780990600585938;2\"B2DW\":4.341217041015625;2\"B2DH\":4.037452697753906;2\"Datas\":[]}"
+                }
+            ]
+        }
+    ]
+}

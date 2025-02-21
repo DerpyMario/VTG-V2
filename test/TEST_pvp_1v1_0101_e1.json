@@ -1,0 +1,87 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": -1,
+            "fClipMaxx": 24,
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint_左",
+                    "position": {
+                        "x": "0.4",
+                        "y": "-0.32",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;1;1"
+                },
+                {
+                    "sGroupID": "Group-鎖定鏡頭",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": 0,
+                        "y": "-0.61",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":-8.0;\"fMax\":63.0;\"fTop\":14.160000801086426;\"fBtn\":-21.65999984741211;\"nType\":0;\"B2DX\":0.0;\"B2DY\":5.0;\"B2DW\":5.0;\"B2DH\":10.0;\"fSpeed\":10.0;\"nSetID\":0;\"sMsg\":\"0\"}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": 49,
+            "fClipMaxx": 74,
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint_右",
+                    "position": {
+                        "x": "56.4",
+                        "y": "-0.32",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;0;1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,825 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "-12.8",
+            "fClipMaxx": "12.2",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": "-0.3",
+                        "y": "-4.42",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;1;1;0;0;0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "MapObjEvent",
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ1{\"mapEvent\":9;1\"MoveToPos\":{\"x\":0.0;1\"y\":0.0;1\"z\":0.0};1\"fDelayTime\":0.0;1\"fMoveTime\":0.0;1\"bLoop\":false;1\"nType\":0;1\"bCheckPlayer\":true;1\"bCheckEnemy\":false;1\"bCheckRideObj\":true;1\"bRunAtInit\":false;1\"bUB2D\":true;1\"nCommonBit\":0;1\"bmgs\":\"stage_1_1_start\";1\"bmge\":\"stage_1_1_lop\";1\"nSetID\":0;1\"mspd\":{\"keys\":[];1\"length\":0;1\"preWrapMode\":8;1\"postWrapMode\":8};1\"B2DX\":0.37;1\"B2DY\":-4.24;1\"B2DW\":3.8;1\"B2DH\":1.58;1\"Datas\":[]}"
+                },
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "4.64",
+                        "y": "-2.59",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":0;\"B2DY\":\"0.256\";\"B2DW\":1;\"B2DH\":\"9.503\";\"SpawnPoints\":[{\"x\":20.99;\"y\":-3.23999977;\"z\":0.0};{\"x\":25.64;\"y\":-2.05;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":21;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":0.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":1.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":2.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域1",
+                    "name": "DeadAreaEvent",
+                    "position": {
+                        "x": "6.42",
+                        "y": "-17.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"2.709\";\"B2DY\":0;\"B2DW\":\"6.418\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":6.42;\"y\":-3.30000019;\"z\":0.0}]}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域1",
+                    "name": "DeadAreaEvent (3)",
+                    "position": {
+                        "x": "-8.65",
+                        "y": "-17.1",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"-7.47\";\"B2DY\":0;\"B2DW\":\"26.776\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":-8.65;\"y\":-3.30000019;\"z\":0.0}]}"
+                },
+                {
+                    "sGroupID": "Group-鎖定移動",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "-0.1",
+                        "y": "-2.594",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":\"-5.07\";\"fMax\":\"217.923\";\"fTop\":\"11.406\";\"fBtn\":\"-19.524\";\"nType\":1;\"B2DX\":\"0.564\";\"B2DY\":\"3.971\";\"B2DW\":\"5.183\";\"B2DH\":\"12.819\";\"fSpeed\":10;\"nSetID\":0;\"sMsg\":\"0;0.000;1;0;0;0;0;0\"}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "12.2",
+            "fClipMaxx": "37.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "34.08",
+                        "y": "-0.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":true;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":true;\"fDTime\":2;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":\"-4.928\";\"B2DY\":\"1.493\";\"B2DW\":\"2.264\";\"B2DH\":\"10.885\";\"SpawnPoints\":[{\"x\":43.9;\"y\":2.09000015;\"z\":0.0};{\"x\":22.9800014;\"y\":-0.199999809;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":2.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":1.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":3.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-鎖定移動",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "34.08",
+                        "y": "0.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":\"26.91\";\"fMax\":\"41.31\";\"fTop\":\"5.12\";\"fBtn\":\"-8.06\";\"nType\":0;\"B2DX\":\"-4.891\";\"B2DY\":\"0.269\";\"B2DW\":\"2.402\";\"B2DH\":\"9.682\";\"fSpeed\":10;\"nSetID\":0;\"sMsg\":\"0;0.000;1;0;0;0;0;0\"}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "37.2",
+            "fClipMaxx": "62.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "47.7",
+                        "y": "0.309",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":0;\"B2DY\":\"-0.606\";\"B2DW\":1;\"B2DH\":\"13.026\";\"SpawnPoints\":[{\"x\":63.25;\"y\":-5.651;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":41;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint (1)",
+                    "position": {
+                        "x": "57.28",
+                        "y": "0.309",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":0;\"B2DY\":\"-0.606\";\"B2DW\":1;\"B2DH\":\"13.026\";\"SpawnPoints\":[{\"x\":54.68;\"y\":9.30864;\"z\":0.0};{\"x\":80.8100052;\"y\":-1.30136013;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":1.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":2.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":0.0;\"nID\":21;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域1",
+                    "name": "DeadAreaEvent (1)",
+                    "position": {
+                        "x": 42,
+                        "y": -17,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"2.709\";\"B2DY\":0;\"B2DW\":\"6.418\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":42.7;\"y\":-2.0;\"z\":0.0}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "62.2",
+            "fClipMaxx": "87.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "68.97",
+                        "y": "-4.08",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":0;\"B2DY\":\"0.132\";\"B2DW\":1;\"B2DH\":\"7.187\";\"SpawnPoints\":[{\"x\":86.7;\"y\":-1.28;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":1.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":2.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域1",
+                    "name": "DeadAreaEvent (2)",
+                    "position": {
+                        "x": "70.1",
+                        "y": "-16.99",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"6.951\";\"B2DY\":0;\"B2DW\":\"14.902\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":68.64;\"y\":-4.74;\"z\":0.0}]}"
+                },
+                {
+                    "sGroupID": "Group-鎖定移動",
+                    "name": "LockRangePoint",
+                    "position": {
+                        "x": "86.12",
+                        "y": "-0.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":\"87.85\";\"fMax\":\"102.67\";\"fTop\":\"6.12\";\"fBtn\":\"-6.8\";\"nType\":0;\"B2DX\":\"2.5\";\"B2DY\":\"0.609\";\"B2DW\":1;\"B2DH\":8;\"fSpeed\":12;\"nSetID\":0;\"sMsg\":\"0;0.000;1;0;0;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-BOSS警告",
+                    "name": "StageCtrlEvent (2)",
+                    "position": {
+                        "x": "86.1",
+                        "y": "0.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":0;\"B2DY\":\"-0.298\";\"B2DW\":1;\"B2DH\":\"7.651\";\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":20;\"fTime\":1.0;\"fWait\":0.1;\"nParam1\":91.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":1.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0;\"bUB2D\":true;\"bDDF\":false;\"nDF\":0;\"bNoUnlockRange\":false}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "87.2",
+            "fClipMaxx": "112.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "91.45",
+                        "y": "-3.75",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":true;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":\"-2.545\";\"B2DY\":\"2.057\";\"B2DW\":\"0.976\";\"B2DH\":\"12.142\";\"SpawnPoints\":[{\"x\":98.18;\"y\":-0.03999996;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":51;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域2",
+                    "name": "DeadAreaEvent (10)",
+                    "position": {
+                        "x": 94,
+                        "y": "-27.7",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 4,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"0.816\";\"B2DY\":0;\"B2DW\":\"65.955\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":91.19993;\"y\":-10.9000015;\"z\":0.0}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "112.2",
+            "fClipMaxx": "137.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "114.563",
+                        "y": "-0.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":0;\"B2DY\":\"1.1\";\"B2DW\":1;\"B2DH\":\"14.201\";\"SpawnPoints\":[{\"x\":131.423;\"y\":-1.26;\"z\":0.0};{\"x\":110.493004;\"y\":4.93;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":21;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":0.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":1.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":2.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "125.643",
+                        "y": "-0.05",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":0;\"B2DY\":\"0.323\";\"B2DW\":1;\"B2DH\":\"11.333\";\"SpawnPoints\":[{\"x\":143.233;\"y\":-3.2;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":41;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域2",
+                    "name": "DeadAreaEvent (3)",
+                    "position": {
+                        "x": "132.123",
+                        "y": "-16.99",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"6.951\";\"B2DY\":0;\"B2DW\":\"14.902\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":132.123016;\"y\":-0.789999;\"z\":0.0}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "137.2",
+            "fClipMaxx": "162.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "137.803",
+                        "y": "-2.82",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":0;\"B2DY\":\"0.172\";\"B2DW\":1;\"B2DH\":\"6.836\";\"SpawnPoints\":[{\"x\":140.883;\"y\":3.64;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":31;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":1.0;\"nID\":31;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":2.0;\"nID\":31;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "158.943",
+                        "y": "-0.444",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":true;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":true;\"fDTime\":2;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":\"-0.529\";\"B2DY\":\"-0.825\";\"B2DW\":\"2.057\";\"B2DH\":\"10.669\";\"SpawnPoints\":[{\"x\":156.653;\"y\":-4.40400028;\"z\":0.0};{\"x\":166.093;\"y\":2.486;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":2.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":4.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":0.0;\"nID\":31;\"nDeadID\":0;\"bBack\":true;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":1.0;\"nID\":31;\"nDeadID\":0;\"bBack\":true;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":2.0;\"nID\":31;\"nDeadID\":0;\"bBack\":true;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-鎖定移動",
+                    "name": "LockRangePoint (5)",
+                    "position": {
+                        "x": "154.573",
+                        "y": "-1.11",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":\"153.773\";\"fMax\":\"169.073\";\"fTop\":\"4.31\";\"fBtn\":\"-11.68\";\"nType\":0;\"B2DX\":\"2.751\";\"B2DY\":\"0.109\";\"B2DW\":\"1.812\";\"B2DH\":\"10.524\";\"fSpeed\":10;\"nSetID\":0;\"sMsg\":\"0;0.000;1;0;0;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域2",
+                    "name": "DeadAreaEvent (4)",
+                    "position": {
+                        "x": "147.873",
+                        "y": "-16.38",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"6.951\";\"B2DY\":0;\"B2DW\":\"14.902\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":151.872986;\"y\":-2.88;\"z\":0.0}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "162.2",
+            "fClipMaxx": "187.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "168.023",
+                        "y": "-1.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":0;\"B2DY\":\"1.239\";\"B2DW\":1;\"B2DH\":\"15.371\";\"SpawnPoints\":[{\"x\":183.123;\"y\":-1.28000009;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":41;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint (2)",
+                    "position": {
+                        "x": "178.023",
+                        "y": "-1.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":0;\"bDead\":false;\"fDTime\":0;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":0;\"B2DY\":\"1.239\";\"B2DW\":1;\"B2DH\":\"15.371\";\"SpawnPoints\":[{\"x\":193.123;\"y\":1.48999977;\"z\":0.0};{\"x\":175.312988;\"y\":4.08;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":2.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":4.0;\"nID\":11;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":0.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":1.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]};{\"fTime\":2.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-生怪事件",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "187.123",
+                        "y": "-0.228",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":0;\"nEndParam1\":0;\"nSetID\":50;\"bDead\":false;\"fDTime\":0;\"sSave\":\"0;0;1;0;0;0\";\"B2DX\":0;\"B2DY\":\"27.081\";\"B2DW\":1;\"B2DH\":\"4.274\";\"SpawnPoints\":[{\"x\":210.523;\"y\":-16.828001;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":61;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0;\"nSCEID\":0;\"nStickWall\":0;\"fAiRange\":0.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"nEventCtrlID\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域2",
+                    "name": "DeadAreaEvent (5)",
+                    "position": {
+                        "x": "166.543",
+                        "y": "-14.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"6.951\";\"B2DY\":0;\"B2DW\":\"14.902\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":166.643021;\"y\":-4.90000057;\"z\":0.0}]}"
+                },
+                {
+                    "sGroupID": "Group-死亡區域2",
+                    "name": "DeadAreaEvent (9)",
+                    "position": {
+                        "x": "185.663",
+                        "y": "-16.6",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/DeadAreaEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "9,DEADAREA_OBJ{\"bCheckPlayer\":true;\"bCheckEnemy\":true;\"bMoveByNotify\":false;\"bEnemyByNotify\":false;\"nType\":0;\"B2DX\":\"10.525\";\"B2DY\":0;\"B2DW\":\"22.05\";\"B2DH\":1;\"ReturnPoints\":[{\"x\":184.963013;\"y\":0.200000763;\"z\":0.0}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "187.2",
+            "fClipMaxx": "212.2",
+            "Datas": [
+                {
+                    "sGroupID": "Group-BOSS警告",
+                    "name": "StageCtrlEvent (1)",
+                    "position": {
+                        "x": "195.93",
+                        "y": "0.8",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":0;\"B2DY\":\"-0.298\";\"B2DW\":1;\"B2DH\":\"7.651\";\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":23;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":20;\"fTime\":2.0;\"fWait\":0.1;\"nParam1\":202.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":15;\"fTime\":3.0;\"fWait\":1.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":2.5;\"nParam1\":50.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":24;\"fTime\":0.0;\"fWait\":0.2;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":17;\"fTime\":0.0;\"fWait\":0.1;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":25;\"fTime\":0.0;\"fWait\":0.1;\"nParam1\":100.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":1.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0;\"bUB2D\":true;\"bDDF\":false;\"nDF\":0;\"bNoUnlockRange\":false}"
+                },
+                {
+                    "sGroupID": "Group-BOSS警告",
+                    "name": "LockRangePoint (8)",
+                    "position": {
+                        "x": "197.423",
+                        "y": "1.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":\"196.963\";\"fMax\":\"217.213\";\"fTop\":\"8.22\";\"fBtn\":\"-3.99\";\"nType\":0;\"B2DX\":\"1.852\";\"B2DY\":\"0.672\";\"B2DW\":\"1.928\";\"B2DH\":\"15.774\";\"fSpeed\":10;\"nSetID\":0;\"sMsg\":\"0;0.000;1;0;0;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-BOSS警告",
+                    "name": "LockRangePoint (7)",
+                    "position": {
+                        "x": "204.503",
+                        "y": "1.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":\"204.483\";\"fMax\":\"218.903\";\"fTop\":\"8.22\";\"fBtn\":\"-3.99\";\"nType\":0;\"B2DX\":\"1.291\";\"B2DY\":\"0.672\";\"B2DW\":\"1.768\";\"B2DH\":\"15.774\";\"fSpeed\":10;\"nSetID\":0;\"sMsg\":\"0;0.000;1;0;0;0;0;0\"}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "237.2",
+            "fClipMaxx": "262.2",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "MapObjEvent",
+                    "position": {
+                        "x": "252.323",
+                        "y": "18.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/MapObjEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "10,MAPEVENT_OBJ1{\"mapEvent\":4;1\"MoveToPos\":{\"x\":-6.52301025;1\"y\":0.0;1\"z\":0.0};1\"fDelayTime\":0.0;1\"fMoveTime\":0.0;1\"bLoop\":false;1\"nType\":0;1\"bCheckPlayer\":true;1\"bCheckEnemy\":false;1\"bCheckRideObj\":true;1\"bRunAtInit\":false;1\"bUB2D\":true;1\"nCommonBit\":0;1\"bmgs\":\"\";1\"bmge\":\"\";1\"nSetID\":0;1\"mspd\":{\"keys\":[];1\"length\":0;1\"preWrapMode\":8;1\"postWrapMode\":8};1\"B2DX\":0.0;1\"B2DY\":0.650931835;1\"B2DW\":1.0;1\"B2DH\":7.87638;1\"Datas\":[]}"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "-2.5",
+            "fClipMaxx": "22.5",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": 10,
+                        "y": "-68.48",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ0;1;1;1;0;0;0"
+                },
+                {
+                    "sGroupID": "Group-BOSS警告&開門2",
+                    "name": "StageCtrlEvent",
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":0.0;\"B2DY\":0.0;\"B2DW\":1.0;\"B2DH\":1.0;\"StageCtrlInsTructions\":[{\"tStageCtrl\":41;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":7.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":1.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":33;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":407001.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":33;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":407101.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":50;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":100001;\"bUB2D\":true;\"bNoUnlockRange\":false}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "22.5",
+            "fClipMaxx": "47.5",
+            "Datas": [
+                {
+                    "sGroupID": "Group-鎖定",
+                    "name": "501_LockRangePoint",
+                    "position": {
+                        "x": "42.7",
+                        "y": "-68.3",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":-1.5499992370605469;\"fMax\":74.32000732421875;\"fTop\":-59.6400032043457;\"fBtn\":-80.60000610351563;\"nType\":0;\"B2DX\":-32.82685852050781;\"B2DY\":-1.5981273651123047;\"B2DW\":5.162275314331055;\"B2DH\":5.945644378662109;\"fSpeed\":15.0;\"nSetID\":0;\"sMsg\":\"0;0.000;1;0;0;0;0\"}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "47.5",
+            "fClipMaxx": "72.5",
+            "Datas": [
+                {
+                    "sGroupID": "Group-BOSS警告&開門2",
+                    "name": "StageCtrlEvent",
+                    "position": {
+                        "x": "68.48",
+                        "y": "-67.9",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":2.4182777404785158;\"B2DY\":-0.834869384765625;\"B2DW\":0.8764877319335938;\"B2DH\":5.4949798583984379;\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":23;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":103.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":20;\"fTime\":3.0;\"fWait\":3.0;\"nParam1\":76.5;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":28;\"fTime\":0.0;\"fWait\":0.5;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":22;\"fTime\":3.0;\"fWait\":0.10000000149011612;\"nParam1\":83.5;\"nParam2\":-69.19700622558594;\"sMsg\":\"0\"};{\"tStageCtrl\":15;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":41;\"fTime\":0.0;\"fWait\":3.5;\"nParam1\":11.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":57;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":12.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":50.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":1.0;\"nParam1\":101.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":104.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":102.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":105.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":41;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":19.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":100.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":57;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":999.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":17;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":24;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":25;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":100.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":29;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":29;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":0;\"bUB2D\":true;\"bNoUnlockRange\":false}"
+                },
+                {
+                    "sGroupID": "Group-鎖定",
+                    "name": "502_LockRangePoint_BOSS",
+                    "position": {
+                        "x": "65.6",
+                        "y": "-68.2",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/LockRangePoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "7,LOCK_RANGE_OBJ{\"fMin\":70.37999725341797;\"fMax\":93.39999389648438;\"fTop\":-59.69999694824219;\"fBtn\":-79.06999969482422;\"nType\":0;\"B2DX\":5.853599548339844;\"B2DY\":100.51568603515625;\"B2DW\":0.749053955078125;\"B2DH\":5.451202392578125;\"fSpeed\":10.0;\"nSetID\":502;\"sMsg\":\"0;0.000;1;0;0;0;0\"}"
+                },
+                {
+                    "sGroupID": "Group-怪物",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "64.71",
+                        "y": "-73.4",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":false;\"nEndEventID\":26;\"nEndParam1\":100001;\"nSetID\":50;\"bDead\":false;\"fDTime\":0.0;\"sSave\":\"0;0;1;0;0\";\"B2DX\":0.0;\"B2DY\":27.08075714111328;\"B2DW\":1.0;\"B2DH\":4.273612976074219;\"SpawnPoints\":[{\"x\":86.69999694824219;\"y\":-57.980003356933597;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":101281;\"nDeadID\":0;\"bBack\":true;\"nPosID\":0;\"nSCEID\":1;\"nStickWall\":0;\"fAiRange\":30.0;\"fAiRangeY\":0.0;\"fOffsetX\":0.0;\"fOffsetY\":0.0;\"lsDlItm\":[];\"nPatrolId\":0;\"bIsLoop\":false;\"nMoveSpeed\":0;\"lsPatrolPath\":[];\"nSummonEventId\":0;\"nStageCustomType\":0;\"nStageCustomParams\":[]}];\"nDeadID\":-1}]}"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "72.5",
+            "fClipMaxx": "97.5",
+            "Datas": [
+                {
+                    "sGroupID": "Group-BOSS警告&開門2",
+                    "name": "StageCtrlEvent",
+                    "position": {
+                        "x": "82.19",
+                        "y": "-59.71",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":0.0;\"B2DY\":0.0;\"B2DW\":1.0;\"B2DH\":1.0;\"StageCtrlInsTructions\":[{\"tStageCtrl\":53;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406101.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":50.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":59;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"bs016stage56;0\"};{\"tStageCtrl\":44;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":86.69999694824219;\"sMsg\":\"-70;1\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":21.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.30000001192092898;\"nParam1\":406201.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":22.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406301.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":23.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":25;\"fTime\":0.0;\"fWait\":0.5;\"nParam1\":200.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":58;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":9.0;\"sMsg\":\"1;9;1\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"BS016_Animator;0\"};{\"tStageCtrl\":17;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":24;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":53;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":43;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":999.0;\"sMsg\":\"\"}];\"nSetID\":100;\"bUB2D\":true;\"bNoUnlockRange\":false}"
+                },
+                {
+                    "sGroupID": "Group-BOSS警告&開門2",
+                    "name": "StageCtrlEvent",
+                    "position": {
+                        "x": "82.19",
+                        "y": "-59.71",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":0.0;\"B2DY\":0.0;\"B2DW\":1.0;\"B2DH\":1.0;\"StageCtrlInsTructions\":[{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.20000000298023225;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":52;\"fTime\":0.0;\"fWait\":1.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"ShowExplodeWhite;0;0\"};{\"tStageCtrl\":53;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":46;\"fTime\":0.0;\"fWait\":4.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;0;86.7;-70.8\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;0;1;0\"};{\"tStageCtrl\":49;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"0;0;0;0\"};{\"tStageCtrl\":46;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"2;0;78;-70.8\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"2;1;0;0\"};{\"tStageCtrl\":52;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"CloseExplodeWhite;0;0\"};{\"tStageCtrl\":42;\"fTime\":1.0;\"fWait\":3.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"bs016stage562;0\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"MScene56;0\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":24.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406401.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":45;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"800001;100904;0;52;-68;3\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"3;0;1;0\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"SetFly\"};{\"tStageCtrl\":46;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"3;1;-1.5;10\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"UnSetFly\"};{\"tStageCtrl\":44;\"fTime\":1.5;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":-1.5;\"sMsg\":\"1.7;0\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"SetFly\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":3.0;\"nParam2\":0.0;\"sMsg\":\"Yero56;1\"};{\"tStageCtrl\":16;\"fTime\":3.0;\"fWait\":1.0;\"nParam1\":406501.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":21.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":52;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"ShowExplodeWhite;0;0\"};{\"tStageCtrl\":46;\"fTime\":0.0;\"fWait\":4.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"3;2;1.5;0\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"3;1;0;0\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":22.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":52;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"CloseExplodeWhite;0;0\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":25.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":23.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406601.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":24.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406701.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":25.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406801.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"Telopout\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":0.5;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"ReAnimator;0\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406901.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":26.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"BS016_Animator;0\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":53;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":110;\"bUB2D\":true;\"bNoUnlockRange\":false}"
+                },
+                {
+                    "sGroupID": "Group-BOSS警告&開門2",
+                    "name": "StageCtrlEvent",
+                    "position": {
+                        "x": "82.19",
+                        "y": "-59.71",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StageCtrlEvent.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "12,STAGECTRL_OBJ{\"B2DX\":0.0;\"B2DY\":0.0;\"B2DW\":1.0;\"B2DH\":1.0;\"StageCtrlInsTructions\":[{\"tStageCtrl\":53;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406101.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":50.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":59;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"bs016stage56;0\"};{\"tStageCtrl\":44;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":86.69999694824219;\"sMsg\":\"-70;1\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":21.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.30000001192092898;\"nParam1\":406201.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":22.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406301.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":23.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":25;\"fTime\":0.0;\"fWait\":0.5;\"nParam1\":200.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":58;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":9.0;\"sMsg\":\"1;9;1\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"BS016_Animator;0\"};{\"tStageCtrl\":17;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":24;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":14;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":502.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":53;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":60;\"fTime\":1.0;\"fWait\":10.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":18;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":52;\"fTime\":0.0;\"fWait\":1.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"ShowExplodeWhite;0;0\"};{\"tStageCtrl\":53;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":46;\"fTime\":0.0;\"fWait\":4.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;0;86.7;-70.8\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"1;0;1;0\"};{\"tStageCtrl\":49;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"0;0;0;0\"};{\"tStageCtrl\":46;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"2;0;78;-70.8\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"2;1;0;0\"};{\"tStageCtrl\":52;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"CloseExplodeWhite;0;0\"};{\"tStageCtrl\":42;\"fTime\":1.0;\"fWait\":3.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"bs016stage562;0\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"MScene56;0\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":24.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":1;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406401.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":45;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"800001;100904;0;52;-68;3\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"3;0;1;0\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"SetFly\"};{\"tStageCtrl\":46;\"fTime\":0.0;\"fWait\":0.10000000149011612;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"3;1;-1.5;10\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"UnSetFly\"};{\"tStageCtrl\":44;\"fTime\":1.5;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":-1.5;\"sMsg\":\"1.7;0\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"SetFly\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":3.0;\"nParam2\":0.0;\"sMsg\":\"Yero56;1\"};{\"tStageCtrl\":16;\"fTime\":3.0;\"fWait\":1.0;\"nParam1\":406501.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":21.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":52;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"ShowExplodeWhite;0;0\"};{\"tStageCtrl\":46;\"fTime\":0.0;\"fWait\":4.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"3;2;1.5;0\"};{\"tStageCtrl\":48;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"3;1;0;0\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":22.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":52;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"CloseExplodeWhite;0;0\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":25.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":23.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406601.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":24.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406701.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":25.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406801.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":3.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"Telopout\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":0.5;\"nParam1\":2.0;\"nParam2\":0.0;\"sMsg\":\"ReAnimator;0\"};{\"tStageCtrl\":16;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":406901.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":26.0;\"nParam2\":1.0;\"sMsg\":\"\"};{\"tStageCtrl\":42;\"fTime\":0.0;\"fWait\":2.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"BS016_Animator;0\"};{\"tStageCtrl\":40;\"fTime\":1.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":2;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":19;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":0.0;\"nParam2\":0.0;\"sMsg\":\"\"};{\"tStageCtrl\":53;\"fTime\":0.0;\"fWait\":0.0;\"nParam1\":1.0;\"nParam2\":0.0;\"sMsg\":\"\"}];\"nSetID\":10099;\"bUB2D\":true;\"bNoUnlockRange\":false}"
+                }
+            ]
+        }
+    ]
+}
