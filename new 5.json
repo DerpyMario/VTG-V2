@@ -1,0 +1,52 @@
+          "property": "10,MAPEVENT_OBJ2
+             {            
+               "mapEvent": 16;2
+               "MoveToPos": {
+                 "x": 18;2
+                 "y": 1;2
+                 "z": 0
+               },;2
+               "fDelayTime": 0;2
+               "fMoveTime": 20;2
+               "bLoop": false;2
+               "nType": 0;2
+               "bCheckPlayer": true;2
+               "bCheckEnemy": false;2
+               "bCheckRideObj": true;2
+               "bRunAtInit": false;2
+               "bUB2D": true;2
+               "nCommonBit": 0;2
+               "bmgs": {
+                 "listMutliMove": [
+                   {
+                     "tMovePos": {
+                       "x": 0;2
+                       "y": 0;2
+                       "z": 0
+                     },;2
+                     "fMoveTime": 0;2
+                     "fDT": 0;2
+                     "nIntParam1": 960001
+                   };2
+                 "listMutliAni": [
+                   {
+                     "aniName": "";2
+                     "nIntParam1": 0;2
+                     "nIntParam2": 0
+                   };2
+                 "nBitParam0": 0
+               },;2
+               "bmge": "";2
+               "nSetID": 0;2
+               "mspd": {
+                 "keys": [];2
+                 "length": 0;2
+                 "preWrapMode": 8;2
+                 "postWrapMode": 8
+               },;2
+               "B2DX": 0.0;2
+               "B2DY": 0.0;2
+               "B2DW": 1.0;2
+               "B2DH": 1.0;2
+               "Datas": []
+             }"
